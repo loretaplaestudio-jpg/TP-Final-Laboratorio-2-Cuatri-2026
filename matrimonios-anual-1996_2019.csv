@@ -1,0 +1,3989 @@
+anio,municipio_id,municipio_nombre,tipo,cantidad
+1996,6007,Adolfo Alsina,,61
+1996,6021,Alberti,,37
+1996,6028,Almirante Brown,,1938
+1996,6077,Arrecifes,,89
+1996,6035,Avellaneda,,1550
+1996,6042,Ayacucho,,75
+1996,6049,Azul,,279
+1996,6056,Bahía Blanca,,1357
+1996,6063,Balcarce,,190
+1996,6070,Baradero,,107
+1996,6084,Benito Juárez,,48
+1996,6091,Berazategui,,2008
+1996,6098,Berisso,,297
+1996,6105,Bolívar,,124
+1996,6112,Bragado,,158
+1996,6126,Campana,,343
+1996,6134,Cañuelas,,166
+1996,6140,Capitán Sarmiento,,49
+1996,6147,Carlos Casares,,91
+1996,6154,Carlos Tejedor,,42
+1996,6161,Carmen de Areco,,47
+1996,6602,Patagones,,84
+1996,6168,Castelli,,25
+1996,6210,Chacabuco,,194
+1996,6218,Chascomús,,139
+1996,6224,Chivilcoy,,232
+1996,6175,Colón,,89
+1996,6119,Brandsen,,171
+1996,6189,Coronel Dorrego,,69
+1996,6196,Coronel Pringles,,94
+1996,6182,Coronel de Marina Leonardo Rosales,,163
+1996,6203,Coronel Suárez,,171
+1996,6231,Daireaux,,50
+1996,6420,La Costa,,238
+1996,6238,Dolores,,118
+1996,6245,Ensenada,,241
+1996,6252,Escobar,,675
+1996,6260,Esteban Echeverría,,1032
+1996,6266,Exaltación de la Cruz,,94
+1996,6270,Ezeiza,,422
+1996,6274,Florencio Varela,,1084
+1996,6277,Florentino Ameghino,,38
+1996,6280,General Alvarado,,155
+1996,6287,General Alvear,,37
+1996,6294,General Arenales,,52
+1996,6301,General Belgrano,,55
+1996,6308,General Guido,,10
+1996,6322,General la Madrid,,40
+1996,6329,General las Heras,,44
+1996,6336,General Lavalle,,10
+1996,6315,General Juan Madariaga,,77
+1996,6343,General Paz,,48
+1996,6351,General Pinto,,29
+1996,6357,General Pueyrredón,,2624
+1996,6364,General Rodríguez,,250
+1996,6371,General San Martín,,1509
+1996,6385,General Viamonte,,60
+1996,6392,General Villegas,,101
+1996,6014,Adolfo Gonzales Chaves,,46
+1996,6399,Guaminí,,48
+1996,6406,Hipólito Yrigoyen,,54
+1996,6408,Hurlingham,,773
+1996,6410,Ituzaingó,,542
+1996,6412,José C. Paz,,881
+1996,6413,Junín,,388
+1996,6427,La Matanza,,5159
+1996,6441,La Plata,,2921
+1996,6434,Lanús,,1908
+1996,6448,Laprida,,36
+1996,6455,Las Flores,,94
+1996,6462,Leandro N. Alem,,60
+1996,6466,Lezama,,19
+1996,6469,Lincoln,,143
+1996,6476,Lobería,,54
+1996,6483,Lobos,,123
+1996,6490,Lomas de Zamora,,2441
+1996,6497,Luján,,364
+1996,6505,Magdalena,,79
+1996,6511,Maipú,,38
+1996,6515,Malvinas Argentinas,,934
+1996,6518,Mar Chiquita,,133
+1996,6525,Marcos Paz,,133
+1996,6532,Mercedes,,227
+1996,6539,Merlo,,1910
+1996,6553,Monte Hermoso,,15
+1996,6560,Moreno,,1107
+1996,6568,Morón,,1535
+1996,6574,Navarro,,60
+1996,6581,Necochea,,242
+1996,6588,9 de Julio,,229
+1996,6595,Olavarría,,469
+1996,6609,Pehuajó,,133
+1996,6616,Pellegrini,,24
+1996,6623,Pergamino,,378
+1996,6630,Pila,,11
+1996,6638,Pilar,,612
+1996,6644,Pinamar,,60
+1996,6648,Presidente Perón,,43
+1996,6651,Puán,,57
+1996,6655,Punta Indio,,35
+1996,6658,Quilmes,,2902
+1996,6665,Ramallo,,114
+1996,6672,Rauch,,63
+1996,6679,Rivadavia,,53
+1996,6686,Rojas,,73
+1996,6693,Roque Pérez,,49
+1996,6700,Saavedra,,65
+1996,6707,Saladillo,,161
+1996,6721,Salliqueló,,26
+1996,6714,Salto,,127
+1996,6728,San Andrés de Giles,,59
+1996,6735,San Antonio de Areco,,86
+1996,6742,San Cayetano,,27
+1996,6749,San Fernando,,679
+1996,6756,San Isidro,,1486
+1996,6760,San Miguel,,1228
+1996,6547,Monte,,103
+1996,6763,San Nicolás,,676
+1996,6770,San Pedro,,187
+1996,6778,San Vicente,,187
+1996,6784,Suipacha,,25
+1996,6791,Tandil,,476
+1996,6798,Tapalqué,,8
+1996,6805,Tigre,,1221
+1996,6819,Tornquist,,32
+1996,6826,Trenque Lauquen,,151
+1996,6833,Tres Arroyos,,248
+1996,6840,Tres de Febrero,,1344
+1996,6847,Tres Lomas,,23
+1996,6854,25 de Mayo,,94
+1996,6861,Vicente López,,961
+1996,6868,Villa Gesell,,90
+1996,6875,Villarino,,107
+1996,6882,Zárate,,341
+1997,6007,Adolfo Alsina,,64
+1997,6021,Alberti,,24
+1997,6028,Almirante Brown,,1872
+1997,6077,Arrecifes,,110
+1997,6035,Avellaneda,,1448
+1997,6042,Ayacucho,,72
+1997,6049,Azul,,285
+1997,6056,Bahía Blanca,,1358
+1997,6063,Balcarce,,201
+1997,6070,Baradero,,118
+1997,6084,Benito Juárez,,78
+1997,6091,Berazategui,,1045
+1997,6098,Berisso,,360
+1997,6105,Bolívar,,161
+1997,6112,Bragado,,143
+1997,6126,Campana,,381
+1997,6134,Cañuelas,,179
+1997,6140,Capitán Sarmiento,,46
+1997,6147,Carlos Casares,,81
+1997,6154,Carlos Tejedor,,48
+1997,6161,Carmen de Areco,,40
+1997,6602,Patagones,,86
+1997,6168,Castelli,,34
+1997,6210,Chacabuco,,188
+1997,6218,Chascomús,,145
+1997,6224,Chivilcoy,,250
+1997,6175,Colón,,69
+1997,6119,Brandsen,,100
+1997,6189,Coronel Dorrego,,61
+1997,6196,Coronel Pringles,,105
+1997,6182,Coronel de Marina Leonardo Rosales,,174
+1997,6203,Coronel Suárez,,174
+1997,6231,Daireaux,,53
+1997,6420,La Costa,,186
+1997,6238,Dolores,,107
+1997,6245,Ensenada,,211
+1997,6252,Escobar,,704
+1997,6260,Esteban Echeverría,,924
+1997,6266,Exaltación de la Cruz,,114
+1997,6270,Ezeiza,,422
+1997,6274,Florencio Varela,,1113
+1997,6277,Florentino Ameghino,,44
+1997,6280,General Alvarado,,126
+1997,6287,General Alvear,,39
+1997,6294,General Arenales,,59
+1997,6301,General Belgrano,,57
+1997,6308,General Guido,,10
+1997,6322,General la Madrid,,94
+1997,6329,General las Heras,,62
+1997,6336,General Lavalle,,14
+1997,6315,General Juan Madariaga,,72
+1997,6343,General Paz,,35
+1997,6351,General Pinto,,94
+1997,6357,General Pueyrredón,,2354
+1997,6364,General Rodríguez,,237
+1997,6371,General San Martín,,1558
+1997,6385,General Viamonte,,70
+1997,6392,General Villegas,,113
+1997,6014,Adolfo Gonzales Chaves,,47
+1997,6399,Guaminí,,51
+1997,6406,Hipólito Yrigoyen,,40
+1997,6408,Hurlingham,,675
+1997,6410,Ituzaingó,,644
+1997,6412,José C. Paz,,847
+1997,6413,Junín,,402
+1997,6427,La Matanza,,5194
+1997,6441,La Plata,,2815
+1997,6434,Lanús,,1949
+1997,6448,Laprida,,30
+1997,6455,Las Flores,,104
+1997,6462,Leandro N. Alem,,46
+1997,6466,Lezama,,17
+1997,6469,Lincoln,,143
+1997,6476,Lobería,,47
+1997,6483,Lobos,,139
+1997,6490,Lomas de Zamora,,2548
+1997,6497,Luján,,376
+1997,6505,Magdalena,,89
+1997,6511,Maipú,,49
+1997,6515,Malvinas Argentinas,,1020
+1997,6518,Mar Chiquita,,130
+1997,6525,Marcos Paz,,140
+1997,6532,Mercedes,,277
+1997,6539,Merlo,,1674
+1997,6553,Monte Hermoso,,21
+1997,6560,Moreno,,1218
+1997,6568,Morón,,1482
+1997,6574,Navarro,,62
+1997,6581,Necochea,,408
+1997,6588,9 de Julio,,203
+1997,6595,Olavarría,,476
+1997,6609,Pehuajó,,138
+1997,6616,Pellegrini,,14
+1997,6623,Pergamino,,420
+1997,6630,Pila,,8
+1997,6638,Pilar,,608
+1997,6644,Pinamar,,50
+1997,6648,Presidente Perón,,209
+1997,6651,Puán,,59
+1997,6655,Punta Indio,,36
+1997,6658,Quilmes,,2249
+1997,6665,Ramallo,,112
+1997,6672,Rauch,,65
+1997,6679,Rivadavia,,59
+1997,6686,Rojas,,94
+1997,6693,Roque Pérez,,40
+1997,6700,Saavedra,,90
+1997,6707,Saladillo,,101
+1997,6721,Salliqueló,,29
+1997,6714,Salto,,117
+1997,6728,San Andrés de Giles,,80
+1997,6735,San Antonio de Areco,,95
+1997,6742,San Cayetano,,32
+1997,6749,San Fernando,,716
+1997,6756,San Isidro,,1462
+1997,6760,San Miguel,,967
+1997,6547,Monte,,65
+1997,6763,San Nicolás,,644
+1997,6770,San Pedro,,201
+1997,6778,San Vicente,,249
+1997,6784,Suipacha,,50
+1997,6791,Tandil,,477
+1997,6798,Tapalqué,,37
+1997,6805,Tigre,,1208
+1997,6812,Tordillo,,8
+1997,6819,Tornquist,,60
+1997,6826,Trenque Lauquen,,150
+1997,6833,Tres Arroyos,,229
+1997,6840,Tres de Febrero,,1436
+1997,6847,Tres Lomas,,22
+1997,6854,25 de Mayo,,135
+1997,6861,Vicente López,,1404
+1997,6868,Villa Gesell,,72
+1997,6875,Villarino,,129
+1997,6882,Zárate,,419
+1998,6007,Adolfo Alsina,,62
+1998,6021,Alberti,,35
+1998,6028,Almirante Brown,,1844
+1998,6077,Arrecifes,,113
+1998,6035,Avellaneda,,1584
+1998,6042,Ayacucho,,82
+1998,6049,Azul,,282
+1998,6056,Bahía Blanca,,1313
+1998,6063,Balcarce,,191
+1998,6070,Baradero,,159
+1998,6084,Benito Juárez,,76
+1998,6091,Berazategui,,1168
+1998,6098,Berisso,,303
+1998,6105,Bolívar,,111
+1998,6112,Bragado,,153
+1998,6126,Campana,,330
+1998,6134,Cañuelas,,169
+1998,6140,Capitán Sarmiento,,43
+1998,6147,Carlos Casares,,53
+1998,6154,Carlos Tejedor,,29
+1998,6161,Carmen de Areco,,47
+1998,6602,Patagones,,66
+1998,6168,Castelli,,23
+1998,6210,Chacabuco,,183
+1998,6218,Chascomús,,137
+1998,6224,Chivilcoy,,251
+1998,6175,Colón,,86
+1998,6119,Brandsen,,97
+1998,6189,Coronel Dorrego,,58
+1998,6196,Coronel Pringles,,89
+1998,6182,Coronel de Marina Leonardo Rosales,,249
+1998,6203,Coronel Suárez,,174
+1998,6231,Daireaux,,45
+1998,6420,La Costa,,234
+1998,6238,Dolores,,122
+1998,6245,Ensenada,,244
+1998,6252,Escobar,,708
+1998,6260,Esteban Echeverría,,870
+1998,6266,Exaltación de la Cruz,,142
+1998,6270,Ezeiza,,409
+1998,6274,Florencio Varela,,1162
+1998,6277,Florentino Ameghino,,17
+1998,6280,General Alvarado,,149
+1998,6287,General Alvear,,29
+1998,6294,General Arenales,,51
+1998,6301,General Belgrano,,59
+1998,6308,General Guido,,7
+1998,6322,General la Madrid,,35
+1998,6329,General las Heras,,45
+1998,6336,General Lavalle,,8
+1998,6315,General Juan Madariaga,,73
+1998,6343,General Paz,,49
+1998,6351,General Pinto,,36
+1998,6357,General Pueyrredón,,2294
+1998,6364,General Rodríguez,,240
+1998,6371,General San Martín,,1369
+1998,6385,General Viamonte,,85
+1998,6392,General Villegas,,88
+1998,6014,Adolfo Gonzales Chaves,,72
+1998,6399,Guaminí,,43
+1998,6406,Hipólito Yrigoyen,,49
+1998,6408,Hurlingham,,765
+1998,6410,Ituzaingó,,667
+1998,6412,José C. Paz,,828
+1998,6413,Junín,,376
+1998,6427,La Matanza,,4422
+1998,6441,La Plata,,2788
+1998,6434,Lanús,,1951
+1998,6448,Laprida,,43
+1998,6455,Las Flores,,69
+1998,6462,Leandro N. Alem,,57
+1998,6466,Lezama,,16
+1998,6469,Lincoln,,147
+1998,6476,Lobería,,61
+1998,6483,Lobos,,123
+1998,6490,Lomas de Zamora,,2661
+1998,6497,Luján,,393
+1998,6505,Magdalena,,69
+1998,6511,Maipú,,50
+1998,6515,Malvinas Argentinas,,936
+1998,6518,Mar Chiquita,,108
+1998,6525,Marcos Paz,,145
+1998,6532,Mercedes,,252
+1998,6539,Merlo,,1694
+1998,6553,Monte Hermoso,,14
+1998,6560,Moreno,,1302
+1998,6568,Morón,,1456
+1998,6574,Navarro,,83
+1998,6581,Necochea,,400
+1998,6588,9 de Julio,,187
+1998,6595,Olavarría,,445
+1998,6609,Pehuajó,,118
+1998,6616,Pellegrini,,27
+1998,6623,Pergamino,,429
+1998,6630,Pila,,9
+1998,6638,Pilar,,555
+1998,6644,Pinamar,,62
+1998,6648,Presidente Perón,,235
+1998,6651,Puán,,59
+1998,6655,Punta Indio,,53
+1998,6658,Quilmes,,2315
+1998,6665,Ramallo,,115
+1998,6672,Rauch,,65
+1998,6679,Rivadavia,,56
+1998,6686,Rojas,,71
+1998,6693,Roque Pérez,,65
+1998,6700,Saavedra,,89
+1998,6707,Saladillo,,129
+1998,6721,Salliqueló,,48
+1998,6714,Salto,,108
+1998,6728,San Andrés de Giles,,89
+1998,6735,San Antonio de Areco,,145
+1998,6742,San Cayetano,,25
+1998,6749,San Fernando,,647
+1998,6756,San Isidro,,1401
+1998,6760,San Miguel,,1152
+1998,6547,Monte,,49
+1998,6763,San Nicolás,,681
+1998,6770,San Pedro,,195
+1998,6778,San Vicente,,200
+1998,6784,Suipacha,,36
+1998,6791,Tandil,,540
+1998,6798,Tapalqué,,38
+1998,6805,Tigre,,1285
+1998,6812,Tordillo,,12
+1998,6819,Tornquist,,49
+1998,6826,Trenque Lauquen,,157
+1998,6833,Tres Arroyos,,231
+1998,6840,Tres de Febrero,,1346
+1998,6847,Tres Lomas,,26
+1998,6854,25 de Mayo,,127
+1998,6861,Vicente López,,1152
+1998,6868,Villa Gesell,,87
+1998,6875,Villarino,,109
+1998,6882,Zárate,,487
+1999,6007,Adolfo Alsina,,33
+1999,6021,Alberti,,42
+1999,6028,Almirante Brown,,1989
+1999,6077,Arrecifes,,100
+1999,6035,Avellaneda,,1538
+1999,6042,Ayacucho,,73
+1999,6049,Azul,,267
+1999,6056,Bahía Blanca,,1421
+1999,6063,Balcarce,,173
+1999,6070,Baradero,,120
+1999,6084,Benito Juárez,,61
+1999,6091,Berazategui,,1325
+1999,6098,Berisso,,328
+1999,6105,Bolívar,,114
+1999,6112,Bragado,,121
+1999,6126,Campana,,329
+1999,6134,Cañuelas,,167
+1999,6140,Capitán Sarmiento,,54
+1999,6147,Carlos Casares,,55
+1999,6154,Carlos Tejedor,,38
+1999,6161,Carmen de Areco,,38
+1999,6602,Patagones,,74
+1999,6168,Castelli,,15
+1999,6210,Chacabuco,,173
+1999,6218,Chascomús,,133
+1999,6224,Chivilcoy,,272
+1999,6175,Colón,,70
+1999,6119,Brandsen,,103
+1999,6189,Coronel Dorrego,,44
+1999,6196,Coronel Pringles,,75
+1999,6182,Coronel de Marina Leonardo Rosales,,180
+1999,6203,Coronel Suárez,,148
+1999,6231,Daireaux,,46
+1999,6420,La Costa,,234
+1999,6238,Dolores,,105
+1999,6245,Ensenada,,211
+1999,6252,Escobar,,716
+1999,6260,Esteban Echeverría,,905
+1999,6266,Exaltación de la Cruz,,111
+1999,6270,Ezeiza,,474
+1999,6274,Florencio Varela,,1162
+1999,6277,Florentino Ameghino,,29
+1999,6280,General Alvarado,,123
+1999,6287,General Alvear,,40
+1999,6294,General Arenales,,49
+1999,6301,General Belgrano,,69
+1999,6308,General Guido,,10
+1999,6322,General la Madrid,,78
+1999,6329,General las Heras,,37
+1999,6336,General Lavalle,,8
+1999,6315,General Juan Madariaga,,60
+1999,6343,General Paz,,46
+1999,6351,General Pinto,,35
+1999,6357,General Pueyrredón,,2161
+1999,6364,General Rodríguez,,239
+1999,6371,General San Martín,,1351
+1999,6385,General Viamonte,,45
+1999,6392,General Villegas,,102
+1999,6014,Adolfo Gonzales Chaves,,50
+1999,6399,Guaminí,,42
+1999,6406,Hipólito Yrigoyen,,30
+1999,6408,Hurlingham,,829
+1999,6410,Ituzaingó,,658
+1999,6412,José C. Paz,,821
+1999,6413,Junín,,341
+1999,6427,La Matanza,,4525
+1999,6441,La Plata,,3028
+1999,6434,Lanús,,1882
+1999,6448,Laprida,,29
+1999,6455,Las Flores,,95
+1999,6462,Leandro N. Alem,,59
+1999,6466,Lezama,,22
+1999,6469,Lincoln,,117
+1999,6476,Lobería,,50
+1999,6483,Lobos,,122
+1999,6490,Lomas de Zamora,,2734
+1999,6497,Luján,,403
+1999,6505,Magdalena,,60
+1999,6511,Maipú,,45
+1999,6515,Malvinas Argentinas,,1038
+1999,6518,Mar Chiquita,,133
+1999,6525,Marcos Paz,,144
+1999,6532,Mercedes,,240
+1999,6539,Merlo,,1848
+1999,6553,Monte Hermoso,,20
+1999,6560,Moreno,,1336
+1999,6568,Morón,,1470
+1999,6574,Navarro,,45
+1999,6581,Necochea,,388
+1999,6588,9 de Julio,,186
+1999,6595,Olavarría,,471
+1999,6609,Pehuajó,,131
+1999,6616,Pellegrini,,16
+1999,6623,Pergamino,,415
+1999,6630,Pila,,8
+1999,6638,Pilar,,578
+1999,6644,Pinamar,,60
+1999,6648,Presidente Perón,,231
+1999,6651,Puán,,51
+1999,6655,Punta Indio,,28
+1999,6658,Quilmes,,2114
+1999,6665,Ramallo,,127
+1999,6672,Rauch,,64
+1999,6679,Rivadavia,,46
+1999,6686,Rojas,,88
+1999,6693,Roque Pérez,,25
+1999,6700,Saavedra,,84
+1999,6707,Saladillo,,114
+1999,6721,Salliqueló,,21
+1999,6714,Salto,,106
+1999,6728,San Andrés de Giles,,80
+1999,6735,San Antonio de Areco,,88
+1999,6742,San Cayetano,,32
+1999,6749,San Fernando,,672
+1999,6756,San Isidro,,1342
+1999,6760,San Miguel,,1032
+1999,6547,Monte,,70
+1999,6763,San Nicolás,,644
+1999,6770,San Pedro,,187
+1999,6778,San Vicente,,181
+1999,6784,Suipacha,,32
+1999,6791,Tandil,,472
+1999,6798,Tapalqué,,36
+1999,6805,Tigre,,1288
+1999,6812,Tordillo,,7
+1999,6819,Tornquist,,46
+1999,6826,Trenque Lauquen,,165
+1999,6833,Tres Arroyos,,214
+1999,6840,Tres de Febrero,,1436
+1999,6847,Tres Lomas,,23
+1999,6854,25 de Mayo,,99
+1999,6861,Vicente López,,1075
+1999,6868,Villa Gesell,,81
+1999,6875,Villarino,,89
+1999,6882,Zárate,,380
+2000,6007,Adolfo Alsina,,45
+2000,6021,Alberti,,19
+2000,6028,Almirante Brown,,1938
+2000,6077,Arrecifes,,93
+2000,6035,Avellaneda,,1366
+2000,6042,Ayacucho,,67
+2000,6049,Azul,,220
+2000,6056,Bahía Blanca,,1354
+2000,6063,Balcarce,,162
+2000,6070,Baradero,,93
+2000,6084,Benito Juárez,,69
+2000,6091,Berazategui,,1023
+2000,6098,Berisso,,299
+2000,6105,Bolívar,,108
+2000,6112,Bragado,,128
+2000,6126,Campana,,323
+2000,6134,Cañuelas,,163
+2000,6140,Capitán Sarmiento,,51
+2000,6147,Carlos Casares,,49
+2000,6154,Carlos Tejedor,,26
+2000,6161,Carmen de Areco,,40
+2000,6602,Patagones,,58
+2000,6168,Castelli,,20
+2000,6210,Chacabuco,,144
+2000,6218,Chascomús,,142
+2000,6224,Chivilcoy,,224
+2000,6175,Colón,,85
+2000,6119,Brandsen,,75
+2000,6189,Coronel Dorrego,,35
+2000,6196,Coronel Pringles,,72
+2000,6182,Coronel de Marina Leonardo Rosales,,200
+2000,6203,Coronel Suárez,,130
+2000,6231,Daireaux,,37
+2000,6420,La Costa,,214
+2000,6238,Dolores,,122
+2000,6245,Ensenada,,182
+2000,6252,Escobar,,639
+2000,6260,Esteban Echeverría,,839
+2000,6266,Exaltación de la Cruz,,97
+2000,6270,Ezeiza,,421
+2000,6274,Florencio Varela,,1146
+2000,6277,Florentino Ameghino,,21
+2000,6280,General Alvarado,,168
+2000,6287,General Alvear,,35
+2000,6294,General Arenales,,46
+2000,6301,General Belgrano,,61
+2000,6308,General Guido,,15
+2000,6322,General la Madrid,,37
+2000,6329,General las Heras,,49
+2000,6336,General Lavalle,,10
+2000,6315,General Juan Madariaga,,57
+2000,6343,General Paz,,23
+2000,6351,General Pinto,,24
+2000,6357,General Pueyrredón,,2085
+2000,6364,General Rodríguez,,209
+2000,6371,General San Martín,,1051
+2000,6385,General Viamonte,,50
+2000,6392,General Villegas,,67
+2000,6014,Adolfo Gonzales Chaves,,44
+2000,6399,Guaminí,,30
+2000,6406,Hipólito Yrigoyen,,35
+2000,6408,Hurlingham,,714
+2000,6410,Ituzaingó,,608
+2000,6412,José C. Paz,,867
+2000,6413,Junín,,353
+2000,6427,La Matanza,,4284
+2000,6441,La Plata,,2865
+2000,6434,Lanús,,1826
+2000,6448,Laprida,,36
+2000,6455,Las Flores,,75
+2000,6462,Leandro N. Alem,,44
+2000,6466,Lezama,,21
+2000,6469,Lincoln,,116
+2000,6476,Lobería,,47
+2000,6483,Lobos,,103
+2000,6490,Lomas de Zamora,,2446
+2000,6497,Luján,,345
+2000,6505,Magdalena,,85
+2000,6511,Maipú,,38
+2000,6515,Malvinas Argentinas,,1034
+2000,6518,Mar Chiquita,,204
+2000,6525,Marcos Paz,,175
+2000,6532,Mercedes,,207
+2000,6539,Merlo,,1632
+2000,6553,Monte Hermoso,,7
+2000,6560,Moreno,,1142
+2000,6568,Morón,,1406
+2000,6574,Navarro,,49
+2000,6581,Necochea,,305
+2000,6588,9 de Julio,,148
+2000,6595,Olavarría,,454
+2000,6609,Pehuajó,,110
+2000,6616,Pellegrini,,14
+2000,6623,Pergamino,,380
+2000,6630,Pila,,7
+2000,6638,Pilar,,557
+2000,6644,Pinamar,,49
+2000,6648,Presidente Perón,,170
+2000,6651,Puán,,54
+2000,6655,Punta Indio,,30
+2000,6658,Quilmes,,2098
+2000,6665,Ramallo,,116
+2000,6672,Rauch,,54
+2000,6679,Rivadavia,,47
+2000,6686,Rojas,,143
+2000,6693,Roque Pérez,,31
+2000,6700,Saavedra,,73
+2000,6707,Saladillo,,102
+2000,6721,Salliqueló,,25
+2000,6714,Salto,,102
+2000,6728,San Andrés de Giles,,43
+2000,6735,San Antonio de Areco,,73
+2000,6742,San Cayetano,,27
+2000,6749,San Fernando,,619
+2000,6756,San Isidro,,1298
+2000,6760,San Miguel,,1012
+2000,6547,Monte,,62
+2000,6763,San Nicolás,,626
+2000,6770,San Pedro,,211
+2000,6778,San Vicente,,190
+2000,6784,Suipacha,,24
+2000,6791,Tandil,,457
+2000,6798,Tapalqué,,38
+2000,6805,Tigre,,1200
+2000,6812,Tordillo,,5
+2000,6819,Tornquist,,39
+2000,6826,Trenque Lauquen,,128
+2000,6833,Tres Arroyos,,126
+2000,6840,Tres de Febrero,,1369
+2000,6847,Tres Lomas,,15
+2000,6854,25 de Mayo,,101
+2000,6861,Vicente López,,971
+2000,6868,Villa Gesell,,83
+2000,6875,Villarino,,97
+2000,6882,Zárate,,394
+2001,6007,Adolfo Alsina,,35
+2001,6021,Alberti,,2
+2001,6028,Almirante Brown,,1665
+2001,6077,Arrecifes,,84
+2001,6035,Avellaneda,,1349
+2001,6042,Ayacucho,,56
+2001,6049,Azul,,249
+2001,6056,Bahía Blanca,,1062
+2001,6063,Balcarce,,156
+2001,6070,Baradero,,122
+2001,6084,Benito Juárez,,41
+2001,6091,Berazategui,,1008
+2001,6098,Berisso,,254
+2001,6105,Bolívar,,88
+2001,6112,Bragado,,134
+2001,6126,Campana,,345
+2001,6134,Cañuelas,,144
+2001,6140,Capitán Sarmiento,,42
+2001,6147,Carlos Casares,,47
+2001,6154,Carlos Tejedor,,34
+2001,6161,Carmen de Areco,,40
+2001,6602,Patagones,,35
+2001,6168,Castelli,,20
+2001,6210,Chacabuco,,113
+2001,6218,Chascomús,,130
+2001,6224,Chivilcoy,,169
+2001,6175,Colón,,72
+2001,6119,Brandsen,,92
+2001,6189,Coronel Dorrego,,45
+2001,6196,Coronel Pringles,,77
+2001,6182,Coronel de Marina Leonardo Rosales,,284
+2001,6203,Coronel Suárez,,114
+2001,6231,Daireaux,,32
+2001,6420,La Costa,,209
+2001,6238,Dolores,,109
+2001,6245,Ensenada,,209
+2001,6252,Escobar,,568
+2001,6260,Esteban Echeverría,,819
+2001,6266,Exaltación de la Cruz,,117
+2001,6270,Ezeiza,,377
+2001,6274,Florencio Varela,,951
+2001,6277,Florentino Ameghino,,17
+2001,6280,General Alvarado,,147
+2001,6287,General Alvear,,42
+2001,6294,General Arenales,,33
+2001,6301,General Belgrano,,53
+2001,6308,General Guido,,3
+2001,6322,General la Madrid,,38
+2001,6329,General las Heras,,42
+2001,6336,General Lavalle,,5
+2001,6315,General Juan Madariaga,,39
+2001,6343,General Paz,,31
+2001,6351,General Pinto,,29
+2001,6357,General Pueyrredón,,2042
+2001,6364,General Rodríguez,,207
+2001,6371,General San Martín,,1191
+2001,6385,General Viamonte,,43
+2001,6392,General Villegas,,84
+2001,6014,Adolfo Gonzales Chaves,,37
+2001,6399,Guaminí,,28
+2001,6406,Hipólito Yrigoyen,,25
+2001,6408,Hurlingham,,619
+2001,6410,Ituzaingó,,612
+2001,6412,José C. Paz,,687
+2001,6413,Junín,,323
+2001,6427,La Matanza,,3809
+2001,6441,La Plata,,2526
+2001,6434,Lanús,,1559
+2001,6448,Laprida,,27
+2001,6455,Las Flores,,54
+2001,6462,Leandro N. Alem,,41
+2001,6466,Lezama,,13
+2001,6469,Lincoln,,100
+2001,6476,Lobería,,46
+2001,6483,Lobos,,86
+2001,6490,Lomas de Zamora,,2180
+2001,6497,Luján,,344
+2001,6505,Magdalena,,61
+2001,6511,Maipú,,32
+2001,6515,Malvinas Argentinas,,883
+2001,6518,Mar Chiquita,,166
+2001,6525,Marcos Paz,,143
+2001,6532,Mercedes,,178
+2001,6539,Merlo,,1606
+2001,6553,Monte Hermoso,,16
+2001,6560,Moreno,,886
+2001,6568,Morón,,1291
+2001,6574,Navarro,,34
+2001,6581,Necochea,,295
+2001,6588,9 de Julio,,155
+2001,6595,Olavarría,,409
+2001,6609,Pehuajó,,113
+2001,6616,Pellegrini,,19
+2001,6623,Pergamino,,344
+2001,6630,Pila,,10
+2001,6638,Pilar,,543
+2001,6644,Pinamar,,58
+2001,6648,Presidente Perón,,254
+2001,6651,Puán,,50
+2001,6655,Punta Indio,,45
+2001,6658,Quilmes,,2027
+2001,6665,Ramallo,,97
+2001,6672,Rauch,,71
+2001,6679,Rivadavia,,39
+2001,6686,Rojas,,144
+2001,6693,Roque Pérez,,31
+2001,6700,Saavedra,,77
+2001,6707,Saladillo,,97
+2001,6721,Salliqueló,,21
+2001,6714,Salto,,86
+2001,6728,San Andrés de Giles,,65
+2001,6735,San Antonio de Areco,,67
+2001,6742,San Cayetano,,24
+2001,6749,San Fernando,,507
+2001,6756,San Isidro,,1292
+2001,6760,San Miguel,,931
+2001,6547,Monte,,61
+2001,6763,San Nicolás,,612
+2001,6770,San Pedro,,193
+2001,6778,San Vicente,,143
+2001,6784,Suipacha,,31
+2001,6791,Tandil,,454
+2001,6798,Tapalqué,,32
+2001,6805,Tigre,,1104
+2001,6819,Tornquist,,30
+2001,6826,Trenque Lauquen,,138
+2001,6833,Tres Arroyos,,174
+2001,6840,Tres de Febrero,,1327
+2001,6847,Tres Lomas,,22
+2001,6854,25 de Mayo,,86
+2001,6861,Vicente López,,910
+2001,6868,Villa Gesell,,73
+2001,6875,Villarino,,89
+2001,6882,Zárate,,319
+2002,6007,Adolfo Alsina,,34
+2002,6021,Alberti,,16
+2002,6028,Almirante Brown,,1488
+2002,6077,Arrecifes,,75
+2002,6035,Avellaneda,,1273
+2002,6042,Ayacucho,,49
+2002,6049,Azul,,234
+2002,6056,Bahía Blanca,,1057
+2002,6063,Balcarce,,145
+2002,6070,Baradero,,95
+2002,6084,Benito Juárez,,58
+2002,6091,Berazategui,,875
+2002,6098,Berisso,,183
+2002,6105,Bolívar,,81
+2002,6112,Bragado,,114
+2002,6126,Campana,,386
+2002,6134,Cañuelas,,131
+2002,6140,Capitán Sarmiento,,35
+2002,6147,Carlos Casares,,64
+2002,6154,Carlos Tejedor,,24
+2002,6161,Carmen de Areco,,22
+2002,6602,Patagones,,45
+2002,6168,Castelli,,15
+2002,6210,Chacabuco,,113
+2002,6218,Chascomús,,116
+2002,6224,Chivilcoy,,169
+2002,6175,Colón,,56
+2002,6119,Brandsen,,87
+2002,6189,Coronel Dorrego,,40
+2002,6196,Coronel Pringles,,61
+2002,6182,Coronel de Marina Leonardo Rosales,,192
+2002,6203,Coronel Suárez,,130
+2002,6231,Daireaux,,42
+2002,6420,La Costa,,198
+2002,6238,Dolores,,105
+2002,6245,Ensenada,,245
+2002,6252,Escobar,,495
+2002,6260,Esteban Echeverría,,723
+2002,6266,Exaltación de la Cruz,,97
+2002,6270,Ezeiza,,396
+2002,6274,Florencio Varela,,906
+2002,6277,Florentino Ameghino,,20
+2002,6280,General Alvarado,,99
+2002,6287,General Alvear,,37
+2002,6294,General Arenales,,39
+2002,6301,General Belgrano,,38
+2002,6308,General Guido,,7
+2002,6322,General la Madrid,,37
+2002,6329,General las Heras,,35
+2002,6336,General Lavalle,,10
+2002,6315,General Juan Madariaga,,39
+2002,6343,General Paz,,41
+2002,6351,General Pinto,,40
+2002,6357,General Pueyrredón,,1948
+2002,6364,General Rodríguez,,186
+2002,6371,General San Martín,,1034
+2002,6385,General Viamonte,,42
+2002,6392,General Villegas,,77
+2002,6014,Adolfo Gonzales Chaves,,47
+2002,6399,Guaminí,,38
+2002,6406,Hipólito Yrigoyen,,26
+2002,6408,Hurlingham,,589
+2002,6410,Ituzaingó,,538
+2002,6412,José C. Paz,,580
+2002,6413,Junín,,331
+2002,6427,La Matanza,,3339
+2002,6441,La Plata,,2424
+2002,6434,Lanús,,1560
+2002,6448,Laprida,,16
+2002,6455,Las Flores,,58
+2002,6462,Leandro N. Alem,,43
+2002,6466,Lezama,,24
+2002,6469,Lincoln,,138
+2002,6476,Lobería,,43
+2002,6483,Lobos,,77
+2002,6490,Lomas de Zamora,,1300
+2002,6497,Luján,,292
+2002,6505,Magdalena,,65
+2002,6511,Maipú,,36
+2002,6515,Malvinas Argentinas,,786
+2002,6518,Mar Chiquita,,186
+2002,6525,Marcos Paz,,114
+2002,6532,Mercedes,,198
+2002,6539,Merlo,,1454
+2002,6553,Monte Hermoso,,8
+2002,6560,Moreno,,861
+2002,6568,Morón,,1298
+2002,6574,Navarro,,37
+2002,6581,Necochea,,344
+2002,6588,9 de Julio,,151
+2002,6595,Olavarría,,403
+2002,6609,Pehuajó,,117
+2002,6616,Pellegrini,,18
+2002,6623,Pergamino,,352
+2002,6630,Pila,,6
+2002,6638,Pilar,,546
+2002,6644,Pinamar,,68
+2002,6648,Presidente Perón,,256
+2002,6651,Puán,,48
+2002,6655,Punta Indio,,47
+2002,6658,Quilmes,,1890
+2002,6665,Ramallo,,81
+2002,6672,Rauch,,31
+2002,6679,Rivadavia,,35
+2002,6686,Rojas,,149
+2002,6693,Roque Pérez,,24
+2002,6700,Saavedra,,68
+2002,6707,Saladillo,,88
+2002,6721,Salliqueló,,23
+2002,6714,Salto,,90
+2002,6728,San Andrés de Giles,,44
+2002,6735,San Antonio de Areco,,57
+2002,6742,San Cayetano,,25
+2002,6749,San Fernando,,511
+2002,6756,San Isidro,,1488
+2002,6760,San Miguel,,827
+2002,6547,Monte,,55
+2002,6763,San Nicolás,,557
+2002,6770,San Pedro,,10
+2002,6778,San Vicente,,138
+2002,6784,Suipacha,,13
+2002,6791,Tandil,,254
+2002,6798,Tapalqué,,19
+2002,6805,Tigre,,1065
+2002,6812,Tordillo,,7
+2002,6819,Tornquist,,38
+2002,6826,Trenque Lauquen,,118
+2002,6833,Tres Arroyos,,162
+2002,6840,Tres de Febrero,,1290
+2002,6847,Tres Lomas,,17
+2002,6854,25 de Mayo,,57
+2002,6861,Vicente López,,828
+2002,6868,Villa Gesell,,65
+2002,6875,Villarino,,83
+2002,6882,Zárate,,314
+2003,6007,Adolfo Alsina,,31
+2003,6021,Alberti,,17
+2003,6028,Almirante Brown,,1523
+2003,6077,Arrecifes,,83
+2003,6035,Avellaneda,,1158
+2003,6042,Ayacucho,,51
+2003,6049,Azul,,213
+2003,6056,Bahía Blanca,,1094
+2003,6063,Balcarce,,137
+2003,6070,Baradero,,99
+2003,6084,Benito Juárez,,60
+2003,6091,Berazategui,,917
+2003,6098,Berisso,,263
+2003,6105,Bolívar,,117
+2003,6112,Bragado,,111
+2003,6126,Campana,,331
+2003,6134,Cañuelas,,122
+2003,6140,Capitán Sarmiento,,43
+2003,6147,Carlos Casares,,61
+2003,6154,Carlos Tejedor,,24
+2003,6161,Carmen de Areco,,105
+2003,6602,Patagones,,56
+2003,6168,Castelli,,25
+2003,6210,Chacabuco,,140
+2003,6218,Chascomús,,121
+2003,6224,Chivilcoy,,192
+2003,6175,Colón,,65
+2003,6119,Brandsen,,98
+2003,6189,Coronel Dorrego,,43
+2003,6196,Coronel Pringles,,86
+2003,6182,Coronel de Marina Leonardo Rosales,,204
+2003,6203,Coronel Suárez,,114
+2003,6231,Daireaux,,45
+2003,6420,La Costa,,212
+2003,6238,Dolores,,133
+2003,6245,Ensenada,,243
+2003,6252,Escobar,,586
+2003,6260,Esteban Echeverría,,688
+2003,6266,Exaltación de la Cruz,,94
+2003,6270,Ezeiza,,388
+2003,6274,Florencio Varela,,901
+2003,6277,Florentino Ameghino,,16
+2003,6280,General Alvarado,,113
+2003,6287,General Alvear,,41
+2003,6294,General Arenales,,38
+2003,6301,General Belgrano,,37
+2003,6308,General Guido,,12
+2003,6322,General la Madrid,,31
+2003,6329,General las Heras,,41
+2003,6336,General Lavalle,,7
+2003,6315,General Juan Madariaga,,60
+2003,6343,General Paz,,35
+2003,6351,General Pinto,,37
+2003,6357,General Pueyrredón,,2252
+2003,6364,General Rodríguez,,240
+2003,6371,General San Martín,,1009
+2003,6385,General Viamonte,,53
+2003,6392,General Villegas,,82
+2003,6014,Adolfo Gonzales Chaves,,30
+2003,6399,Guaminí,,37
+2003,6406,Hipólito Yrigoyen,,18
+2003,6408,Hurlingham,,564
+2003,6410,Ituzaingó,,546
+2003,6412,José C. Paz,,657
+2003,6413,Junín,,313
+2003,6427,La Matanza,,3510
+2003,6441,La Plata,,2426
+2003,6434,Lanús,,1624
+2003,6448,Laprida,,33
+2003,6455,Las Flores,,85
+2003,6462,Leandro N. Alem,,39
+2003,6466,Lezama,,22
+2003,6469,Lincoln,,134
+2003,6476,Lobería,,49
+2003,6483,Lobos,,91
+2003,6490,Lomas de Zamora,,1242
+2003,6497,Luján,,303
+2003,6505,Magdalena,,62
+2003,6511,Maipú,,35
+2003,6515,Malvinas Argentinas,,841
+2003,6518,Mar Chiquita,,144
+2003,6525,Marcos Paz,,141
+2003,6532,Mercedes,,204
+2003,6539,Merlo,,1469
+2003,6553,Monte Hermoso,,4
+2003,6560,Moreno,,899
+2003,6568,Morón,,1348
+2003,6574,Navarro,,44
+2003,6581,Necochea,,287
+2003,6588,9 de Julio,,160
+2003,6595,Olavarría,,458
+2003,6609,Pehuajó,,109
+2003,6616,Pellegrini,,18
+2003,6623,Pergamino,,352
+2003,6630,Pila,,14
+2003,6638,Pilar,,550
+2003,6644,Pinamar,,48
+2003,6648,Presidente Perón,,200
+2003,6651,Puán,,57
+2003,6655,Punta Indio,,41
+2003,6658,Quilmes,,1751
+2003,6665,Ramallo,,117
+2003,6672,Rauch,,50
+2003,6679,Rivadavia,,44
+2003,6686,Rojas,,74
+2003,6693,Roque Pérez,,31
+2003,6700,Saavedra,,81
+2003,6707,Saladillo,,100
+2003,6721,Salliqueló,,20
+2003,6714,Salto,,112
+2003,6728,San Andrés de Giles,,50
+2003,6735,San Antonio de Areco,,60
+2003,6742,San Cayetano,,28
+2003,6749,San Fernando,,461
+2003,6756,San Isidro,,977
+2003,6760,San Miguel,,869
+2003,6547,Monte,,56
+2003,6763,San Nicolás,,523
+2003,6770,San Pedro,,199
+2003,6778,San Vicente,,114
+2003,6784,Suipacha,,18
+2003,6791,Tandil,,470
+2003,6798,Tapalqué,,37
+2003,6805,Tigre,,980
+2003,6812,Tordillo,,6
+2003,6819,Tornquist,,44
+2003,6826,Trenque Lauquen,,136
+2003,6833,Tres Arroyos,,177
+2003,6840,Tres de Febrero,,1297
+2003,6847,Tres Lomas,,15
+2003,6854,25 de Mayo,,90
+2003,6861,Vicente López,,1152
+2003,6868,Villa Gesell,,71
+2003,6875,Villarino,,90
+2003,6882,Zárate,,382
+2004,6007,Adolfo Alsina,,47
+2004,6021,Alberti,,16
+2004,6028,Almirante Brown,,1393
+2004,6077,Arrecifes,,95
+2004,6035,Avellaneda,,1237
+2004,6042,Ayacucho,,64
+2004,6049,Azul,,202
+2004,6056,Bahía Blanca,,195
+2004,6063,Balcarce,,153
+2004,6070,Baradero,,114
+2004,6084,Benito Juárez,,73
+2004,6091,Berazategui,,964
+2004,6098,Berisso,,220
+2004,6105,Bolívar,,104
+2004,6112,Bragado,,124
+2004,6126,Campana,,352
+2004,6134,Cañuelas,,132
+2004,6140,Capitán Sarmiento,,43
+2004,6147,Carlos Casares,,68
+2004,6154,Carlos Tejedor,,26
+2004,6161,Carmen de Areco,,47
+2004,6602,Patagones,,49
+2004,6168,Castelli,,30
+2004,6210,Chacabuco,,157
+2004,6218,Chascomús,,105
+2004,6224,Chivilcoy,,157
+2004,6175,Colón,,72
+2004,6119,Brandsen,,93
+2004,6189,Coronel Dorrego,,51
+2004,6196,Coronel Pringles,,84
+2004,6182,Coronel de Marina Leonardo Rosales,,200
+2004,6203,Coronel Suárez,,96
+2004,6231,Daireaux,,32
+2004,6420,La Costa,,213
+2004,6238,Dolores,,139
+2004,6245,Ensenada,,239
+2004,6252,Escobar,,567
+2004,6260,Esteban Echeverría,,845
+2004,6266,Exaltación de la Cruz,,108
+2004,6270,Ezeiza,,385
+2004,6274,Florencio Varela,,814
+2004,6277,Florentino Ameghino,,23
+2004,6280,General Alvarado,,100
+2004,6287,General Alvear,,44
+2004,6294,General Arenales,,62
+2004,6301,General Belgrano,,58
+2004,6308,General Guido,,7
+2004,6322,General la Madrid,,29
+2004,6329,General las Heras,,33
+2004,6336,General Lavalle,,8
+2004,6315,General Juan Madariaga,,52
+2004,6343,General Paz,,42
+2004,6351,General Pinto,,25
+2004,6357,General Pueyrredón,,2046
+2004,6364,General Rodríguez,,209
+2004,6371,General San Martín,,1142
+2004,6385,General Viamonte,,48
+2004,6392,General Villegas,,92
+2004,6014,Adolfo Gonzales Chaves,,41
+2004,6399,Guaminí,,36
+2004,6406,Hipólito Yrigoyen,,15
+2004,6408,Hurlingham,,592
+2004,6410,Ituzaingó,,548
+2004,6412,José C. Paz,,680
+2004,6413,Junín,,311
+2004,6427,La Matanza,,3623
+2004,6441,La Plata,,2215
+2004,6434,Lanús,,1374
+2004,6448,Laprida,,28
+2004,6455,Las Flores,,91
+2004,6462,Leandro N. Alem,,38
+2004,6466,Lezama,,19
+2004,6469,Lincoln,,100
+2004,6476,Lobería,,36
+2004,6483,Lobos,,82
+2004,6490,Lomas de Zamora,,2100
+2004,6497,Luján,,333
+2004,6505,Magdalena,,72
+2004,6511,Maipú,,41
+2004,6515,Malvinas Argentinas,,754
+2004,6518,Mar Chiquita,,108
+2004,6525,Marcos Paz,,138
+2004,6532,Mercedes,,229
+2004,6539,Merlo,,1414
+2004,6553,Monte Hermoso,,16
+2004,6560,Moreno,,1075
+2004,6568,Morón,,1249
+2004,6574,Navarro,,51
+2004,6581,Necochea,,443
+2004,6588,9 de Julio,,139
+2004,6595,Olavarría,,464
+2004,6609,Pehuajó,,95
+2004,6616,Pellegrini,,13
+2004,6623,Pergamino,,417
+2004,6630,Pila,,13
+2004,6638,Pilar,,558
+2004,6644,Pinamar,,50
+2004,6648,Presidente Perón,,153
+2004,6651,Puán,,52
+2004,6655,Punta Indio,,43
+2004,6658,Quilmes,,1779
+2004,6665,Ramallo,,115
+2004,6672,Rauch,,41
+2004,6679,Rivadavia,,42
+2004,6686,Rojas,,76
+2004,6693,Roque Pérez,,31
+2004,6700,Saavedra,,99
+2004,6707,Saladillo,,90
+2004,6721,Salliqueló,,23
+2004,6714,Salto,,98
+2004,6728,San Andrés de Giles,,54
+2004,6735,San Antonio de Areco,,85
+2004,6742,San Cayetano,,30
+2004,6749,San Fernando,,469
+2004,6756,San Isidro,,1382
+2004,6760,San Miguel,,783
+2004,6547,Monte,,45
+2004,6763,San Nicolás,,582
+2004,6770,San Pedro,,181
+2004,6778,San Vicente,,190
+2004,6784,Suipacha,,30
+2004,6791,Tandil,,453
+2004,6798,Tapalqué,,35
+2004,6805,Tigre,,1034
+2004,6812,Tordillo,,9
+2004,6819,Tornquist,,54
+2004,6826,Trenque Lauquen,,120
+2004,6833,Tres Arroyos,,242
+2004,6840,Tres de Febrero,,1226
+2004,6847,Tres Lomas,,23
+2004,6854,25 de Mayo,,87
+2004,6861,Vicente López,,1096
+2004,6868,Villa Gesell,,68
+2004,6875,Villarino,,83
+2004,6882,Zárate,,355
+2005,6007,Adolfo Alsina,,40
+2005,6021,Alberti,,37
+2005,6028,Almirante Brown,,1866
+2005,6077,Arrecifes,,96
+2005,6035,Avellaneda,,1172
+2005,6042,Ayacucho,,58
+2005,6049,Azul,,281
+2005,6056,Bahía Blanca,,1149
+2005,6063,Balcarce,,136
+2005,6070,Baradero,,88
+2005,6084,Benito Juárez,,79
+2005,6091,Berazategui,,955
+2005,6098,Berisso,,230
+2005,6105,Bolívar,,126
+2005,6112,Bragado,,124
+2005,6126,Campana,,318
+2005,6134,Cañuelas,,150
+2005,6140,Capitán Sarmiento,,48
+2005,6147,Carlos Casares,,64
+2005,6154,Carlos Tejedor,,35
+2005,6161,Carmen de Areco,,38
+2005,6602,Patagones,,57
+2005,6168,Castelli,,25
+2005,6210,Chacabuco,,153
+2005,6218,Chascomús,,122
+2005,6224,Chivilcoy,,177
+2005,6175,Colón,,93
+2005,6119,Brandsen,,104
+2005,6189,Coronel Dorrego,,45
+2005,6196,Coronel Pringles,,81
+2005,6182,Coronel de Marina Leonardo Rosales,,213
+2005,6203,Coronel Suárez,,98
+2005,6231,Daireaux,,52
+2005,6420,La Costa,,340
+2005,6238,Dolores,,112
+2005,6245,Ensenada,,247
+2005,6252,Escobar,,599
+2005,6260,Esteban Echeverría,,748
+2005,6266,Exaltación de la Cruz,,104
+2005,6270,Ezeiza,,431
+2005,6274,Florencio Varela,,934
+2005,6277,Florentino Ameghino,,22
+2005,6280,General Alvarado,,129
+2005,6287,General Alvear,,29
+2005,6294,General Arenales,,105
+2005,6301,General Belgrano,,55
+2005,6308,General Guido,,9
+2005,6322,General la Madrid,,36
+2005,6329,General las Heras,,34
+2005,6336,General Lavalle,,12
+2005,6315,General Juan Madariaga,,67
+2005,6343,General Paz,,24
+2005,6351,General Pinto,,26
+2005,6357,General Pueyrredón,,2119
+2005,6364,General Rodríguez,,203
+2005,6371,General San Martín,,1105
+2005,6385,General Viamonte,,42
+2005,6392,General Villegas,,87
+2005,6014,Adolfo Gonzales Chaves,,39
+2005,6399,Guaminí,,31
+2005,6406,Hipólito Yrigoyen,,18
+2005,6408,Hurlingham,,552
+2005,6410,Ituzaingó,,542
+2005,6412,José C. Paz,,752
+2005,6413,Junín,,350
+2005,6427,La Matanza,,3404
+2005,6441,La Plata,,2621
+2005,6434,Lanús,,1489
+2005,6448,Laprida,,30
+2005,6455,Las Flores,,67
+2005,6462,Leandro N. Alem,,45
+2005,6466,Lezama,,24
+2005,6469,Lincoln,,91
+2005,6476,Lobería,,50
+2005,6483,Lobos,,95
+2005,6490,Lomas de Zamora,,2089
+2005,6497,Luján,,295
+2005,6505,Magdalena,,56
+2005,6511,Maipú,,27
+2005,6515,Malvinas Argentinas,,763
+2005,6518,Mar Chiquita,,91
+2005,6525,Marcos Paz,,127
+2005,6532,Mercedes,,275
+2005,6539,Merlo,,1481
+2005,6553,Monte Hermoso,,14
+2005,6560,Moreno,,982
+2005,6568,Morón,,1181
+2005,6574,Navarro,,51
+2005,6581,Necochea,,317
+2005,6588,9 de Julio,,152
+2005,6595,Olavarría,,428
+2005,6609,Pehuajó,,114
+2005,6616,Pellegrini,,11
+2005,6623,Pergamino,,380
+2005,6630,Pila,,14
+2005,6638,Pilar,,654
+2005,6644,Pinamar,,85
+2005,6648,Presidente Perón,,168
+2005,6651,Puán,,69
+2005,6655,Punta Indio,,37
+2005,6658,Quilmes,,1758
+2005,6665,Ramallo,,137
+2005,6672,Rauch,,48
+2005,6679,Rivadavia,,37
+2005,6686,Rojas,,87
+2005,6693,Roque Pérez,,39
+2005,6700,Saavedra,,69
+2005,6707,Saladillo,,95
+2005,6721,Salliqueló,,29
+2005,6714,Salto,,97
+2005,6728,San Andrés de Giles,,60
+2005,6735,San Antonio de Areco,,104
+2005,6742,San Cayetano,,25
+2005,6749,San Fernando,,480
+2005,6756,San Isidro,,1081
+2005,6760,San Miguel,,597
+2005,6547,Monte,,63
+2005,6763,San Nicolás,,677
+2005,6770,San Pedro,,202
+2005,6778,San Vicente,,205
+2005,6784,Suipacha,,34
+2005,6791,Tandil,,452
+2005,6798,Tapalqué,,25
+2005,6805,Tigre,,1087
+2005,6812,Tordillo,,4
+2005,6819,Tornquist,,45
+2005,6826,Trenque Lauquen,,135
+2005,6833,Tres Arroyos,,182
+2005,6840,Tres de Febrero,,1287
+2005,6847,Tres Lomas,,25
+2005,6854,25 de Mayo,,100
+2005,6861,Vicente López,,1010
+2005,6868,Villa Gesell,,59
+2005,6875,Villarino,,82
+2005,6882,Zárate,,386
+2006,6007,Adolfo Alsina,,40
+2006,6021,Alberti,,33
+2006,6028,Almirante Brown,,1394
+2006,6077,Arrecifes,,74
+2006,6035,Avellaneda,,886
+2006,6042,Ayacucho,,61
+2006,6049,Azul,,232
+2006,6056,Bahía Blanca,,1229
+2006,6063,Balcarce,,144
+2006,6070,Baradero,,122
+2006,6084,Benito Juárez,,62
+2006,6091,Berazategui,,1117
+2006,6098,Berisso,,287
+2006,6105,Bolívar,,117
+2006,6112,Bragado,,129
+2006,6126,Campana,,295
+2006,6134,Cañuelas,,140
+2006,6140,Capitán Sarmiento,,41
+2006,6147,Carlos Casares,,47
+2006,6154,Carlos Tejedor,,33
+2006,6161,Carmen de Areco,,40
+2006,6602,Patagones,,61
+2006,6168,Castelli,,15
+2006,6210,Chacabuco,,139
+2006,6218,Chascomús,,140
+2006,6224,Chivilcoy,,161
+2006,6175,Colón,,65
+2006,6119,Brandsen,,85
+2006,6189,Coronel Dorrego,,34
+2006,6196,Coronel Pringles,,83
+2006,6182,Coronel de Marina Leonardo Rosales,,234
+2006,6203,Coronel Suárez,,104
+2006,6231,Daireaux,,51
+2006,6420,La Costa,,227
+2006,6238,Dolores,,113
+2006,6245,Ensenada,,183
+2006,6252,Escobar,,605
+2006,6260,Esteban Echeverría,,805
+2006,6266,Exaltación de la Cruz,,103
+2006,6270,Ezeiza,,484
+2006,6274,Florencio Varela,,957
+2006,6277,Florentino Ameghino,,30
+2006,6280,General Alvarado,,143
+2006,6287,General Alvear,,36
+2006,6294,General Arenales,,32
+2006,6301,General Belgrano,,38
+2006,6308,General Guido,,13
+2006,6322,General la Madrid,,30
+2006,6329,General las Heras,,230
+2006,6336,General Lavalle,,13
+2006,6315,General Juan Madariaga,,49
+2006,6343,General Paz,,33
+2006,6351,General Pinto,,41
+2006,6357,General Pueyrredón,,2170
+2006,6364,General Rodríguez,,263
+2006,6371,General San Martín,,1122
+2006,6385,General Viamonte,,35
+2006,6392,General Villegas,,99
+2006,6014,Adolfo Gonzales Chaves,,32
+2006,6399,Guaminí,,41
+2006,6406,Hipólito Yrigoyen,,38
+2006,6408,Hurlingham,,539
+2006,6410,Ituzaingó,,503
+2006,6412,José C. Paz,,792
+2006,6413,Junín,,310
+2006,6427,La Matanza,,3417
+2006,6441,La Plata,,2528
+2006,6434,Lanús,,1376
+2006,6448,Laprida,,29
+2006,6455,Las Flores,,88
+2006,6462,Leandro N. Alem,,47
+2006,6466,Lezama,,16
+2006,6469,Lincoln,,119
+2006,6476,Lobería,,47
+2006,6483,Lobos,,110
+2006,6490,Lomas de Zamora,,2366
+2006,6497,Luján,,335
+2006,6505,Magdalena,,89
+2006,6511,Maipú,,23
+2006,6515,Malvinas Argentinas,,830
+2006,6518,Mar Chiquita,,63
+2006,6525,Marcos Paz,,122
+2006,6532,Mercedes,,239
+2006,6539,Merlo,,1512
+2006,6553,Monte Hermoso,,20
+2006,6560,Moreno,,1092
+2006,6568,Morón,,1246
+2006,6574,Navarro,,25
+2006,6581,Necochea,,292
+2006,6588,9 de Julio,,137
+2006,6595,Olavarría,,465
+2006,6609,Pehuajó,,90
+2006,6616,Pellegrini,,17
+2006,6623,Pergamino,,429
+2006,6630,Pila,,10
+2006,6638,Pilar,,667
+2006,6644,Pinamar,,88
+2006,6648,Presidente Perón,,153
+2006,6651,Puán,,51
+2006,6655,Punta Indio,,37
+2006,6658,Quilmes,,1775
+2006,6665,Ramallo,,118
+2006,6672,Rauch,,48
+2006,6679,Rivadavia,,38
+2006,6686,Rojas,,63
+2006,6693,Roque Pérez,,37
+2006,6700,Saavedra,,75
+2006,6707,Saladillo,,90
+2006,6721,Salliqueló,,16
+2006,6714,Salto,,102
+2006,6728,San Andrés de Giles,,65
+2006,6735,San Antonio de Areco,,62
+2006,6742,San Cayetano,,15
+2006,6749,San Fernando,,544
+2006,6756,San Isidro,,944
+2006,6760,San Miguel,,848
+2006,6547,Monte,,72
+2006,6763,San Nicolás,,837
+2006,6770,San Pedro,,214
+2006,6778,San Vicente,,207
+2006,6784,Suipacha,,33
+2006,6791,Tandil,,522
+2006,6798,Tapalqué,,36
+2006,6805,Tigre,,1121
+2006,6812,Tordillo,,6
+2006,6819,Tornquist,,47
+2006,6826,Trenque Lauquen,,132
+2006,6833,Tres Arroyos,,195
+2006,6840,Tres de Febrero,,1194
+2006,6847,Tres Lomas,,14
+2006,6854,25 de Mayo,,83
+2006,6861,Vicente López,,1107
+2006,6868,Villa Gesell,,82
+2006,6875,Villarino,,94
+2006,6882,Zárate,,374
+2007,6854,25 de Mayo,,88
+2007,6588,9 de Julio,,152
+2007,6007,Adolfo Alsina,,42
+2007,6014,Adolfo Gonzales Chaves,,29
+2007,6021,Alberti,,43
+2007,6028,Almirante Brown,,1686
+2007,6077,Arrecifes,,99
+2007,6035,Avellaneda,,792
+2007,6042,Ayacucho,,42
+2007,6049,Azul,,243
+2007,6056,Bahía Blanca,,1228
+2007,6063,Balcarce,,143
+2007,6070,Baradero,,130
+2007,6084,Benito Juárez,,73
+2007,6091,Berazategui,,1132
+2007,6098,Berisso,,288
+2007,6105,Bolívar,,104
+2007,6112,Bragado,,132
+2007,6119,Brandsen,,100
+2007,6126,Campana,,306
+2007,6134,Cañuelas,,148
+2007,6140,Capitán Sarmiento,,41
+2007,6147,Carlos Casares,,64
+2007,6154,Carlos Tejedor,,36
+2007,6161,Carmen de Areco,,39
+2007,6168,Castelli,,26
+2007,6210,Chacabuco,,153
+2007,6218,Chascomús,,147
+2007,6224,Chivilcoy,,170
+2007,6175,Colón,,86
+2007,6182,Coronel de Marina Leonardo Rosales,,207
+2007,6189,Coronel Dorrego,,42
+2007,6196,Coronel Pringles,,67
+2007,6203,Coronel Suárez,,11
+2007,6231,Daireaux,,38
+2007,6238,Dolores,,123
+2007,6245,Ensenada,,184
+2007,6252,Escobar,,654
+2007,6260,Esteban Echeverría,,834
+2007,6266,Exaltación de la Cruz,,120
+2007,6270,Ezeiza,,510
+2007,6274,Florencio Varela,,581
+2007,6277,Florentino Ameghino,,24
+2007,6280,General Alvarado,,126
+2007,6287,General Alvear,,28
+2007,6294,General Arenales,,37
+2007,6301,General Belgrano,,44
+2007,6308,General Guido,,6
+2007,6315,General Juan Madariaga,,35
+2007,6322,General la Madrid,,30
+2007,6329,General las Heras,,43
+2007,6336,General Lavalle,,7
+2007,6343,General Paz,,28
+2007,6351,General Pinto,,26
+2007,6357,General Pueyrredón,,801
+2007,6364,General Rodríguez,,286
+2007,6371,General San Martín,,1084
+2007,6385,General Viamonte,,42
+2007,6392,General Villegas,,108
+2007,6399,Guaminí,,33
+2007,6406,Hipólito Yrigoyen,,26
+2007,6408,Hurlingham,,544
+2007,6410,Ituzaingó,,514
+2007,6412,José C. Paz,,747
+2007,6413,Junín,,339
+2007,6420,La Costa,,257
+2007,6427,La Matanza,,3603
+2007,6441,La Plata,,2410
+2007,6434,Lanús,,1400
+2007,6448,Laprida,,40
+2007,6455,Las Flores,,91
+2007,6462,Leandro N. Alem,,50
+2007,6466,Lezama,,14
+2007,6469,Lincoln,,143
+2007,6476,Lobería,,52
+2007,6483,Lobos,,116
+2007,6490,Lomas de Zamora,,1964
+2007,6497,Luján,,321
+2007,6505,Magdalena,,87
+2007,6511,Maipú,,34
+2007,6515,Malvinas Argentinas,,790
+2007,6518,Mar Chiquita,,96
+2007,6525,Marcos Paz,,143
+2007,6532,Mercedes,,261
+2007,6539,Merlo,,1458
+2007,6547,Monte,,65
+2007,6553,Monte Hermoso,,18
+2007,6560,Moreno,,1106
+2007,6568,Morón,,1083
+2007,6574,Navarro,,50
+2007,6581,Necochea,,307
+2007,6595,Olavarría,,450
+2007,6602,Patagones,,76
+2007,6609,Pehuajó,,108
+2007,6616,Pellegrini,,47
+2007,6623,Pergamino,,395
+2007,6630,Pila,,12
+2007,6638,Pilar,,341
+2007,6644,Pinamar,,84
+2007,6648,Presidente Perón,,180
+2007,6651,Puán,,50
+2007,6655,Punta Indio,,36
+2007,6658,Quilmes,,1830
+2007,6665,Ramallo,,144
+2007,6672,Rauch,,52
+2007,6679,Rivadavia,,47
+2007,6686,Rojas,,65
+2007,6693,Roque Pérez,,42
+2007,6700,Saavedra,,41
+2007,6707,Saladillo,,117
+2007,6721,Salliqueló,,20
+2007,6714,Salto,,93
+2007,6728,San Andrés de Giles,,61
+2007,6735,San Antonio de Areco,,57
+2007,6742,San Cayetano,,26
+2007,6749,San Fernando,,451
+2007,6756,San Isidro,,1302
+2007,6760,San Miguel,,956
+2007,6763,San Nicolás,,711
+2007,6770,San Pedro,,182
+2007,6778,San Vicente,,206
+2007,6784,Suipacha,,23
+2007,6791,Tandil,,496
+2007,6798,Tapalqué,,35
+2007,6805,Tigre,,1115
+2007,6812,Tordillo,,6
+2007,6819,Tornquist,,47
+2007,6826,Trenque Lauquen,,144
+2007,6833,Tres Arroyos,,207
+2007,6840,Tres de Febrero,,1240
+2007,6847,Tres Lomas,,22
+2007,6861,Vicente López,,1014
+2007,6868,Villa Gesell,,89
+2007,6875,Villarino,,94
+2007,6882,Zárate,,396
+2008,6854,25 de Mayo,,99
+2008,6588,9 de Julio,,143
+2008,6007,Adolfo Alsina,,53
+2008,6014,Adolfo Gonzales Chaves,,35
+2008,6021,Alberti,,39
+2008,6028,Almirante Brown,,1452
+2008,6077,Arrecifes,,111
+2008,6035,Avellaneda,,946
+2008,6042,Ayacucho,,61
+2008,6049,Azul,,227
+2008,6056,Bahía Blanca,,1096
+2008,6063,Balcarce,,121
+2008,6070,Baradero,,124
+2008,6084,Benito Juárez,,63
+2008,6091,Berazategui,,1164
+2008,6098,Berisso,,394
+2008,6105,Bolívar,,110
+2008,6112,Bragado,,115
+2008,6119,Brandsen,,74
+2008,6126,Campana,,351
+2008,6134,Cañuelas,,127
+2008,6140,Capitán Sarmiento,,44
+2008,6147,Carlos Casares,,61
+2008,6154,Carlos Tejedor,,26
+2008,6161,Carmen de Areco,,23
+2008,6168,Castelli,,17
+2008,6210,Chacabuco,,154
+2008,6218,Chascomús,,125
+2008,6224,Chivilcoy,,179
+2008,6175,Colón,,88
+2008,6182,Coronel de Marina Leonardo Rosales,,212
+2008,6189,Coronel Dorrego,,52
+2008,6196,Coronel Pringles,,71
+2008,6203,Coronel Suárez,,107
+2008,6231,Daireaux,,41
+2008,6238,Dolores,,109
+2008,6245,Ensenada,,158
+2008,6252,Escobar,,623
+2008,6260,Esteban Echeverría,,785
+2008,6266,Exaltación de la Cruz,,126
+2008,6270,Ezeiza,,524
+2008,6274,Florencio Varela,,1308
+2008,6277,Florentino Ameghino,,13
+2008,6280,General Alvarado,,129
+2008,6287,General Alvear,,38
+2008,6294,General Arenales,,35
+2008,6301,General Belgrano,,52
+2008,6308,General Guido,,5
+2008,6315,General Juan Madariaga,,37
+2008,6322,General la Madrid,,44
+2008,6329,General las Heras,,28
+2008,6336,General Lavalle,,17
+2008,6343,General Paz,,37
+2008,6351,General Pinto,,44
+2008,6357,General Pueyrredón,,2198
+2008,6364,General Rodríguez,,246
+2008,6371,General San Martín,,1128
+2008,6385,General Viamonte,,52
+2008,6392,General Villegas,,107
+2008,6399,Guaminí,,49
+2008,6406,Hipólito Yrigoyen,,42
+2008,6408,Hurlingham,,510
+2008,6410,Ituzaingó,,475
+2008,6412,José C. Paz,,823
+2008,6413,Junín,,340
+2008,6420,La Costa,,247
+2008,6427,La Matanza,,3851
+2008,6441,La Plata,,3332
+2008,6434,Lanús,,1217
+2008,6448,Laprida,,28
+2008,6455,Las Flores,,61
+2008,6462,Leandro N. Alem,,56
+2008,6466,Lezama,,19
+2008,6469,Lincoln,,128
+2008,6476,Lobería,,44
+2008,6483,Lobos,,90
+2008,6490,Lomas de Zamora,,2023
+2008,6497,Luján,,316
+2008,6505,Magdalena,,111
+2008,6511,Maipú,,25
+2008,6515,Malvinas Argentinas,,858
+2008,6518,Mar Chiquita,,92
+2008,6525,Marcos Paz,,127
+2008,6532,Mercedes,,219
+2008,6539,Merlo,,1822
+2008,6547,Monte,,75
+2008,6553,Monte Hermoso,,30
+2008,6560,Moreno,,1183
+2008,6568,Morón,,942
+2008,6574,Navarro,,40
+2008,6581,Necochea,,322
+2008,6595,Olavarría,,519
+2008,6602,Patagones,,64
+2008,6609,Pehuajó,,90
+2008,6616,Pellegrini,,18
+2008,6623,Pergamino,,311
+2008,6630,Pila,,8
+2008,6638,Pilar,,672
+2008,6644,Pinamar,,104
+2008,6648,Presidente Perón,,193
+2008,6651,Puán,,57
+2008,6655,Punta Indio,,31
+2008,6658,Quilmes,,1579
+2008,6665,Ramallo,,127
+2008,6672,Rauch,,51
+2008,6679,Rivadavia,,47
+2008,6686,Rojas,,67
+2008,6693,Roque Pérez,,33
+2008,6700,Saavedra,,84
+2008,6707,Saladillo,,81
+2008,6721,Salliqueló,,25
+2008,6714,Salto,,111
+2008,6728,San Andrés de Giles,,60
+2008,6735,San Antonio de Areco,,68
+2008,6742,San Cayetano,,31
+2008,6749,San Fernando,,436
+2008,6756,San Isidro,,959
+2008,6760,San Miguel,,1045
+2008,6763,San Nicolás,,717
+2008,6770,San Pedro,,186
+2008,6778,San Vicente,,197
+2008,6784,Suipacha,,24
+2008,6791,Tandil,,446
+2008,6798,Tapalqué,,34
+2008,6805,Tigre,,1167
+2008,6812,Tordillo,,3
+2008,6819,Tornquist,,30
+2008,6826,Trenque Lauquen,,133
+2008,6833,Tres Arroyos,,159
+2008,6840,Tres de Febrero,,1130
+2008,6847,Tres Lomas,,18
+2008,6861,Vicente López,,1326
+2008,6868,Villa Gesell,,97
+2008,6875,Villarino,,86
+2008,6882,Zárate,,459
+2009,6854,25 de Mayo,,91
+2009,6588,9 de Julio,,133
+2009,6007,Adolfo Alsina,,41
+2009,6014,Adolfo Gonzales Chaves,,24
+2009,6021,Alberti,,54
+2009,6028,Almirante Brown,,1691
+2009,6077,Arrecifes,,98
+2009,6035,Avellaneda,,1069
+2009,6042,Ayacucho,,59
+2009,6049,Azul,,266
+2009,6056,Bahía Blanca,,1185
+2009,6063,Balcarce,,142
+2009,6070,Baradero,,131
+2009,6084,Benito Juárez,,70
+2009,6091,Berazategui,,871
+2009,6098,Berisso,,305
+2009,6105,Bolívar,,115
+2009,6112,Bragado,,115
+2009,6119,Brandsen,,83
+2009,6126,Campana,,323
+2009,6134,Cañuelas,,184
+2009,6140,Capitán Sarmiento,,41
+2009,6147,Carlos Casares,,253
+2009,6154,Carlos Tejedor,,22
+2009,6161,Carmen de Areco,,49
+2009,6168,Castelli,,17
+2009,6210,Chacabuco,,142
+2009,6218,Chascomús,,98
+2009,6224,Chivilcoy,,175
+2009,6175,Colón,,75
+2009,6182,Coronel de Marina Leonardo Rosales,,190
+2009,6189,Coronel Dorrego,,51
+2009,6196,Coronel Pringles,,76
+2009,6203,Coronel Suárez,,149
+2009,6231,Daireaux,,28
+2009,6238,Dolores,,106
+2009,6245,Ensenada,,203
+2009,6252,Escobar,,698
+2009,6260,Esteban Echeverría,,822
+2009,6266,Exaltación de la Cruz,,115
+2009,6270,Ezeiza,,591
+2009,6274,Florencio Varela,,870
+2009,6277,Florentino Ameghino,,19
+2009,6280,General Alvarado,,136
+2009,6287,General Alvear,,44
+2009,6294,General Arenales,,46
+2009,6301,General Belgrano,,44
+2009,6308,General Guido,,12
+2009,6315,General Juan Madariaga,,47
+2009,6322,General la Madrid,,45
+2009,6329,General las Heras,,27
+2009,6336,General Lavalle,,10
+2009,6343,General Paz,,25
+2009,6351,General Pinto,,34
+2009,6357,General Pueyrredón,,2235
+2009,6364,General Rodríguez,,235
+2009,6371,General San Martín,,1025
+2009,6385,General Viamonte,,50
+2009,6392,General Villegas,,104
+2009,6399,Guaminí,,45
+2009,6406,Hipólito Yrigoyen,,33
+2009,6408,Hurlingham,,468
+2009,6410,Ituzaingó,,526
+2009,6412,José C. Paz,,633
+2009,6413,Junín,,366
+2009,6420,La Costa,,231
+2009,6427,La Matanza,,3953
+2009,6441,La Plata,,2430
+2009,6434,Lanús,,1285
+2009,6448,Laprida,,27
+2009,6455,Las Flores,,95
+2009,6462,Leandro N. Alem,,40
+2009,6466,Lezama,,17
+2009,6469,Lincoln,,102
+2009,6476,Lobería,,40
+2009,6483,Lobos,,124
+2009,6490,Lomas de Zamora,,2147
+2009,6497,Luján,,276
+2009,6505,Magdalena,,83
+2009,6511,Maipú,,39
+2009,6515,Malvinas Argentinas,,873
+2009,6518,Mar Chiquita,,143
+2009,6525,Marcos Paz,,322
+2009,6532,Mercedes,,253
+2009,6539,Merlo,,1407
+2009,6547,Monte,,82
+2009,6553,Monte Hermoso,,27
+2009,6560,Moreno,,1023
+2009,6568,Morón,,1113
+2009,6574,Navarro,,40
+2009,6581,Necochea,,314
+2009,6595,Olavarría,,423
+2009,6602,Patagones,,79
+2009,6609,Pehuajó,,97
+2009,6616,Pellegrini,,20
+2009,6623,Pergamino,,494
+2009,6630,Pila,,11
+2009,6638,Pilar,,803
+2009,6644,Pinamar,,77
+2009,6648,Presidente Perón,,178
+2009,6651,Puán,,45
+2009,6655,Punta Indio,,38
+2009,6658,Quilmes,,1866
+2009,6665,Ramallo,,122
+2009,6672,Rauch,,49
+2009,6679,Rivadavia,,56
+2009,6686,Rojas,,67
+2009,6693,Roque Pérez,,37
+2009,6700,Saavedra,,63
+2009,6707,Saladillo,,85
+2009,6721,Salliqueló,,13
+2009,6714,Salto,,105
+2009,6728,San Andrés de Giles,,65
+2009,6735,San Antonio de Areco,,78
+2009,6742,San Cayetano,,40
+2009,6749,San Fernando,,482
+2009,6756,San Isidro,,1256
+2009,6760,San Miguel,,984
+2009,6763,San Nicolás,,865
+2009,6770,San Pedro,,177
+2009,6778,San Vicente,,230
+2009,6784,Suipacha,,74
+2009,6791,Tandil,,459
+2009,6798,Tapalqué,,28
+2009,6805,Tigre,,1217
+2009,6812,Tordillo,,8
+2009,6819,Tornquist,,45
+2009,6826,Trenque Lauquen,,126
+2009,6833,Tres Arroyos,,156
+2009,6840,Tres de Febrero,,1077
+2009,6847,Tres Lomas,,28
+2009,6861,Vicente López,,1078
+2009,6868,Villa Gesell,,86
+2009,6875,Villarino,,83
+2009,6882,Zárate,,423
+2010,6854,25 de Mayo,diferente sexo,96
+2010,6588,9 de Julio,diferente sexo,151
+2010,6007,Adolfo Alsina,diferente sexo,43
+2010,6014,Adolfo Gonzales Chaves,diferente sexo,33
+2010,6021,Alberti,diferente sexo,46
+2010,6028,Almirante Brown,diferente sexo,1747
+2010,6077,Arrecifes,diferente sexo,83
+2010,6035,Avellaneda,diferente sexo,1037
+2010,6042,Ayacucho,diferente sexo,65
+2010,6049,Azul,diferente sexo,241
+2010,6056,Bahía Blanca,diferente sexo,1196
+2010,6063,Balcarce,diferente sexo,195
+2010,6070,Baradero,diferente sexo,118
+2010,6084,Benito Juárez,diferente sexo,71
+2010,6091,Berazategui,diferente sexo,1197
+2010,6098,Berisso,diferente sexo,326
+2010,6105,Bolívar,diferente sexo,129
+2010,6112,Bragado,diferente sexo,110
+2010,6119,Brandsen,diferente sexo,100
+2010,6126,Campana,diferente sexo,337
+2010,6134,Cañuelas,diferente sexo,141
+2010,6140,Capitán Sarmiento,diferente sexo,50
+2010,6147,Carlos Casares,diferente sexo,67
+2010,6154,Carlos Tejedor,diferente sexo,33
+2010,6161,Carmen de Areco,diferente sexo,38
+2010,6168,Castelli,diferente sexo,24
+2010,6210,Chacabuco,diferente sexo,117
+2010,6218,Chascomús,diferente sexo,98
+2010,6224,Chivilcoy,diferente sexo,200
+2010,6175,Colón,diferente sexo,83
+2010,6182,Coronel de Marina Leonardo Rosales,diferente sexo,181
+2010,6189,Coronel Dorrego,diferente sexo,38
+2010,6196,Coronel Pringles,diferente sexo,85
+2010,6203,Coronel Suárez,diferente sexo,129
+2010,6231,Daireaux,diferente sexo,36
+2010,6238,Dolores,diferente sexo,141
+2010,6245,Ensenada,diferente sexo,219
+2010,6252,Escobar,diferente sexo,721
+2010,6260,Esteban Echeverría,diferente sexo,746
+2010,6266,Exaltación de la Cruz,diferente sexo,144
+2010,6270,Ezeiza,diferente sexo,527
+2010,6274,Florencio Varela,diferente sexo,1164
+2010,6277,Florentino Ameghino,diferente sexo,38
+2010,6280,General Alvarado,diferente sexo,139
+2010,6287,General Alvear,diferente sexo,36
+2010,6294,General Arenales,diferente sexo,46
+2010,6301,General Belgrano,diferente sexo,67
+2010,6308,General Guido,diferente sexo,10
+2010,6315,General Juan Madariaga,diferente sexo,65
+2010,6322,General la Madrid,diferente sexo,30
+2010,6329,General las Heras,diferente sexo,40
+2010,6336,General Lavalle,diferente sexo,5
+2010,6343,General Paz,diferente sexo,27
+2010,6351,General Pinto,diferente sexo,50
+2010,6357,General Pueyrredón,diferente sexo,2203
+2010,6364,General Rodríguez,diferente sexo,262
+2010,6371,General San Martín,diferente sexo,1069
+2010,6385,General Viamonte,diferente sexo,49
+2010,6392,General Villegas,diferente sexo,105
+2010,6399,Guaminí,diferente sexo,28
+2010,6406,Hipólito Yrigoyen,diferente sexo,36
+2010,6408,Hurlingham,diferente sexo,479
+2010,6410,Ituzaingó,diferente sexo,520
+2010,6412,José C. Paz,diferente sexo,751
+2010,6413,Junín,diferente sexo,486
+2010,6420,La Costa,diferente sexo,251
+2010,6427,La Matanza,diferente sexo,3878
+2010,6441,La Plata,diferente sexo,2573
+2010,6434,Lanús,diferente sexo,1170
+2010,6448,Laprida,diferente sexo,35
+2010,6455,Las Flores,diferente sexo,85
+2010,6462,Leandro N. Alem,diferente sexo,49
+2010,6466,Lezama,diferente sexo,14
+2010,6469,Lincoln,diferente sexo,143
+2010,6476,Lobería,diferente sexo,36
+2010,6483,Lobos,diferente sexo,199
+2010,6490,Lomas de Zamora,diferente sexo,2192
+2010,6497,Luján,diferente sexo,326
+2010,6505,Magdalena,diferente sexo,85
+2010,6511,Maipú,diferente sexo,35
+2010,6515,Malvinas Argentinas,diferente sexo,842
+2010,6518,Mar Chiquita,diferente sexo,73
+2010,6525,Marcos Paz,diferente sexo,132
+2010,6532,Mercedes,diferente sexo,227
+2010,6539,Merlo,diferente sexo,1472
+2010,6547,Monte,diferente sexo,89
+2010,6553,Monte Hermoso,diferente sexo,38
+2010,6560,Moreno,diferente sexo,1162
+2010,6568,Morón,diferente sexo,1128
+2010,6574,Navarro,diferente sexo,29
+2010,6581,Necochea,diferente sexo,296
+2010,6595,Olavarría,diferente sexo,446
+2010,6602,Patagones,diferente sexo,76
+2010,6609,Pehuajó,diferente sexo,95
+2010,6616,Pellegrini,diferente sexo,17
+2010,6623,Pergamino,diferente sexo,375
+2010,6630,Pila,diferente sexo,16
+2010,6638,Pilar,diferente sexo,922
+2010,6644,Pinamar,diferente sexo,86
+2010,6648,Presidente Perón,diferente sexo,198
+2010,6651,Puán,diferente sexo,60
+2010,6655,Punta Indio,diferente sexo,21
+2010,6658,Quilmes,diferente sexo,1832
+2010,6665,Ramallo,diferente sexo,103
+2010,6672,Rauch,diferente sexo,47
+2010,6679,Rivadavia,diferente sexo,40
+2010,6686,Rojas,diferente sexo,52
+2010,6693,Roque Pérez,diferente sexo,27
+2010,6700,Saavedra,diferente sexo,78
+2010,6707,Saladillo,diferente sexo,86
+2010,6721,Salliqueló,diferente sexo,15
+2010,6714,Salto,diferente sexo,93
+2010,6728,San Andrés de Giles,diferente sexo,64
+2010,6735,San Antonio de Areco,diferente sexo,89
+2010,6742,San Cayetano,diferente sexo,35
+2010,6749,San Fernando,diferente sexo,446
+2010,6756,San Isidro,diferente sexo,1283
+2010,6760,San Miguel,diferente sexo,958
+2010,6763,San Nicolás,diferente sexo,654
+2010,6770,San Pedro,diferente sexo,188
+2010,6778,San Vicente,diferente sexo,218
+2010,6784,Suipacha,diferente sexo,25
+2010,6791,Tandil,diferente sexo,365
+2010,6798,Tapalqué,diferente sexo,25
+2010,6805,Tigre,diferente sexo,1181
+2010,6812,Tordillo,diferente sexo,10
+2010,6819,Tornquist,diferente sexo,39
+2010,6826,Trenque Lauquen,diferente sexo,142
+2010,6833,Tres Arroyos,diferente sexo,201
+2010,6840,Tres de Febrero,diferente sexo,1090
+2010,6847,Tres Lomas,diferente sexo,8
+2010,6861,Vicente López,diferente sexo,753
+2010,6868,Villa Gesell,diferente sexo,101
+2010,6875,Villarino,diferente sexo,78
+2010,6882,Zárate,diferente sexo,458
+2010,6007,Adolfo Alsina,igual sexo,1
+2010,6021,Alberti,igual sexo,1
+2010,6028,Almirante Brown,igual sexo,8
+2010,6035,Avellaneda,igual sexo,6
+2010,6042,Ayacucho,igual sexo,1
+2010,6049,Azul,igual sexo,2
+2010,6056,Bahía Blanca,igual sexo,2
+2010,6063,Balcarce,igual sexo,1
+2010,6091,Berazategui,igual sexo,11
+2010,6098,Berisso,igual sexo,1
+2010,6105,Bolívar,igual sexo,1
+2010,6119,Brandsen,igual sexo,2
+2010,6140,Capitán Sarmiento,igual sexo,2
+2010,6147,Carlos Casares,igual sexo,1
+2010,6224,Chivilcoy,igual sexo,2
+2010,6182,Coronel de Marina Leonardo Rosales,igual sexo,1
+2010,6196,Coronel Pringles,igual sexo,1
+2010,6203,Coronel Suárez,igual sexo,1
+2010,6252,Escobar,igual sexo,4
+2010,6260,Esteban Echeverría,igual sexo,2
+2010,6270,Ezeiza,igual sexo,5
+2010,6274,Florencio Varela,igual sexo,7
+2010,6280,General Alvarado,igual sexo,3
+2010,6294,General Arenales,igual sexo,3
+2010,6351,General Pinto,igual sexo,1
+2010,6357,General Pueyrredón,igual sexo,32
+2010,6364,General Rodríguez,igual sexo,1
+2010,6371,General San Martín,igual sexo,2
+2010,6408,Hurlingham,igual sexo,4
+2010,6410,Ituzaingó,igual sexo,7
+2010,6412,José C. Paz,igual sexo,3
+2010,6413,Junín,igual sexo,2
+2010,6420,La Costa,igual sexo,2
+2010,6427,La Matanza,igual sexo,14
+2010,6441,La Plata,igual sexo,23
+2010,6434,Lanús,igual sexo,17
+2010,6483,Lobos,igual sexo,1
+2010,6490,Lomas de Zamora,igual sexo,13
+2010,6497,Luján,igual sexo,4
+2010,6515,Malvinas Argentinas,igual sexo,2
+2010,6518,Mar Chiquita,igual sexo,5
+2010,6525,Marcos Paz,igual sexo,7
+2010,6532,Mercedes,igual sexo,1
+2010,6539,Merlo,igual sexo,5
+2010,6547,Monte,igual sexo,1
+2010,6560,Moreno,igual sexo,10
+2010,6568,Morón,igual sexo,9
+2010,6581,Necochea,igual sexo,4
+2010,6602,Patagones,igual sexo,1
+2010,6609,Pehuajó,igual sexo,5
+2010,6623,Pergamino,igual sexo,3
+2010,6630,Pila,igual sexo,1
+2010,6638,Pilar,igual sexo,15
+2010,6651,Puán,igual sexo,1
+2010,6658,Quilmes,igual sexo,12
+2010,6686,Rojas,igual sexo,1
+2010,6693,Roque Pérez,igual sexo,1
+2010,6714,Salto,igual sexo,1
+2010,6749,San Fernando,igual sexo,2
+2010,6756,San Isidro,igual sexo,9
+2010,6760,San Miguel,igual sexo,4
+2010,6778,San Vicente,igual sexo,3
+2010,6784,Suipacha,igual sexo,1
+2010,6791,Tandil,igual sexo,3
+2010,6805,Tigre,igual sexo,18
+2010,6840,Tres de Febrero,igual sexo,14
+2010,6861,Vicente López,igual sexo,11
+2010,6868,Villa Gesell,igual sexo,2
+2010,6875,Villarino,igual sexo,1
+2010,6882,Zárate,igual sexo,1
+2011,6854,25 de Mayo,diferente sexo,107
+2011,6588,9 de Julio,diferente sexo,136
+2011,6007,Adolfo Alsina,diferente sexo,51
+2011,6014,Adolfo Gonzales Chaves,diferente sexo,36
+2011,6021,Alberti,diferente sexo,26
+2011,6028,Almirante Brown,diferente sexo,1699
+2011,6077,Arrecifes,diferente sexo,98
+2011,6035,Avellaneda,diferente sexo,771
+2011,6042,Ayacucho,diferente sexo,40
+2011,6049,Azul,diferente sexo,227
+2011,6056,Bahía Blanca,diferente sexo,1365
+2011,6063,Balcarce,diferente sexo,161
+2011,6070,Baradero,diferente sexo,121
+2011,6084,Benito Juárez,diferente sexo,78
+2011,6091,Berazategui,diferente sexo,576
+2011,6098,Berisso,diferente sexo,245
+2011,6105,Bolívar,diferente sexo,112
+2011,6112,Bragado,diferente sexo,105
+2011,6119,Brandsen,diferente sexo,100
+2011,6126,Campana,diferente sexo,551
+2011,6134,Cañuelas,diferente sexo,179
+2011,6140,Capitán Sarmiento,diferente sexo,50
+2011,6147,Carlos Casares,diferente sexo,57
+2011,6154,Carlos Tejedor,diferente sexo,18
+2011,6161,Carmen de Areco,diferente sexo,34
+2011,6168,Castelli,diferente sexo,12
+2011,6210,Chacabuco,diferente sexo,116
+2011,6218,Chascomús,diferente sexo,138
+2011,6224,Chivilcoy,diferente sexo,155
+2011,6175,Colón,diferente sexo,64
+2011,6182,Coronel de Marina Leonardo Rosales,diferente sexo,204
+2011,6189,Coronel Dorrego,diferente sexo,26
+2011,6196,Coronel Pringles,diferente sexo,73
+2011,6203,Coronel Suárez,diferente sexo,147
+2011,6231,Daireaux,diferente sexo,43
+2011,6238,Dolores,diferente sexo,90
+2011,6245,Ensenada,diferente sexo,213
+2011,6252,Escobar,diferente sexo,703
+2011,6260,Esteban Echeverría,diferente sexo,895
+2011,6266,Exaltación de la Cruz,diferente sexo,89
+2011,6270,Ezeiza,diferente sexo,628
+2011,6274,Florencio Varela,diferente sexo,1015
+2011,6277,Florentino Ameghino,diferente sexo,36
+2011,6280,General Alvarado,diferente sexo,108
+2011,6287,General Alvear,diferente sexo,40
+2011,6294,General Arenales,diferente sexo,42
+2011,6301,General Belgrano,diferente sexo,56
+2011,6308,General Guido,diferente sexo,10
+2011,6315,General Juan Madariaga,diferente sexo,50
+2011,6322,General la Madrid,diferente sexo,44
+2011,6329,General las Heras,diferente sexo,32
+2011,6336,General Lavalle,diferente sexo,9
+2011,6343,General Paz,diferente sexo,29
+2011,6351,General Pinto,diferente sexo,32
+2011,6357,General Pueyrredón,diferente sexo,2180
+2011,6364,General Rodríguez,diferente sexo,246
+2011,6371,General San Martín,diferente sexo,961
+2011,6385,General Viamonte,diferente sexo,61
+2011,6392,General Villegas,diferente sexo,91
+2011,6399,Guaminí,diferente sexo,32
+2011,6406,Hipólito Yrigoyen,diferente sexo,32
+2011,6408,Hurlingham,diferente sexo,484
+2011,6410,Ituzaingó,diferente sexo,592
+2011,6412,José C. Paz,diferente sexo,804
+2011,6413,Junín,diferente sexo,288
+2011,6420,La Costa,diferente sexo,239
+2011,6427,La Matanza,diferente sexo,3952
+2011,6441,La Plata,diferente sexo,2301
+2011,6434,Lanús,diferente sexo,1177
+2011,6448,Laprida,diferente sexo,45
+2011,6455,Las Flores,diferente sexo,77
+2011,6462,Leandro N. Alem,diferente sexo,42
+2011,6466,Lezama,diferente sexo,15
+2011,6469,Lincoln,diferente sexo,90
+2011,6476,Lobería,diferente sexo,28
+2011,6483,Lobos,diferente sexo,123
+2011,6490,Lomas de Zamora,diferente sexo,2077
+2011,6497,Luján,diferente sexo,313
+2011,6505,Magdalena,diferente sexo,90
+2011,6511,Maipú,diferente sexo,29
+2011,6515,Malvinas Argentinas,diferente sexo,850
+2011,6518,Mar Chiquita,diferente sexo,96
+2011,6525,Marcos Paz,diferente sexo,141
+2011,6532,Mercedes,diferente sexo,230
+2011,6539,Merlo,diferente sexo,1522
+2011,6547,Monte,diferente sexo,93
+2011,6553,Monte Hermoso,diferente sexo,26
+2011,6560,Moreno,diferente sexo,1243
+2011,6568,Morón,diferente sexo,977
+2011,6574,Navarro,diferente sexo,42
+2011,6581,Necochea,diferente sexo,304
+2011,6595,Olavarría,diferente sexo,416
+2011,6602,Patagones,diferente sexo,89
+2011,6609,Pehuajó,diferente sexo,113
+2011,6616,Pellegrini,diferente sexo,20
+2011,6623,Pergamino,diferente sexo,350
+2011,6630,Pila,diferente sexo,10
+2011,6638,Pilar,diferente sexo,831
+2011,6644,Pinamar,diferente sexo,49
+2011,6648,Presidente Perón,diferente sexo,213
+2011,6651,Puán,diferente sexo,55
+2011,6655,Punta Indio,diferente sexo,40
+2011,6658,Quilmes,diferente sexo,1432
+2011,6665,Ramallo,diferente sexo,123
+2011,6672,Rauch,diferente sexo,40
+2011,6679,Rivadavia,diferente sexo,43
+2011,6686,Rojas,diferente sexo,53
+2011,6693,Roque Pérez,diferente sexo,55
+2011,6700,Saavedra,diferente sexo,55
+2011,6707,Saladillo,diferente sexo,101
+2011,6721,Salliqueló,diferente sexo,25
+2011,6714,Salto,diferente sexo,111
+2011,6728,San Andrés de Giles,diferente sexo,54
+2011,6735,San Antonio de Areco,diferente sexo,85
+2011,6742,San Cayetano,diferente sexo,23
+2011,6749,San Fernando,diferente sexo,432
+2011,6756,San Isidro,diferente sexo,1257
+2011,6760,San Miguel,diferente sexo,975
+2011,6763,San Nicolás,diferente sexo,683
+2011,6770,San Pedro,diferente sexo,162
+2011,6778,San Vicente,diferente sexo,204
+2011,6784,Suipacha,diferente sexo,29
+2011,6791,Tandil,diferente sexo,621
+2011,6798,Tapalqué,diferente sexo,28
+2011,6805,Tigre,diferente sexo,1116
+2011,6812,Tordillo,diferente sexo,4
+2011,6819,Tornquist,diferente sexo,49
+2011,6826,Trenque Lauquen,diferente sexo,114
+2011,6833,Tres Arroyos,diferente sexo,202
+2011,6840,Tres de Febrero,diferente sexo,1157
+2011,6847,Tres Lomas,diferente sexo,11
+2011,6861,Vicente López,diferente sexo,878
+2011,6868,Villa Gesell,diferente sexo,117
+2011,6875,Villarino,diferente sexo,80
+2011,6882,Zárate,diferente sexo,416
+2011,6854,25 de Mayo,igual sexo,4
+2011,6588,9 de Julio,igual sexo,9
+2011,6007,Adolfo Alsina,igual sexo,3
+2011,6021,Alberti,igual sexo,6
+2011,6028,Almirante Brown,igual sexo,28
+2011,6035,Avellaneda,igual sexo,21
+2011,6042,Ayacucho,igual sexo,8
+2011,6049,Azul,igual sexo,2
+2011,6056,Bahía Blanca,igual sexo,9
+2011,6084,Benito Juárez,igual sexo,7
+2011,6091,Berazategui,igual sexo,5
+2011,6098,Berisso,igual sexo,3
+2011,6112,Bragado,igual sexo,1
+2011,6119,Brandsen,igual sexo,1
+2011,6126,Campana,igual sexo,2
+2011,6134,Cañuelas,igual sexo,3
+2011,6140,Capitán Sarmiento,igual sexo,7
+2011,6218,Chascomús,igual sexo,9
+2011,6224,Chivilcoy,igual sexo,3
+2011,6175,Colón,igual sexo,1
+2011,6196,Coronel Pringles,igual sexo,2
+2011,6203,Coronel Suárez,igual sexo,1
+2011,6238,Dolores,igual sexo,3
+2011,6245,Ensenada,igual sexo,3
+2011,6252,Escobar,igual sexo,9
+2011,6260,Esteban Echeverría,igual sexo,4
+2011,6266,Exaltación de la Cruz,igual sexo,2
+2011,6270,Ezeiza,igual sexo,10
+2011,6274,Florencio Varela,igual sexo,7
+2011,6294,General Arenales,igual sexo,4
+2011,6315,General Juan Madariaga,igual sexo,2
+2011,6329,General las Heras,igual sexo,2
+2011,6343,General Paz,igual sexo,2
+2011,6357,General Pueyrredón,igual sexo,61
+2011,6364,General Rodríguez,igual sexo,2
+2011,6371,General San Martín,igual sexo,17
+2011,6392,General Villegas,igual sexo,1
+2011,6399,Guaminí,igual sexo,5
+2011,6408,Hurlingham,igual sexo,4
+2011,6410,Ituzaingó,igual sexo,7
+2011,6412,José C. Paz,igual sexo,6
+2011,6413,Junín,igual sexo,9
+2011,6420,La Costa,igual sexo,5
+2011,6427,La Matanza,igual sexo,25
+2011,6441,La Plata,igual sexo,36
+2011,6434,Lanús,igual sexo,22
+2011,6462,Leandro N. Alem,igual sexo,3
+2011,6469,Lincoln,igual sexo,2
+2011,6490,Lomas de Zamora,igual sexo,17
+2011,6497,Luján,igual sexo,3
+2011,6505,Magdalena,igual sexo,1
+2011,6515,Malvinas Argentinas,igual sexo,5
+2011,6518,Mar Chiquita,igual sexo,11
+2011,6525,Marcos Paz,igual sexo,2
+2011,6532,Mercedes,igual sexo,6
+2011,6539,Merlo,igual sexo,12
+2011,6547,Monte,igual sexo,1
+2011,6560,Moreno,igual sexo,18
+2011,6568,Morón,igual sexo,15
+2011,6574,Navarro,igual sexo,1
+2011,6581,Necochea,igual sexo,6
+2011,6595,Olavarría,igual sexo,8
+2011,6609,Pehuajó,igual sexo,1
+2011,6623,Pergamino,igual sexo,5
+2011,6630,Pila,igual sexo,6
+2011,6638,Pilar,igual sexo,16
+2011,6644,Pinamar,igual sexo,6
+2011,6648,Presidente Perón,igual sexo,1
+2011,6658,Quilmes,igual sexo,15
+2011,6665,Ramallo,igual sexo,1
+2011,6679,Rivadavia,igual sexo,4
+2011,6686,Rojas,igual sexo,1
+2011,6693,Roque Pérez,igual sexo,2
+2011,6714,Salto,igual sexo,1
+2011,6728,San Andrés de Giles,igual sexo,4
+2011,6749,San Fernando,igual sexo,11
+2011,6756,San Isidro,igual sexo,14
+2011,6760,San Miguel,igual sexo,6
+2011,6763,San Nicolás,igual sexo,5
+2011,6770,San Pedro,igual sexo,1
+2011,6778,San Vicente,igual sexo,7
+2011,6791,Tandil,igual sexo,2
+2011,6805,Tigre,igual sexo,23
+2011,6840,Tres de Febrero,igual sexo,15
+2011,6861,Vicente López,igual sexo,19
+2011,6868,Villa Gesell,igual sexo,5
+2011,6882,Zárate,igual sexo,4
+2012,6854,25 de Mayo,diferente sexo,94
+2012,6588,9 de Julio,diferente sexo,125
+2012,6007,Adolfo Alsina,diferente sexo,53
+2012,6014,Adolfo Gonzales Chaves,diferente sexo,25
+2012,6021,Alberti,diferente sexo,40
+2012,6028,Almirante Brown,diferente sexo,1742
+2012,6077,Arrecifes,diferente sexo,76
+2012,6035,Avellaneda,diferente sexo,966
+2012,6042,Ayacucho,diferente sexo,66
+2012,6049,Azul,diferente sexo,218
+2012,6056,Bahía Blanca,diferente sexo,1254
+2012,6063,Balcarce,diferente sexo,146
+2012,6070,Baradero,diferente sexo,135
+2012,6084,Benito Juárez,diferente sexo,51
+2012,6091,Berazategui,diferente sexo,1086
+2012,6098,Berisso,diferente sexo,284
+2012,6105,Bolívar,diferente sexo,92
+2012,6112,Bragado,diferente sexo,106
+2012,6119,Brandsen,diferente sexo,98
+2012,6126,Campana,diferente sexo,354
+2012,6134,Cañuelas,diferente sexo,154
+2012,6140,Capitán Sarmiento,diferente sexo,46
+2012,6147,Carlos Casares,diferente sexo,70
+2012,6154,Carlos Tejedor,diferente sexo,26
+2012,6161,Carmen de Areco,diferente sexo,46
+2012,6168,Castelli,diferente sexo,23
+2012,6210,Chacabuco,diferente sexo,140
+2012,6218,Chascomús,diferente sexo,87
+2012,6224,Chivilcoy,diferente sexo,150
+2012,6175,Colón,diferente sexo,66
+2012,6182,Coronel de Marina Leonardo Rosales,diferente sexo,234
+2012,6189,Coronel Dorrego,diferente sexo,55
+2012,6196,Coronel Pringles,diferente sexo,60
+2012,6203,Coronel Suárez,diferente sexo,144
+2012,6231,Daireaux,diferente sexo,38
+2012,6238,Dolores,diferente sexo,93
+2012,6245,Ensenada,diferente sexo,214
+2012,6252,Escobar,diferente sexo,721
+2012,6260,Esteban Echeverría,diferente sexo,933
+2012,6266,Exaltación de la Cruz,diferente sexo,124
+2012,6270,Ezeiza,diferente sexo,563
+2012,6274,Florencio Varela,diferente sexo,921
+2012,6277,Florentino Ameghino,diferente sexo,35
+2012,6280,General Alvarado,diferente sexo,73
+2012,6287,General Alvear,diferente sexo,39
+2012,6294,General Arenales,diferente sexo,30
+2012,6301,General Belgrano,diferente sexo,41
+2012,6308,General Guido,diferente sexo,13
+2012,6315,General Juan Madariaga,diferente sexo,25
+2012,6322,General la Madrid,diferente sexo,33
+2012,6329,General las Heras,diferente sexo,41
+2012,6336,General Lavalle,diferente sexo,9
+2012,6343,General Paz,diferente sexo,24
+2012,6351,General Pinto,diferente sexo,23
+2012,6357,General Pueyrredón,diferente sexo,1999
+2012,6364,General Rodríguez,diferente sexo,294
+2012,6371,General San Martín,diferente sexo,992
+2012,6385,General Viamonte,diferente sexo,35
+2012,6392,General Villegas,diferente sexo,99
+2012,6399,Guaminí,diferente sexo,33
+2012,6406,Hipólito Yrigoyen,diferente sexo,16
+2012,6408,Hurlingham,diferente sexo,473
+2012,6410,Ituzaingó,diferente sexo,477
+2012,6412,José C. Paz,diferente sexo,811
+2012,6413,Junín,diferente sexo,312
+2012,6420,La Costa,diferente sexo,258
+2012,6427,La Matanza,diferente sexo,4385
+2012,6441,La Plata,diferente sexo,2316
+2012,6434,Lanús,diferente sexo,1126
+2012,6448,Laprida,diferente sexo,40
+2012,6455,Las Flores,diferente sexo,65
+2012,6462,Leandro N. Alem,diferente sexo,45
+2012,6466,Lezama,diferente sexo,16
+2012,6469,Lincoln,diferente sexo,109
+2012,6476,Lobería,diferente sexo,33
+2012,6483,Lobos,diferente sexo,117
+2012,6490,Lomas de Zamora,diferente sexo,1623
+2012,6497,Luján,diferente sexo,296
+2012,6505,Magdalena,diferente sexo,66
+2012,6511,Maipú,diferente sexo,75
+2012,6515,Malvinas Argentinas,diferente sexo,849
+2012,6518,Mar Chiquita,diferente sexo,136
+2012,6525,Marcos Paz,diferente sexo,134
+2012,6532,Mercedes,diferente sexo,230
+2012,6539,Merlo,diferente sexo,1364
+2012,6547,Monte,diferente sexo,83
+2012,6553,Monte Hermoso,diferente sexo,26
+2012,6560,Moreno,diferente sexo,1263
+2012,6568,Morón,diferente sexo,966
+2012,6574,Navarro,diferente sexo,34
+2012,6581,Necochea,diferente sexo,259
+2012,6595,Olavarría,diferente sexo,430
+2012,6602,Patagones,diferente sexo,69
+2012,6609,Pehuajó,diferente sexo,120
+2012,6616,Pellegrini,diferente sexo,14
+2012,6623,Pergamino,diferente sexo,509
+2012,6630,Pila,diferente sexo,4
+2012,6638,Pilar,diferente sexo,946
+2012,6644,Pinamar,diferente sexo,179
+2012,6648,Presidente Perón,diferente sexo,239
+2012,6651,Puán,diferente sexo,33
+2012,6655,Punta Indio,diferente sexo,38
+2012,6658,Quilmes,diferente sexo,1663
+2012,6665,Ramallo,diferente sexo,114
+2012,6672,Rauch,diferente sexo,42
+2012,6679,Rivadavia,diferente sexo,64
+2012,6686,Rojas,diferente sexo,56
+2012,6693,Roque Pérez,diferente sexo,65
+2012,6700,Saavedra,diferente sexo,63
+2012,6707,Saladillo,diferente sexo,58
+2012,6721,Salliqueló,diferente sexo,22
+2012,6714,Salto,diferente sexo,107
+2012,6728,San Andrés de Giles,diferente sexo,61
+2012,6735,San Antonio de Areco,diferente sexo,77
+2012,6742,San Cayetano,diferente sexo,25
+2012,6749,San Fernando,diferente sexo,429
+2012,6756,San Isidro,diferente sexo,1195
+2012,6760,San Miguel,diferente sexo,922
+2012,6763,San Nicolás,diferente sexo,613
+2012,6770,San Pedro,diferente sexo,188
+2012,6778,San Vicente,diferente sexo,184
+2012,6784,Suipacha,diferente sexo,24
+2012,6791,Tandil,diferente sexo,440
+2012,6798,Tapalqué,diferente sexo,15
+2012,6805,Tigre,diferente sexo,1211
+2012,6812,Tordillo,diferente sexo,5
+2012,6819,Tornquist,diferente sexo,35
+2012,6826,Trenque Lauquen,diferente sexo,121
+2012,6833,Tres Arroyos,diferente sexo,186
+2012,6840,Tres de Febrero,diferente sexo,1086
+2012,6847,Tres Lomas,diferente sexo,8
+2012,6861,Vicente López,diferente sexo,771
+2012,6868,Villa Gesell,diferente sexo,92
+2012,6875,Villarino,diferente sexo,85
+2012,6882,Zárate,diferente sexo,385
+2012,6854,25 de Mayo,igual sexo,2
+2012,6028,Almirante Brown,igual sexo,19
+2012,6035,Avellaneda,igual sexo,43
+2012,6056,Bahía Blanca,igual sexo,4
+2012,6063,Balcarce,igual sexo,1
+2012,6070,Baradero,igual sexo,1
+2012,6091,Berazategui,igual sexo,14
+2012,6098,Berisso,igual sexo,10
+2012,6105,Bolívar,igual sexo,2
+2012,6126,Campana,igual sexo,5
+2012,6134,Cañuelas,igual sexo,1
+2012,6154,Carlos Tejedor,igual sexo,1
+2012,6218,Chascomús,igual sexo,1
+2012,6224,Chivilcoy,igual sexo,1
+2012,6175,Colón,igual sexo,1
+2012,6182,Coronel de Marina Leonardo Rosales,igual sexo,2
+2012,6238,Dolores,igual sexo,1
+2012,6245,Ensenada,igual sexo,4
+2012,6252,Escobar,igual sexo,3
+2012,6260,Esteban Echeverría,igual sexo,6
+2012,6266,Exaltación de la Cruz,igual sexo,1
+2012,6270,Ezeiza,igual sexo,6
+2012,6274,Florencio Varela,igual sexo,6
+2012,6280,General Alvarado,igual sexo,1
+2012,6329,General las Heras,igual sexo,1
+2012,6343,General Paz,igual sexo,1
+2012,6351,General Pinto,igual sexo,1
+2012,6357,General Pueyrredón,igual sexo,25
+2012,6364,General Rodríguez,igual sexo,4
+2012,6371,General San Martín,igual sexo,14
+2012,6408,Hurlingham,igual sexo,2
+2012,6410,Ituzaingó,igual sexo,3
+2012,6413,Junín,igual sexo,3
+2012,6420,La Costa,igual sexo,6
+2012,6427,La Matanza,igual sexo,32
+2012,6441,La Plata,igual sexo,58
+2012,6434,Lanús,igual sexo,31
+2012,6455,Las Flores,igual sexo,1
+2012,6483,Lobos,igual sexo,2
+2012,6490,Lomas de Zamora,igual sexo,14
+2012,6505,Magdalena,igual sexo,2
+2012,6515,Malvinas Argentinas,igual sexo,7
+2012,6518,Mar Chiquita,igual sexo,3
+2012,6532,Mercedes,igual sexo,2
+2012,6539,Merlo,igual sexo,13
+2012,6547,Monte,igual sexo,1
+2012,6560,Moreno,igual sexo,8
+2012,6568,Morón,igual sexo,15
+2012,6574,Navarro,igual sexo,2
+2012,6581,Necochea,igual sexo,3
+2012,6595,Olavarría,igual sexo,1
+2012,6616,Pellegrini,igual sexo,2
+2012,6638,Pilar,igual sexo,13
+2012,6648,Presidente Perón,igual sexo,1
+2012,6658,Quilmes,igual sexo,12
+2012,6693,Roque Pérez,igual sexo,2
+2012,6728,San Andrés de Giles,igual sexo,1
+2012,6749,San Fernando,igual sexo,8
+2012,6756,San Isidro,igual sexo,14
+2012,6760,San Miguel,igual sexo,11
+2012,6763,San Nicolás,igual sexo,3
+2012,6770,San Pedro,igual sexo,1
+2012,6778,San Vicente,igual sexo,15
+2012,6791,Tandil,igual sexo,3
+2012,6805,Tigre,igual sexo,10
+2012,6826,Trenque Lauquen,igual sexo,1
+2012,6840,Tres de Febrero,igual sexo,17
+2012,6861,Vicente López,igual sexo,15
+2012,6882,Zárate,igual sexo,2
+2013,6854,25 de Mayo,diferente sexo,75
+2013,6588,9 de Julio,diferente sexo,125
+2013,6007,Adolfo Alsina,diferente sexo,43
+2013,6014,Adolfo Gonzales Chaves,diferente sexo,27
+2013,6021,Alberti,diferente sexo,28
+2013,6028,Almirante Brown,diferente sexo,1905
+2013,6077,Arrecifes,diferente sexo,83
+2013,6035,Avellaneda,diferente sexo,931
+2013,6042,Ayacucho,diferente sexo,61
+2013,6049,Azul,diferente sexo,157
+2013,6056,Bahía Blanca,diferente sexo,1133
+2013,6063,Balcarce,diferente sexo,127
+2013,6070,Baradero,diferente sexo,115
+2013,6084,Benito Juárez,diferente sexo,55
+2013,6091,Berazategui,diferente sexo,1027
+2013,6098,Berisso,diferente sexo,301
+2013,6105,Bolívar,diferente sexo,96
+2013,6112,Bragado,diferente sexo,120
+2013,6119,Brandsen,diferente sexo,105
+2013,6126,Campana,diferente sexo,338
+2013,6134,Cañuelas,diferente sexo,106
+2013,6140,Capitán Sarmiento,diferente sexo,38
+2013,6147,Carlos Casares,diferente sexo,41
+2013,6154,Carlos Tejedor,diferente sexo,32
+2013,6161,Carmen de Areco,diferente sexo,34
+2013,6168,Castelli,diferente sexo,28
+2013,6210,Chacabuco,diferente sexo,121
+2013,6218,Chascomús,diferente sexo,43
+2013,6224,Chivilcoy,diferente sexo,107
+2013,6175,Colón,diferente sexo,62
+2013,6182,Coronel de Marina Leonardo Rosales,diferente sexo,146
+2013,6189,Coronel Dorrego,diferente sexo,39
+2013,6196,Coronel Pringles,diferente sexo,57
+2013,6203,Coronel Suárez,diferente sexo,132
+2013,6231,Daireaux,diferente sexo,32
+2013,6238,Dolores,diferente sexo,85
+2013,6245,Ensenada,diferente sexo,226
+2013,6252,Escobar,diferente sexo,733
+2013,6260,Esteban Echeverría,diferente sexo,853
+2013,6266,Exaltación de la Cruz,diferente sexo,128
+2013,6270,Ezeiza,diferente sexo,572
+2013,6274,Florencio Varela,diferente sexo,905
+2013,6277,Florentino Ameghino,diferente sexo,32
+2013,6280,General Alvarado,diferente sexo,127
+2013,6287,General Alvear,diferente sexo,23
+2013,6294,General Arenales,diferente sexo,39
+2013,6301,General Belgrano,diferente sexo,61
+2013,6308,General Guido,diferente sexo,9
+2013,6315,General Juan Madariaga,diferente sexo,49
+2013,6322,General la Madrid,diferente sexo,28
+2013,6329,General las Heras,diferente sexo,33
+2013,6336,General Lavalle,diferente sexo,8
+2013,6343,General Paz,diferente sexo,21
+2013,6351,General Pinto,diferente sexo,32
+2013,6357,General Pueyrredón,diferente sexo,2069
+2013,6364,General Rodríguez,diferente sexo,297
+2013,6371,General San Martín,diferente sexo,1046
+2013,6385,General Viamonte,diferente sexo,31
+2013,6392,General Villegas,diferente sexo,80
+2013,6399,Guaminí,diferente sexo,17
+2013,6406,Hipólito Yrigoyen,diferente sexo,14
+2013,6408,Hurlingham,diferente sexo,476
+2013,6410,Ituzaingó,diferente sexo,488
+2013,6412,José C. Paz,diferente sexo,870
+2013,6413,Junín,diferente sexo,285
+2013,6420,La Costa,diferente sexo,101
+2013,6427,La Matanza,diferente sexo,3992
+2013,6441,La Plata,diferente sexo,2136
+2013,6434,Lanús,diferente sexo,1188
+2013,6448,Laprida,diferente sexo,32
+2013,6455,Las Flores,diferente sexo,37
+2013,6462,Leandro N. Alem,diferente sexo,49
+2013,6466,Lezama,diferente sexo,12
+2013,6469,Lincoln,diferente sexo,98
+2013,6476,Lobería,diferente sexo,26
+2013,6483,Lobos,diferente sexo,102
+2013,6490,Lomas de Zamora,diferente sexo,1917
+2013,6497,Luján,diferente sexo,296
+2013,6505,Magdalena,diferente sexo,55
+2013,6511,Maipú,diferente sexo,34
+2013,6515,Malvinas Argentinas,diferente sexo,857
+2013,6518,Mar Chiquita,diferente sexo,76
+2013,6525,Marcos Paz,diferente sexo,125
+2013,6532,Mercedes,diferente sexo,167
+2013,6539,Merlo,diferente sexo,1349
+2013,6547,Monte,diferente sexo,64
+2013,6553,Monte Hermoso,diferente sexo,25
+2013,6560,Moreno,diferente sexo,1194
+2013,6568,Morón,diferente sexo,1038
+2013,6574,Navarro,diferente sexo,36
+2013,6581,Necochea,diferente sexo,235
+2013,6595,Olavarría,diferente sexo,361
+2013,6602,Patagones,diferente sexo,79
+2013,6609,Pehuajó,diferente sexo,110
+2013,6616,Pellegrini,diferente sexo,22
+2013,6623,Pergamino,diferente sexo,322
+2013,6630,Pila,diferente sexo,8
+2013,6638,Pilar,diferente sexo,923
+2013,6644,Pinamar,diferente sexo,70
+2013,6648,Presidente Perón,diferente sexo,254
+2013,6651,Puán,diferente sexo,34
+2013,6655,Punta Indio,diferente sexo,65
+2013,6658,Quilmes,diferente sexo,1567
+2013,6665,Ramallo,diferente sexo,105
+2013,6672,Rauch,diferente sexo,29
+2013,6679,Rivadavia,diferente sexo,54
+2013,6686,Rojas,diferente sexo,66
+2013,6693,Roque Pérez,diferente sexo,31
+2013,6700,Saavedra,diferente sexo,46
+2013,6707,Saladillo,diferente sexo,65
+2013,6721,Salliqueló,diferente sexo,21
+2013,6714,Salto,diferente sexo,113
+2013,6728,San Andrés de Giles,diferente sexo,46
+2013,6735,San Antonio de Areco,diferente sexo,62
+2013,6742,San Cayetano,diferente sexo,18
+2013,6749,San Fernando,diferente sexo,421
+2013,6756,San Isidro,diferente sexo,1123
+2013,6760,San Miguel,diferente sexo,868
+2013,6763,San Nicolás,diferente sexo,613
+2013,6770,San Pedro,diferente sexo,159
+2013,6778,San Vicente,diferente sexo,200
+2013,6784,Suipacha,diferente sexo,19
+2013,6791,Tandil,diferente sexo,444
+2013,6798,Tapalqué,diferente sexo,10
+2013,6805,Tigre,diferente sexo,1178
+2013,6812,Tordillo,diferente sexo,4
+2013,6819,Tornquist,diferente sexo,57
+2013,6826,Trenque Lauquen,diferente sexo,148
+2013,6833,Tres Arroyos,diferente sexo,167
+2013,6840,Tres de Febrero,diferente sexo,1027
+2013,6847,Tres Lomas,diferente sexo,10
+2013,6861,Vicente López,diferente sexo,760
+2013,6868,Villa Gesell,diferente sexo,81
+2013,6875,Villarino,diferente sexo,80
+2013,6882,Zárate,diferente sexo,360
+2013,6028,Almirante Brown,igual sexo,16
+2013,6035,Avellaneda,igual sexo,10
+2013,6056,Bahía Blanca,igual sexo,11
+2013,6063,Balcarce,igual sexo,1
+2013,6091,Berazategui,igual sexo,16
+2013,6098,Berisso,igual sexo,2
+2013,6119,Brandsen,igual sexo,2
+2013,6126,Campana,igual sexo,6
+2013,6134,Cañuelas,igual sexo,1
+2013,6140,Capitán Sarmiento,igual sexo,1
+2013,6147,Carlos Casares,igual sexo,1
+2013,6224,Chivilcoy,igual sexo,3
+2013,6196,Coronel Pringles,igual sexo,1
+2013,6245,Ensenada,igual sexo,2
+2013,6252,Escobar,igual sexo,4
+2013,6260,Esteban Echeverría,igual sexo,8
+2013,6270,Ezeiza,igual sexo,5
+2013,6274,Florencio Varela,igual sexo,10
+2013,6280,General Alvarado,igual sexo,1
+2013,6294,General Arenales,igual sexo,2
+2013,6357,General Pueyrredón,igual sexo,16
+2013,6364,General Rodríguez,igual sexo,7
+2013,6371,General San Martín,igual sexo,7
+2013,6408,Hurlingham,igual sexo,4
+2013,6410,Ituzaingó,igual sexo,19
+2013,6412,José C. Paz,igual sexo,5
+2013,6413,Junín,igual sexo,3
+2013,6420,La Costa,igual sexo,2
+2013,6427,La Matanza,igual sexo,22
+2013,6441,La Plata,igual sexo,25
+2013,6434,Lanús,igual sexo,16
+2013,6462,Leandro N. Alem,igual sexo,1
+2013,6469,Lincoln,igual sexo,1
+2013,6483,Lobos,igual sexo,1
+2013,6490,Lomas de Zamora,igual sexo,15
+2013,6497,Luján,igual sexo,3
+2013,6505,Magdalena,igual sexo,4
+2013,6515,Malvinas Argentinas,igual sexo,9
+2013,6525,Marcos Paz,igual sexo,3
+2013,6532,Mercedes,igual sexo,8
+2013,6539,Merlo,igual sexo,7
+2013,6547,Monte,igual sexo,1
+2013,6560,Moreno,igual sexo,10
+2013,6568,Morón,igual sexo,11
+2013,6574,Navarro,igual sexo,1
+2013,6581,Necochea,igual sexo,2
+2013,6595,Olavarría,igual sexo,4
+2013,6602,Patagones,igual sexo,2
+2013,6609,Pehuajó,igual sexo,2
+2013,6623,Pergamino,igual sexo,3
+2013,6638,Pilar,igual sexo,9
+2013,6648,Presidente Perón,igual sexo,3
+2013,6658,Quilmes,igual sexo,16
+2013,6665,Ramallo,igual sexo,1
+2013,6686,Rojas,igual sexo,1
+2013,6693,Roque Pérez,igual sexo,1
+2013,6714,Salto,igual sexo,4
+2013,6749,San Fernando,igual sexo,3
+2013,6756,San Isidro,igual sexo,18
+2013,6760,San Miguel,igual sexo,12
+2013,6763,San Nicolás,igual sexo,5
+2013,6770,San Pedro,igual sexo,3
+2013,6778,San Vicente,igual sexo,1
+2013,6784,Suipacha,igual sexo,2
+2013,6791,Tandil,igual sexo,4
+2013,6805,Tigre,igual sexo,13
+2013,6819,Tornquist,igual sexo,1
+2013,6840,Tres de Febrero,igual sexo,11
+2013,6861,Vicente López,igual sexo,19
+2013,6868,Villa Gesell,igual sexo,2
+2013,6875,Villarino,igual sexo,2
+2013,6882,Zárate,igual sexo,10
+2014,6854,25 de Mayo,diferente sexo,89
+2014,6588,9 de Julio,diferente sexo,119
+2014,6007,Adolfo Alsina,diferente sexo,35
+2014,6014,Adolfo Gonzales Chaves,diferente sexo,32
+2014,6021,Alberti,diferente sexo,21
+2014,6028,Almirante Brown,diferente sexo,1604
+2014,6077,Arrecifes,diferente sexo,85
+2014,6035,Avellaneda,diferente sexo,1055
+2014,6042,Ayacucho,diferente sexo,51
+2014,6049,Azul,diferente sexo,187
+2014,6056,Bahía Blanca,diferente sexo,1162
+2014,6063,Balcarce,diferente sexo,138
+2014,6070,Baradero,diferente sexo,130
+2014,6084,Benito Juárez,diferente sexo,58
+2014,6091,Berazategui,diferente sexo,979
+2014,6098,Berisso,diferente sexo,262
+2014,6105,Bolívar,diferente sexo,107
+2014,6112,Bragado,diferente sexo,86
+2014,6119,Brandsen,diferente sexo,69
+2014,6126,Campana,diferente sexo,296
+2014,6134,Cañuelas,diferente sexo,5
+2014,6140,Capitán Sarmiento,diferente sexo,33
+2014,6147,Carlos Casares,diferente sexo,51
+2014,6154,Carlos Tejedor,diferente sexo,24
+2014,6161,Carmen de Areco,diferente sexo,42
+2014,6168,Castelli,diferente sexo,23
+2014,6210,Chacabuco,diferente sexo,118
+2014,6218,Chascomús,diferente sexo,110
+2014,6224,Chivilcoy,diferente sexo,164
+2014,6175,Colón,diferente sexo,59
+2014,6182,Coronel de Marina Leonardo Rosales,diferente sexo,149
+2014,6189,Coronel Dorrego,diferente sexo,49
+2014,6196,Coronel Pringles,diferente sexo,74
+2014,6203,Coronel Suárez,diferente sexo,134
+2014,6231,Daireaux,diferente sexo,40
+2014,6238,Dolores,diferente sexo,77
+2014,6245,Ensenada,diferente sexo,195
+2014,6252,Escobar,diferente sexo,675
+2014,6260,Esteban Echeverría,diferente sexo,928
+2014,6266,Exaltación de la Cruz,diferente sexo,109
+2014,6270,Ezeiza,diferente sexo,549
+2014,6274,Florencio Varela,diferente sexo,1090
+2014,6277,Florentino Ameghino,diferente sexo,73
+2014,6280,General Alvarado,diferente sexo,120
+2014,6287,General Alvear,diferente sexo,24
+2014,6294,General Arenales,diferente sexo,46
+2014,6301,General Belgrano,diferente sexo,61
+2014,6308,General Guido,diferente sexo,7
+2014,6315,General Juan Madariaga,diferente sexo,40
+2014,6322,General la Madrid,diferente sexo,46
+2014,6329,General las Heras,diferente sexo,34
+2014,6336,General Lavalle,diferente sexo,5
+2014,6343,General Paz,diferente sexo,34
+2014,6351,General Pinto,diferente sexo,23
+2014,6357,General Pueyrredón,diferente sexo,2006
+2014,6364,General Rodríguez,diferente sexo,256
+2014,6371,General San Martín,diferente sexo,929
+2014,6385,General Viamonte,diferente sexo,61
+2014,6392,General Villegas,diferente sexo,90
+2014,6399,Guaminí,diferente sexo,15
+2014,6406,Hipólito Yrigoyen,diferente sexo,27
+2014,6408,Hurlingham,diferente sexo,458
+2014,6410,Ituzaingó,diferente sexo,416
+2014,6412,José C. Paz,diferente sexo,710
+2014,6413,Junín,diferente sexo,285
+2014,6420,La Costa,diferente sexo,115
+2014,6427,La Matanza,diferente sexo,3686
+2014,6441,La Plata,diferente sexo,2285
+2014,6434,Lanús,diferente sexo,1144
+2014,6448,Laprida,diferente sexo,32
+2014,6455,Las Flores,diferente sexo,71
+2014,6462,Leandro N. Alem,diferente sexo,57
+2014,6466,Lezama,diferente sexo,6
+2014,6469,Lincoln,diferente sexo,84
+2014,6476,Lobería,diferente sexo,43
+2014,6483,Lobos,diferente sexo,107
+2014,6490,Lomas de Zamora,diferente sexo,1716
+2014,6497,Luján,diferente sexo,281
+2014,6505,Magdalena,diferente sexo,71
+2014,6511,Maipú,diferente sexo,24
+2014,6515,Malvinas Argentinas,diferente sexo,742
+2014,6518,Mar Chiquita,diferente sexo,105
+2014,6525,Marcos Paz,diferente sexo,296
+2014,6532,Mercedes,diferente sexo,205
+2014,6539,Merlo,diferente sexo,1416
+2014,6547,Monte,diferente sexo,55
+2014,6553,Monte Hermoso,diferente sexo,21
+2014,6560,Moreno,diferente sexo,1004
+2014,6568,Morón,diferente sexo,992
+2014,6574,Navarro,diferente sexo,41
+2014,6581,Necochea,diferente sexo,271
+2014,6595,Olavarría,diferente sexo,344
+2014,6602,Patagones,diferente sexo,112
+2014,6609,Pehuajó,diferente sexo,105
+2014,6616,Pellegrini,diferente sexo,20
+2014,6623,Pergamino,diferente sexo,301
+2014,6630,Pila,diferente sexo,7
+2014,6638,Pilar,diferente sexo,761
+2014,6644,Pinamar,diferente sexo,82
+2014,6648,Presidente Perón,diferente sexo,225
+2014,6651,Puán,diferente sexo,30
+2014,6655,Punta Indio,diferente sexo,32
+2014,6658,Quilmes,diferente sexo,1500
+2014,6665,Ramallo,diferente sexo,96
+2014,6672,Rauch,diferente sexo,38
+2014,6679,Rivadavia,diferente sexo,45
+2014,6686,Rojas,diferente sexo,71
+2014,6693,Roque Pérez,diferente sexo,32
+2014,6700,Saavedra,diferente sexo,85
+2014,6707,Saladillo,diferente sexo,78
+2014,6721,Salliqueló,diferente sexo,30
+2014,6714,Salto,diferente sexo,100
+2014,6728,San Andrés de Giles,diferente sexo,52
+2014,6735,San Antonio de Areco,diferente sexo,65
+2014,6742,San Cayetano,diferente sexo,15
+2014,6749,San Fernando,diferente sexo,487
+2014,6756,San Isidro,diferente sexo,884
+2014,6760,San Miguel,diferente sexo,846
+2014,6763,San Nicolás,diferente sexo,604
+2014,6770,San Pedro,diferente sexo,170
+2014,6778,San Vicente,diferente sexo,192
+2014,6784,Suipacha,diferente sexo,20
+2014,6791,Tandil,diferente sexo,409
+2014,6798,Tapalqué,diferente sexo,26
+2014,6805,Tigre,diferente sexo,1069
+2014,6812,Tordillo,diferente sexo,10
+2014,6819,Tornquist,diferente sexo,37
+2014,6826,Trenque Lauquen,diferente sexo,112
+2014,6833,Tres Arroyos,diferente sexo,171
+2014,6840,Tres de Febrero,diferente sexo,984
+2014,6847,Tres Lomas,diferente sexo,12
+2014,6861,Vicente López,diferente sexo,817
+2014,6868,Villa Gesell,diferente sexo,110
+2014,6875,Villarino,diferente sexo,69
+2014,6882,Zárate,diferente sexo,293
+2014,6854,25 de Mayo,igual sexo,1
+2014,6021,Alberti,igual sexo,1
+2014,6028,Almirante Brown,igual sexo,18
+2014,6077,Arrecifes,igual sexo,1
+2014,6035,Avellaneda,igual sexo,20
+2014,6049,Azul,igual sexo,2
+2014,6056,Bahía Blanca,igual sexo,9
+2014,6091,Berazategui,igual sexo,12
+2014,6105,Bolívar,igual sexo,2
+2014,6119,Brandsen,igual sexo,1
+2014,6126,Campana,igual sexo,3
+2014,6147,Carlos Casares,igual sexo,1
+2014,6210,Chacabuco,igual sexo,1
+2014,6218,Chascomús,igual sexo,2
+2014,6175,Colón,igual sexo,1
+2014,6182,Coronel de Marina Leonardo Rosales,igual sexo,1
+2014,6231,Daireaux,igual sexo,1
+2014,6238,Dolores,igual sexo,2
+2014,6245,Ensenada,igual sexo,5
+2014,6252,Escobar,igual sexo,7
+2014,6260,Esteban Echeverría,igual sexo,4
+2014,6266,Exaltación de la Cruz,igual sexo,1
+2014,6270,Ezeiza,igual sexo,9
+2014,6274,Florencio Varela,igual sexo,4
+2014,6277,Florentino Ameghino,igual sexo,2
+2014,6315,General Juan Madariaga,igual sexo,2
+2014,6336,General Lavalle,igual sexo,2
+2014,6357,General Pueyrredón,igual sexo,21
+2014,6364,General Rodríguez,igual sexo,5
+2014,6371,General San Martín,igual sexo,9
+2014,6408,Hurlingham,igual sexo,6
+2014,6410,Ituzaingó,igual sexo,3
+2014,6412,José C. Paz,igual sexo,5
+2014,6413,Junín,igual sexo,1
+2014,6427,La Matanza,igual sexo,21
+2014,6441,La Plata,igual sexo,35
+2014,6434,Lanús,igual sexo,19
+2014,6483,Lobos,igual sexo,8
+2014,6490,Lomas de Zamora,igual sexo,31
+2014,6497,Luján,igual sexo,7
+2014,6511,Maipú,igual sexo,1
+2014,6515,Malvinas Argentinas,igual sexo,5
+2014,6518,Mar Chiquita,igual sexo,7
+2014,6525,Marcos Paz,igual sexo,1
+2014,6539,Merlo,igual sexo,15
+2014,6553,Monte Hermoso,igual sexo,1
+2014,6560,Moreno,igual sexo,8
+2014,6568,Morón,igual sexo,14
+2014,6581,Necochea,igual sexo,5
+2014,6595,Olavarría,igual sexo,4
+2014,6623,Pergamino,igual sexo,2
+2014,6638,Pilar,igual sexo,10
+2014,6644,Pinamar,igual sexo,2
+2014,6648,Presidente Perón,igual sexo,1
+2014,6651,Puán,igual sexo,47
+2014,6658,Quilmes,igual sexo,12
+2014,6749,San Fernando,igual sexo,25
+2014,6756,San Isidro,igual sexo,17
+2014,6760,San Miguel,igual sexo,6
+2014,6763,San Nicolás,igual sexo,1
+2014,6778,San Vicente,igual sexo,1
+2014,6791,Tandil,igual sexo,2
+2014,6798,Tapalqué,igual sexo,1
+2014,6805,Tigre,igual sexo,12
+2014,6826,Trenque Lauquen,igual sexo,1
+2014,6840,Tres de Febrero,igual sexo,16
+2014,6847,Tres Lomas,igual sexo,1
+2014,6861,Vicente López,igual sexo,10
+2014,6868,Villa Gesell,igual sexo,4
+2014,6882,Zárate,igual sexo,1
+2015,6854,25 de Mayo,diferente sexo,96
+2015,6588,9 de Julio,diferente sexo,117
+2015,6007,Adolfo Alsina,diferente sexo,39
+2015,6014,Adolfo Gonzales Chaves,diferente sexo,31
+2015,6021,Alberti,diferente sexo,25
+2015,6028,Almirante Brown,diferente sexo,1616
+2015,6077,Arrecifes,diferente sexo,89
+2015,6035,Avellaneda,diferente sexo,746
+2015,6042,Ayacucho,diferente sexo,61
+2015,6049,Azul,diferente sexo,178
+2015,6056,Bahía Blanca,diferente sexo,1073
+2015,6063,Balcarce,diferente sexo,151
+2015,6070,Baradero,diferente sexo,119
+2015,6084,Benito Juárez,diferente sexo,63
+2015,6091,Berazategui,diferente sexo,977
+2015,6098,Berisso,diferente sexo,295
+2015,6105,Bolívar,diferente sexo,105
+2015,6112,Bragado,diferente sexo,131
+2015,6119,Brandsen,diferente sexo,97
+2015,6126,Campana,diferente sexo,333
+2015,6134,Cañuelas,diferente sexo,117
+2015,6140,Capitán Sarmiento,diferente sexo,37
+2015,6147,Carlos Casares,diferente sexo,40
+2015,6154,Carlos Tejedor,diferente sexo,24
+2015,6161,Carmen de Areco,diferente sexo,39
+2015,6168,Castelli,diferente sexo,18
+2015,6210,Chacabuco,diferente sexo,128
+2015,6218,Chascomús,diferente sexo,111
+2015,6224,Chivilcoy,diferente sexo,339
+2015,6175,Colón,diferente sexo,67
+2015,6182,Coronel de Marina Leonardo Rosales,diferente sexo,127
+2015,6189,Coronel Dorrego,diferente sexo,40
+2015,6196,Coronel Pringles,diferente sexo,66
+2015,6203,Coronel Suárez,diferente sexo,131
+2015,6231,Daireaux,diferente sexo,36
+2015,6238,Dolores,diferente sexo,93
+2015,6245,Ensenada,diferente sexo,202
+2015,6252,Escobar,diferente sexo,728
+2015,6260,Esteban Echeverría,diferente sexo,821
+2015,6266,Exaltación de la Cruz,diferente sexo,123
+2015,6270,Ezeiza,diferente sexo,641
+2015,6274,Florencio Varela,diferente sexo,1143
+2015,6277,Florentino Ameghino,diferente sexo,35
+2015,6280,General Alvarado,diferente sexo,148
+2015,6287,General Alvear,diferente sexo,31
+2015,6294,General Arenales,diferente sexo,42
+2015,6301,General Belgrano,diferente sexo,46
+2015,6308,General Guido,diferente sexo,7
+2015,6315,General Juan Madariaga,diferente sexo,43
+2015,6322,General la Madrid,diferente sexo,49
+2015,6329,General las Heras,diferente sexo,38
+2015,6336,General Lavalle,diferente sexo,6
+2015,6343,General Paz,diferente sexo,28
+2015,6351,General Pinto,diferente sexo,26
+2015,6357,General Pueyrredón,diferente sexo,1770
+2015,6364,General Rodríguez,diferente sexo,304
+2015,6371,General San Martín,diferente sexo,940
+2015,6385,General Viamonte,diferente sexo,38
+2015,6392,General Villegas,diferente sexo,88
+2015,6399,Guaminí,diferente sexo,26
+2015,6406,Hipólito Yrigoyen,diferente sexo,29
+2015,6408,Hurlingham,diferente sexo,447
+2015,6410,Ituzaingó,diferente sexo,415
+2015,6412,José C. Paz,diferente sexo,832
+2015,6413,Junín,diferente sexo,271
+2015,6420,La Costa,diferente sexo,283
+2015,6427,La Matanza,diferente sexo,3629
+2015,6441,La Plata,diferente sexo,2217
+2015,6434,Lanús,diferente sexo,1100
+2015,6448,Laprida,diferente sexo,31
+2015,6455,Las Flores,diferente sexo,73
+2015,6462,Leandro N. Alem,diferente sexo,41
+2015,6466,Lezama,diferente sexo,19
+2015,6469,Lincoln,diferente sexo,122
+2015,6476,Lobería,diferente sexo,44
+2015,6483,Lobos,diferente sexo,80
+2015,6490,Lomas de Zamora,diferente sexo,1616
+2015,6497,Luján,diferente sexo,243
+2015,6505,Magdalena,diferente sexo,58
+2015,6511,Maipú,diferente sexo,39
+2015,6515,Malvinas Argentinas,diferente sexo,761
+2015,6518,Mar Chiquita,diferente sexo,89
+2015,6525,Marcos Paz,diferente sexo,305
+2015,6532,Mercedes,diferente sexo,194
+2015,6539,Merlo,diferente sexo,1435
+2015,6547,Monte,diferente sexo,55
+2015,6553,Monte Hermoso,diferente sexo,16
+2015,6560,Moreno,diferente sexo,1386
+2015,6568,Morón,diferente sexo,879
+2015,6574,Navarro,diferente sexo,62
+2015,6581,Necochea,diferente sexo,256
+2015,6595,Olavarría,diferente sexo,382
+2015,6602,Patagones,diferente sexo,77
+2015,6609,Pehuajó,diferente sexo,97
+2015,6616,Pellegrini,diferente sexo,12
+2015,6623,Pergamino,diferente sexo,326
+2015,6630,Pila,diferente sexo,13
+2015,6638,Pilar,diferente sexo,868
+2015,6644,Pinamar,diferente sexo,96
+2015,6648,Presidente Perón,diferente sexo,195
+2015,6651,Puán,diferente sexo,47
+2015,6655,Punta Indio,diferente sexo,40
+2015,6658,Quilmes,diferente sexo,1570
+2015,6665,Ramallo,diferente sexo,93
+2015,6672,Rauch,diferente sexo,36
+2015,6679,Rivadavia,diferente sexo,41
+2015,6686,Rojas,diferente sexo,48
+2015,6693,Roque Pérez,diferente sexo,39
+2015,6700,Saavedra,diferente sexo,60
+2015,6707,Saladillo,diferente sexo,79
+2015,6721,Salliqueló,diferente sexo,22
+2015,6714,Salto,diferente sexo,87
+2015,6728,San Andrés de Giles,diferente sexo,79
+2015,6735,San Antonio de Areco,diferente sexo,54
+2015,6742,San Cayetano,diferente sexo,28
+2015,6749,San Fernando,diferente sexo,400
+2015,6756,San Isidro,diferente sexo,1065
+2015,6760,San Miguel,diferente sexo,860
+2015,6763,San Nicolás,diferente sexo,632
+2015,6770,San Pedro,diferente sexo,144
+2015,6778,San Vicente,diferente sexo,387
+2015,6784,Suipacha,diferente sexo,26
+2015,6791,Tandil,diferente sexo,398
+2015,6798,Tapalqué,diferente sexo,16
+2015,6805,Tigre,diferente sexo,1053
+2015,6812,Tordillo,diferente sexo,7
+2015,6819,Tornquist,diferente sexo,31
+2015,6826,Trenque Lauquen,diferente sexo,127
+2015,6833,Tres Arroyos,diferente sexo,179
+2015,6840,Tres de Febrero,diferente sexo,934
+2015,6847,Tres Lomas,diferente sexo,26
+2015,6861,Vicente López,diferente sexo,778
+2015,6868,Villa Gesell,diferente sexo,76
+2015,6875,Villarino,diferente sexo,69
+2015,6882,Zárate,diferente sexo,329
+2015,6854,25 de Mayo,igual sexo,2
+2015,6028,Almirante Brown,igual sexo,35
+2015,6035,Avellaneda,igual sexo,13
+2015,6056,Bahía Blanca,igual sexo,12
+2015,6063,Balcarce,igual sexo,1
+2015,6084,Benito Juárez,igual sexo,1
+2015,6091,Berazategui,igual sexo,26
+2015,6098,Berisso,igual sexo,3
+2015,6112,Bragado,igual sexo,1
+2015,6126,Campana,igual sexo,5
+2015,6134,Cañuelas,igual sexo,3
+2015,6147,Carlos Casares,igual sexo,1
+2015,6210,Chacabuco,igual sexo,2
+2015,6224,Chivilcoy,igual sexo,1
+2015,6182,Coronel de Marina Leonardo Rosales,igual sexo,1
+2015,6189,Coronel Dorrego,igual sexo,1
+2015,6203,Coronel Suárez,igual sexo,1
+2015,6245,Ensenada,igual sexo,8
+2015,6252,Escobar,igual sexo,11
+2015,6260,Esteban Echeverría,igual sexo,6
+2015,6266,Exaltación de la Cruz,igual sexo,7
+2015,6270,Ezeiza,igual sexo,12
+2015,6274,Florencio Varela,igual sexo,7
+2015,6280,General Alvarado,igual sexo,3
+2015,6315,General Juan Madariaga,igual sexo,3
+2015,6322,General la Madrid,igual sexo,1
+2015,6357,General Pueyrredón,igual sexo,17
+2015,6364,General Rodríguez,igual sexo,4
+2015,6371,General San Martín,igual sexo,8
+2015,6406,Hipólito Yrigoyen,igual sexo,1
+2015,6408,Hurlingham,igual sexo,9
+2015,6410,Ituzaingó,igual sexo,4
+2015,6412,José C. Paz,igual sexo,3
+2015,6413,Junín,igual sexo,2
+2015,6420,La Costa,igual sexo,4
+2015,6427,La Matanza,igual sexo,61
+2015,6441,La Plata,igual sexo,30
+2015,6434,Lanús,igual sexo,36
+2015,6462,Leandro N. Alem,igual sexo,1
+2015,6466,Lezama,igual sexo,1
+2015,6483,Lobos,igual sexo,1
+2015,6490,Lomas de Zamora,igual sexo,17
+2015,6497,Luján,igual sexo,6
+2015,6505,Magdalena,igual sexo,2
+2015,6515,Malvinas Argentinas,igual sexo,4
+2015,6525,Marcos Paz,igual sexo,6
+2015,6532,Mercedes,igual sexo,6
+2015,6539,Merlo,igual sexo,15
+2015,6560,Moreno,igual sexo,12
+2015,6568,Morón,igual sexo,53
+2015,6574,Navarro,igual sexo,2
+2015,6581,Necochea,igual sexo,8
+2015,6595,Olavarría,igual sexo,2
+2015,6609,Pehuajó,igual sexo,1
+2015,6623,Pergamino,igual sexo,1
+2015,6630,Pila,igual sexo,1
+2015,6638,Pilar,igual sexo,5
+2015,6648,Presidente Perón,igual sexo,1
+2015,6651,Puán,igual sexo,1
+2015,6658,Quilmes,igual sexo,14
+2015,6665,Ramallo,igual sexo,2
+2015,6686,Rojas,igual sexo,1
+2015,6707,Saladillo,igual sexo,1
+2015,6749,San Fernando,igual sexo,3
+2015,6756,San Isidro,igual sexo,11
+2015,6760,San Miguel,igual sexo,6
+2015,6763,San Nicolás,igual sexo,3
+2015,6770,San Pedro,igual sexo,2
+2015,6778,San Vicente,igual sexo,1
+2015,6784,Suipacha,igual sexo,2
+2015,6791,Tandil,igual sexo,3
+2015,6805,Tigre,igual sexo,19
+2015,6833,Tres Arroyos,igual sexo,1
+2015,6840,Tres de Febrero,igual sexo,10
+2015,6861,Vicente López,igual sexo,7
+2015,6882,Zárate,igual sexo,3
+2016,6854,25 de mayo,diferente sexo,64
+2016,6588,9 de Julio,diferente sexo,125
+2016,6007,Adolfo Alsina,diferente sexo,28
+2016,6014,Adolfo Gonzales Chaves,diferente sexo,29
+2016,6021,Alberti,diferente sexo,31
+2016,6028,Almirante Brown,diferente sexo,1617
+2016,6077,Arrecifes,diferente sexo,102
+2016,6035,Avellaneda,diferente sexo,918
+2016,6042,Ayacucho,diferente sexo,31
+2016,6049,Azul,diferente sexo,185
+2016,6056,Bahía Blanca,diferente sexo,1062
+2016,6063,Balcarce,diferente sexo,160
+2016,6070,Baradero,diferente sexo,110
+2016,6084,Benito Juárez,diferente sexo,43
+2016,6091,Berazategui,diferente sexo,1022
+2016,6098,Berisso,diferente sexo,312
+2016,6105,Bolívar,diferente sexo,95
+2016,6112,Bragado,diferente sexo,118
+2016,6119,Brandsen,diferente sexo,86
+2016,6126,Campana,diferente sexo,356
+2016,6134,Cañuelas,diferente sexo,160
+2016,6140,Capitán Sarmiento,diferente sexo,27
+2016,6147,Carlos Casares,diferente sexo,53
+2016,6154,Carlos Tejedor,diferente sexo,26
+2016,6161,Carmen de Areco,diferente sexo,50
+2016,6168,Castelli,diferente sexo,29
+2016,6210,Chacabuco,diferente sexo,126
+2016,6218,Chascomús,diferente sexo,79
+2016,6224,Chivilcoy,diferente sexo,169
+2016,6175,Colón,diferente sexo,52
+2016,6182,Coronel de Marina Leonardo Rosales,diferente sexo,165
+2016,6189,Coronel Dorrego,diferente sexo,37
+2016,6196,Coronel Pringles,diferente sexo,63
+2016,6203,Coronel Suárez,diferente sexo,109
+2016,6231,Daireaux,diferente sexo,32
+2016,6238,Dolores,diferente sexo,127
+2016,6245,Ensenada,diferente sexo,186
+2016,6252,Escobar,diferente sexo,693
+2016,6260,Esteban Echeverría,diferente sexo,831
+2016,6266,Exaltación de la Cruz,diferente sexo,135
+2016,6270,Ezeiza,diferente sexo,612
+2016,6274,Florencio Varela,diferente sexo,1192
+2016,6277,Florentino Ameghino,diferente sexo,28
+2016,6280,General Alvarado,diferente sexo,110
+2016,6287,General Alvear,diferente sexo,29
+2016,6294,General Arenales,diferente sexo,55
+2016,6301,General Belgrano,diferente sexo,45
+2016,6308,General Guido,diferente sexo,7
+2016,6315,General Juan Madariaga,diferente sexo,32
+2016,6322,General la Madrid,diferente sexo,37
+2016,6329,General las Heras,diferente sexo,36
+2016,6336,General Lavalle,diferente sexo,10
+2016,6343,General Paz,diferente sexo,46
+2016,6351,General Pinto,diferente sexo,32
+2016,6357,General Pueyrredón,diferente sexo,1723
+2016,6364,General Rodríguez,diferente sexo,356
+2016,6371,General San Martín,diferente sexo,1097
+2016,6385,General Viamonte,diferente sexo,39
+2016,6392,General Villegas,diferente sexo,88
+2016,6399,Guaminí,diferente sexo,22
+2016,6406,Hipólito Yrigoyen,diferente sexo,23
+2016,6408,Hurlingham,diferente sexo,465
+2016,6410,Ituzaingó,diferente sexo,594
+2016,6412,José C. Paz,diferente sexo,849
+2016,6413,Junín,diferente sexo,275
+2016,6420,La Costa,diferente sexo,275
+2016,6427,La Matanza,diferente sexo,3759
+2016,6441,La Plata,diferente sexo,2474
+2016,6434,Lanús,diferente sexo,1176
+2016,6448,Laprida,diferente sexo,23
+2016,6455,Las Flores,diferente sexo,55
+2016,6462,Leandro N. Alem,diferente sexo,27
+2016,6466,Lezama,diferente sexo,20
+2016,6469,Lincoln,diferente sexo,84
+2016,6476,Lobería,diferente sexo,39
+2016,6483,Lobos,diferente sexo,95
+2016,6490,Lomas de Zamora,diferente sexo,2076
+2016,6497,Luján,diferente sexo,341
+2016,6505,Magdalena,diferente sexo,53
+2016,6511,Maipú,diferente sexo,24
+2016,6515,Malvinas Argentinas,diferente sexo,906
+2016,6518,Mar Chiquita,diferente sexo,86
+2016,6525,Marcos Paz,diferente sexo,145
+2016,6532,Mercedes,diferente sexo,184
+2016,6539,Merlo,diferente sexo,1316
+2016,6547,Monte,diferente sexo,55
+2016,6553,Monte Hermoso,diferente sexo,35
+2016,6560,Moreno,diferente sexo,1244
+2016,6568,Morón,diferente sexo,885
+2016,6574,Navarro,diferente sexo,43
+2016,6581,Necochea,diferente sexo,260
+2016,6595,Olavarría,diferente sexo,410
+2016,6602,Patagones,diferente sexo,80
+2016,6609,Pehuajó,diferente sexo,101
+2016,6616,Pellegrini,diferente sexo,18
+2016,6623,Pergamino,diferente sexo,333
+2016,6630,Pila,diferente sexo,14
+2016,6638,Pilar,diferente sexo,930
+2016,6644,Pinamar,diferente sexo,104
+2016,6648,Presidente Perón,diferente sexo,256
+2016,6651,Puán,diferente sexo,51
+2016,6655,Punta Indio,diferente sexo,49
+2016,6658,Quilmes,diferente sexo,1598
+2016,6665,Ramallo,diferente sexo,98
+2016,6672,Rauch,diferente sexo,27
+2016,6679,Rivadavia,diferente sexo,59
+2016,6686,Rojas,diferente sexo,52
+2016,6693,Roque Pérez,diferente sexo,41
+2016,6700,Saavedra,diferente sexo,45
+2016,6707,Saladillo,diferente sexo,84
+2016,6721,Salliqueló,diferente sexo,24
+2016,6714,Salto,diferente sexo,84
+2016,6728,San Andrés de Giles,diferente sexo,74
+2016,6735,San Antonio de Areco,diferente sexo,54
+2016,6742,San Cayetano,diferente sexo,14
+2016,6749,San Fernando,diferente sexo,441
+2016,6756,San Isidro,diferente sexo,1143
+2016,6760,San Miguel,diferente sexo,853
+2016,6763,San Nicolás,diferente sexo,678
+2016,6770,San Pedro,diferente sexo,189
+2016,6778,San Vicente,diferente sexo,272
+2016,6784,Suipacha,diferente sexo,31
+2016,6791,Tandil,diferente sexo,370
+2016,6798,Tapalqué,diferente sexo,23
+2016,6805,Tigre,diferente sexo,1180
+2016,6812,Tordillo,diferente sexo,9
+2016,6819,Tornquist,diferente sexo,57
+2016,6826,Trenque Lauquen,diferente sexo,123
+2016,6833,Tres Arroyos,diferente sexo,142
+2016,6840,Tres de Febrero,diferente sexo,974
+2016,6847,Tres Lomas,diferente sexo,15
+2016,6861,Vicente López,diferente sexo,764
+2016,6868,Villa Gesell,diferente sexo,94
+2016,6875,Villarino,diferente sexo,95
+2016,6882,Zárate,diferente sexo,356
+2016,6854,25 de mayo,igual sexo,1
+2016,6014,Adolfo Gonzales Chaves,igual sexo,1
+2016,6028,Almirante Brown,igual sexo,6
+2016,6035,Avellaneda,igual sexo,10
+2016,6042,Ayacucho,igual sexo,6
+2016,6049,Azul,igual sexo,2
+2016,6056,Bahía Blanca,igual sexo,6
+2016,6063,Balcarce,igual sexo,2
+2016,6070,Baradero,igual sexo,1
+2016,6084,Benito Juárez,igual sexo,5
+2016,6091,Berazategui,igual sexo,11
+2016,6098,Berisso,igual sexo,3
+2016,6112,Bragado,igual sexo,1
+2016,6126,Campana,igual sexo,6
+2016,6134,Cañuelas,igual sexo,2
+2016,6168,Castelli,igual sexo,1
+2016,6175,Colón,igual sexo,1
+2016,6189,Coronel Dorrego,igual sexo,1
+2016,6238,Dolores,igual sexo,1
+2016,6245,Ensenada,igual sexo,3
+2016,6252,Escobar,igual sexo,6
+2016,6260,Esteban Echeverría,igual sexo,7
+2016,6266,Exaltación de la Cruz,igual sexo,2
+2016,6270,Ezeiza,igual sexo,7
+2016,6274,Florencio Varela,igual sexo,5
+2016,6280,General Alvarado,igual sexo,3
+2016,6287,General Alvear,igual sexo,2
+2016,6294,General Arenales,igual sexo,1
+2016,6315,General Juan Madariaga,igual sexo,2
+2016,6322,General la Madrid,igual sexo,5
+2016,6329,General las Heras,igual sexo,1
+2016,6351,General Pinto,igual sexo,1
+2016,6357,General Pueyrredón,igual sexo,18
+2016,6364,General Rodríguez,igual sexo,3
+2016,6371,General San Martín,igual sexo,18
+2016,6399,Guaminí,igual sexo,1
+2016,6408,Hurlingham,igual sexo,1
+2016,6410,Ituzaingó,igual sexo,11
+2016,6412,José C. Paz,igual sexo,4
+2016,6413,Junín,igual sexo,9
+2016,6420,La Costa,igual sexo,3
+2016,6427,La Matanza,igual sexo,25
+2016,6441,La Plata,igual sexo,28
+2016,6434,Lanús,igual sexo,14
+2016,6483,Lobos,igual sexo,1
+2016,6490,Lomas de Zamora,igual sexo,15
+2016,6497,Luján,igual sexo,4
+2016,6511,Maipú,igual sexo,2
+2016,6515,Malvinas Argentinas,igual sexo,6
+2016,6518,Mar Chiquita,igual sexo,2
+2016,6532,Mercedes,igual sexo,11
+2016,6539,Merlo,igual sexo,5
+2016,6560,Moreno,igual sexo,22
+2016,6568,Morón,igual sexo,11
+2016,6581,Necochea,igual sexo,1
+2016,6595,Olavarría,igual sexo,5
+2016,6609,Pehuajó,igual sexo,2
+2016,6623,Pergamino,igual sexo,2
+2016,6638,Pilar,igual sexo,5
+2016,6644,Pinamar,igual sexo,3
+2016,6648,Presidente Perón,igual sexo,4
+2016,6651,Puán,igual sexo,2
+2016,6658,Quilmes,igual sexo,18
+2016,6665,Ramallo,igual sexo,1
+2016,6693,Roque Pérez,igual sexo,1
+2016,6707,Saladillo,igual sexo,1
+2016,6714,Salto,igual sexo,1
+2016,6728,San Andrés de Giles,igual sexo,1
+2016,6735,San Antonio de Areco,igual sexo,1
+2016,6749,San Fernando,igual sexo,3
+2016,6756,San Isidro,igual sexo,19
+2016,6760,San Miguel,igual sexo,7
+2016,6763,San Nicolás,igual sexo,3
+2016,6770,San Pedro,igual sexo,4
+2016,6778,San Vicente,igual sexo,3
+2016,6791,Tandil,igual sexo,3
+2016,6805,Tigre,igual sexo,19
+2016,6826,Trenque Lauquen,igual sexo,1
+2016,6833,Tres Arroyos,igual sexo,1
+2016,6840,Tres de Febrero,igual sexo,12
+2016,6847,Tres Lomas,igual sexo,1
+2016,6861,Vicente López,igual sexo,12
+2016,6882,Zárate,igual sexo,14
+2017,6854,25 de mayo,diferente sexo,69
+2017,6588,9 de Julio,diferente sexo,128
+2017,6007,Adolfo Alsina,diferente sexo,61
+2017,6014,Adolfo Gonzales Chaves,diferente sexo,23
+2017,6021,Alberti,diferente sexo,34
+2017,6028,Almirante Brown,diferente sexo,1833
+2017,6077,Arrecifes,diferente sexo,108
+2017,6035,Avellaneda,diferente sexo,951
+2017,6042,Ayacucho,diferente sexo,42
+2017,6049,Azul,diferente sexo,169
+2017,6056,Bahía Blanca,diferente sexo,1220
+2017,6063,Balcarce,diferente sexo,142
+2017,6070,Baradero,diferente sexo,129
+2017,6084,Benito Juárez,diferente sexo,52
+2017,6091,Berazategui,diferente sexo,948
+2017,6098,Berisso,diferente sexo,343
+2017,6105,Bolívar,diferente sexo,96
+2017,6112,Bragado,diferente sexo,122
+2017,6119,Brandsen,diferente sexo,82
+2017,6126,Campana,diferente sexo,360
+2017,6134,Cañuelas,diferente sexo,168
+2017,6140,Capitán Sarmiento,diferente sexo,44
+2017,6147,Carlos Casares,diferente sexo,46
+2017,6154,Carlos Tejedor,diferente sexo,19
+2017,6161,Carmen de Areco,diferente sexo,44
+2017,6168,Castelli,diferente sexo,20
+2017,6210,Chacabuco,diferente sexo,158
+2017,6218,Chascomús,diferente sexo,94
+2017,6224,Chivilcoy,diferente sexo,149
+2017,6175,Colón,diferente sexo,78
+2017,6182,Coronel de Marina Leonardo Rosales,diferente sexo,127
+2017,6189,Coronel Dorrego,diferente sexo,49
+2017,6196,Coronel Pringles,diferente sexo,88
+2017,6203,Coronel Suárez,diferente sexo,85
+2017,6231,Daireaux,diferente sexo,35
+2017,6238,Dolores,diferente sexo,128
+2017,6245,Ensenada,diferente sexo,194
+2017,6252,Escobar,diferente sexo,785
+2017,6260,Esteban Echeverría,diferente sexo,860
+2017,6266,Exaltación de la Cruz,diferente sexo,125
+2017,6270,Ezeiza,diferente sexo,618
+2017,6274,Florencio Varela,diferente sexo,1351
+2017,6277,Florentino Ameghino,diferente sexo,33
+2017,6280,General Alvarado,diferente sexo,153
+2017,6287,General Alvear,diferente sexo,32
+2017,6294,General Arenales,diferente sexo,41
+2017,6301,General Belgrano,diferente sexo,54
+2017,6308,General Guido,diferente sexo,3
+2017,6315,General Juan Madariaga,diferente sexo,66
+2017,6322,General la Madrid,diferente sexo,34
+2017,6329,General las Heras,diferente sexo,48
+2017,6336,General Lavalle,diferente sexo,4
+2017,6343,General Paz,diferente sexo,40
+2017,6351,General Pinto,diferente sexo,17
+2017,6357,General Pueyrredón,diferente sexo,2286
+2017,6364,General Rodríguez,diferente sexo,370
+2017,6371,General San Martín,diferente sexo,1100
+2017,6385,General Viamonte,diferente sexo,43
+2017,6392,General Villegas,diferente sexo,85
+2017,6399,Guaminí,diferente sexo,25
+2017,6406,Hipólito Yrigoyen,diferente sexo,30
+2017,6408,Hurlingham,diferente sexo,464
+2017,6410,Ituzaingó,diferente sexo,443
+2017,6412,José C. Paz,diferente sexo,775
+2017,6413,Junín,diferente sexo,312
+2017,6420,La Costa,diferente sexo,284
+2017,6427,La Matanza,diferente sexo,4048
+2017,6441,La Plata,diferente sexo,2267
+2017,6434,Lanús,diferente sexo,1229
+2017,6448,Laprida,diferente sexo,41
+2017,6455,Las Flores,diferente sexo,74
+2017,6462,Leandro N. Alem,diferente sexo,43
+2017,6466,Lezama,diferente sexo,13
+2017,6469,Lincoln,diferente sexo,137
+2017,6476,Lobería,diferente sexo,33
+2017,6483,Lobos,diferente sexo,105
+2017,6490,Lomas de Zamora,diferente sexo,4490
+2017,6497,Luján,diferente sexo,325
+2017,6505,Magdalena,diferente sexo,64
+2017,6511,Maipú,diferente sexo,30
+2017,6515,Malvinas Argentinas,diferente sexo,792
+2017,6518,Mar Chiquita,diferente sexo,90
+2017,6525,Marcos Paz,diferente sexo,150
+2017,6532,Mercedes,diferente sexo,206
+2017,6539,Merlo,diferente sexo,1497
+2017,6547,Monte,diferente sexo,61
+2017,6553,Monte Hermoso,diferente sexo,26
+2017,6560,Moreno,diferente sexo,1353
+2017,6568,Morón,diferente sexo,861
+2017,6574,Navarro,diferente sexo,48
+2017,6581,Necochea,diferente sexo,291
+2017,6595,Olavarría,diferente sexo,416
+2017,6602,Patagones,diferente sexo,79
+2017,6609,Pehuajó,diferente sexo,120
+2017,6616,Pellegrini,diferente sexo,16
+2017,6623,Pergamino,diferente sexo,382
+2017,6630,Pila,diferente sexo,10
+2017,6638,Pilar,diferente sexo,1021
+2017,6644,Pinamar,diferente sexo,121
+2017,6648,Presidente Perón,diferente sexo,343
+2017,6651,Puán,diferente sexo,41
+2017,6655,Punta Indio,diferente sexo,26
+2017,6658,Quilmes,diferente sexo,1585
+2017,6665,Ramallo,diferente sexo,116
+2017,6672,Rauch,diferente sexo,26
+2017,6679,Rivadavia,diferente sexo,42
+2017,6686,Rojas,diferente sexo,70
+2017,6693,Roque Pérez,diferente sexo,45
+2017,6700,Saavedra,diferente sexo,53
+2017,6707,Saladillo,diferente sexo,81
+2017,6721,Salliqueló,diferente sexo,27
+2017,6714,Salto,diferente sexo,104
+2017,6728,San Andrés de Giles,diferente sexo,70
+2017,6735,San Antonio de Areco,diferente sexo,69
+2017,6742,San Cayetano,diferente sexo,17
+2017,6749,San Fernando,diferente sexo,457
+2017,6756,San Isidro,diferente sexo,1048
+2017,6760,San Miguel,diferente sexo,1060
+2017,6763,San Nicolás,diferente sexo,638
+2017,6770,San Pedro,diferente sexo,228
+2017,6778,San Vicente,diferente sexo,266
+2017,6784,Suipacha,diferente sexo,26
+2017,6791,Tandil,diferente sexo,343
+2017,6798,Tapalqué,diferente sexo,20
+2017,6805,Tigre,diferente sexo,1274
+2017,6812,Tordillo,diferente sexo,3
+2017,6819,Tornquist,diferente sexo,60
+2017,6826,Trenque Lauquen,diferente sexo,197
+2017,6833,Tres Arroyos,diferente sexo,167
+2017,6840,Tres de Febrero,diferente sexo,966
+2017,6847,Tres Lomas,diferente sexo,20
+2017,6861,Vicente López,diferente sexo,628
+2017,6868,Villa Gesell,diferente sexo,124
+2017,6875,Villarino,diferente sexo,101
+2017,6882,Zárate,diferente sexo,363
+2017,6588,9 de Julio,igual sexo,2
+2017,6007,Adolfo Alsina,igual sexo,1
+2017,6028,Almirante Brown,igual sexo,51
+2017,6035,Avellaneda,igual sexo,13
+2017,6056,Bahía Blanca,igual sexo,5
+2017,6091,Berazategui,igual sexo,13
+2017,6098,Berisso,igual sexo,2
+2017,6112,Bragado,igual sexo,1
+2017,6119,Brandsen,igual sexo,13
+2017,6126,Campana,igual sexo,6
+2017,6147,Carlos Casares,igual sexo,1
+2017,6161,Carmen de Areco,igual sexo,1
+2017,6168,Castelli,igual sexo,4
+2017,6210,Chacabuco,igual sexo,2
+2017,6196,Coronel Pringles,igual sexo,1
+2017,6203,Coronel Suárez,igual sexo,13
+2017,6231,Daireaux,igual sexo,1
+2017,6245,Ensenada,igual sexo,6
+2017,6252,Escobar,igual sexo,5
+2017,6260,Esteban Echeverría,igual sexo,12
+2017,6266,Exaltación de la Cruz,igual sexo,4
+2017,6270,Ezeiza,igual sexo,6
+2017,6274,Florencio Varela,igual sexo,7
+2017,6280,General Alvarado,igual sexo,2
+2017,6301,General Belgrano,igual sexo,2
+2017,6322,General la Madrid,igual sexo,4
+2017,6357,General Pueyrredón,igual sexo,30
+2017,6364,General Rodríguez,igual sexo,5
+2017,6371,General San Martín,igual sexo,17
+2017,6385,General Viamonte,igual sexo,1
+2017,6392,General Villegas,igual sexo,1
+2017,6408,Hurlingham,igual sexo,4
+2017,6410,Ituzaingó,igual sexo,5
+2017,6412,José C. Paz,igual sexo,66
+2017,6413,Junín,igual sexo,2
+2017,6420,La Costa,igual sexo,1
+2017,6427,La Matanza,igual sexo,53
+2017,6441,La Plata,igual sexo,45
+2017,6434,Lanús,igual sexo,12
+2017,6448,Laprida,igual sexo,1
+2017,6455,Las Flores,igual sexo,1
+2017,6469,Lincoln,igual sexo,1
+2017,6483,Lobos,igual sexo,1
+2017,6490,Lomas de Zamora,igual sexo,42
+2017,6497,Luján,igual sexo,3
+2017,6515,Malvinas Argentinas,igual sexo,9
+2017,6518,Mar Chiquita,igual sexo,17
+2017,6532,Mercedes,igual sexo,1
+2017,6539,Merlo,igual sexo,21
+2017,6547,Monte,igual sexo,1
+2017,6560,Moreno,igual sexo,9
+2017,6568,Morón,igual sexo,15
+2017,6595,Olavarría,igual sexo,5
+2017,6609,Pehuajó,igual sexo,2
+2017,6623,Pergamino,igual sexo,7
+2017,6638,Pilar,igual sexo,9
+2017,6644,Pinamar,igual sexo,2
+2017,6648,Presidente Perón,igual sexo,1
+2017,6651,Puán,igual sexo,6
+2017,6655,Punta Indio,igual sexo,2
+2017,6658,Quilmes,igual sexo,19
+2017,6665,Ramallo,igual sexo,2
+2017,6679,Rivadavia,igual sexo,2
+2017,6693,Roque Pérez,igual sexo,1
+2017,6700,Saavedra,igual sexo,7
+2017,6707,Saladillo,igual sexo,2
+2017,6721,Salliqueló,igual sexo,1
+2017,6735,San Antonio de Areco,igual sexo,2
+2017,6749,San Fernando,igual sexo,5
+2017,6756,San Isidro,igual sexo,13
+2017,6760,San Miguel,igual sexo,5
+2017,6763,San Nicolás,igual sexo,6
+2017,6770,San Pedro,igual sexo,3
+2017,6778,San Vicente,igual sexo,3
+2017,6791,Tandil,igual sexo,3
+2017,6805,Tigre,igual sexo,11
+2017,6833,Tres Arroyos,igual sexo,17
+2017,6840,Tres de Febrero,igual sexo,19
+2017,6861,Vicente López,igual sexo,10
+2017,6882,Zárate,igual sexo,6
+2018,6854,25 de mayo,diferente sexo,46
+2018,6588,9 de Julio,diferente sexo,52
+2018,6007,Adolfo Alsina,diferente sexo,21
+2018,6014,Adolfo Gonzales Chaves,diferente sexo,16
+2018,6021,Alberti,diferente sexo,10
+2018,6028,Almirante Brown,diferente sexo,810
+2018,6077,Arrecifes,diferente sexo,43
+2018,6035,Avellaneda,diferente sexo,381
+2018,6042,Ayacucho,diferente sexo,27
+2018,6049,Azul,diferente sexo,88
+2018,6056,Bahía Blanca,diferente sexo,519
+2018,6063,Balcarce,diferente sexo,70
+2018,6070,Baradero,diferente sexo,73
+2018,6084,Benito Juárez,diferente sexo,17
+2018,6091,Berazategui,diferente sexo,429
+2018,6098,Berisso,diferente sexo,142
+2018,6105,Bolívar,diferente sexo,52
+2018,6112,Bragado,diferente sexo,48
+2018,6119,Brandsen,diferente sexo,33
+2018,6126,Campana,diferente sexo,166
+2018,6134,Cañuelas,diferente sexo,97
+2018,6140,Capitán Sarmiento,diferente sexo,22
+2018,6147,Carlos Casares,diferente sexo,23
+2018,6154,Carlos Tejedor,diferente sexo,10
+2018,6161,Carmen de Areco,diferente sexo,25
+2018,6168,Castelli,diferente sexo,8
+2018,6210,Chacabuco,diferente sexo,60
+2018,6218,Chascomús,diferente sexo,61
+2018,6224,Chivilcoy,diferente sexo,82
+2018,6175,Colón,diferente sexo,40
+2018,6182,Coronel de Marina Leonardo Rosales,diferente sexo,46
+2018,6189,Coronel Dorrego,diferente sexo,14
+2018,6196,Coronel Pringles,diferente sexo,48
+2018,6203,Coronel Suárez,diferente sexo,76
+2018,6231,Daireaux,diferente sexo,24
+2018,6238,Dolores,diferente sexo,48
+2018,6245,Ensenada,diferente sexo,87
+2018,6252,Escobar,diferente sexo,367
+2018,6260,Esteban Echeverría,diferente sexo,363
+2018,6266,Exaltación de la Cruz,diferente sexo,54
+2018,6270,Ezeiza,diferente sexo,249
+2018,6274,Florencio Varela,diferente sexo,542
+2018,6277,Florentino Ameghino,diferente sexo,18
+2018,6280,General Alvarado,diferente sexo,55
+2018,6287,General Alvear,diferente sexo,14
+2018,6294,General Arenales,diferente sexo,19
+2018,6301,General Belgrano,diferente sexo,25
+2018,6308,General Guido,diferente sexo,1
+2018,6315,General Juan Madariaga,diferente sexo,32
+2018,6322,General la Madrid,diferente sexo,20
+2018,6329,General las Heras,diferente sexo,20
+2018,6336,General Lavalle,diferente sexo,10
+2018,6343,General Paz,diferente sexo,19
+2018,6351,General Pinto,diferente sexo,13
+2018,6357,General Pueyrredón,diferente sexo,1069
+2018,6364,General Rodríguez,diferente sexo,173
+2018,6371,General San Martín,diferente sexo,447
+2018,6385,General Viamonte,diferente sexo,22
+2018,6392,General Villegas,diferente sexo,40
+2018,6399,Guaminí,diferente sexo,9
+2018,6406,Hipólito Yrigoyen,diferente sexo,12
+2018,6408,Hurlingham,diferente sexo,216
+2018,6410,Ituzaingó,diferente sexo,170
+2018,6412,José C. Paz,diferente sexo,363
+2018,6413,Junín,diferente sexo,146
+2018,6420,La Costa,diferente sexo,84
+2018,6427,La Matanza,diferente sexo,1697
+2018,6441,La Plata,diferente sexo,1006
+2018,6434,Lanús,diferente sexo,473
+2018,6448,Laprida,diferente sexo,20
+2018,6455,Las Flores,diferente sexo,9
+2018,6462,Leandro N. Alem,diferente sexo,17
+2018,6466,Lezama,diferente sexo,4
+2018,6469,Lincoln,diferente sexo,46
+2018,6476,Lobería,diferente sexo,22
+2018,6483,Lobos,diferente sexo,41
+2018,6490,Lomas de Zamora,diferente sexo,815
+2018,6497,Luján,diferente sexo,163
+2018,6505,Magdalena,diferente sexo,35
+2018,6511,Maipú,diferente sexo,11
+2018,6515,Malvinas Argentinas,diferente sexo,450
+2018,6518,Mar Chiquita,diferente sexo,67
+2018,6525,Marcos Paz,diferente sexo,69
+2018,6532,Mercedes,diferente sexo,92
+2018,6539,Merlo,diferente sexo,676
+2018,6547,Monte,diferente sexo,24
+2018,6553,Monte Hermoso,diferente sexo,10
+2018,6560,Moreno,diferente sexo,602
+2018,6568,Morón,diferente sexo,378
+2018,6574,Navarro,diferente sexo,6
+2018,6581,Necochea,diferente sexo,163
+2018,6595,Olavarría,diferente sexo,211
+2018,6602,Patagones,diferente sexo,33
+2018,6609,Pehuajó,diferente sexo,38
+2018,6616,Pellegrini,diferente sexo,12
+2018,6623,Pergamino,diferente sexo,168
+2018,6630,Pila,diferente sexo,8
+2018,6638,Pilar,diferente sexo,509
+2018,6644,Pinamar,diferente sexo,48
+2018,6648,Presidente Perón,diferente sexo,159
+2018,6651,Puán,diferente sexo,25
+2018,6655,Punta Indio,diferente sexo,17
+2018,6658,Quilmes,diferente sexo,767
+2018,6665,Ramallo,diferente sexo,68
+2018,6672,Rauch,diferente sexo,20
+2018,6679,Rivadavia,diferente sexo,25
+2018,6686,Rojas,diferente sexo,18
+2018,6693,Roque Pérez,diferente sexo,11
+2018,6700,Saavedra,diferente sexo,21
+2018,6707,Saladillo,diferente sexo,58
+2018,6721,Salliqueló,diferente sexo,24
+2018,6714,Salto,diferente sexo,49
+2018,6728,San Andrés de Giles,diferente sexo,23
+2018,6735,San Antonio de Areco,diferente sexo,29
+2018,6742,San Cayetano,diferente sexo,14
+2018,6749,San Fernando,diferente sexo,199
+2018,6756,San Isidro,diferente sexo,452
+2018,6760,San Miguel,diferente sexo,447
+2018,6763,San Nicolás,diferente sexo,297
+2018,6770,San Pedro,diferente sexo,109
+2018,6778,San Vicente,diferente sexo,147
+2018,6784,Suipacha,diferente sexo,11
+2018,6791,Tandil,diferente sexo,170
+2018,6798,Tapalqué,diferente sexo,17
+2018,6805,Tigre,diferente sexo,503
+2018,6812,Tordillo,diferente sexo,4
+2018,6819,Tornquist,diferente sexo,22
+2018,6826,Trenque Lauquen,diferente sexo,74
+2018,6833,Tres Arroyos,diferente sexo,75
+2018,6840,Tres de Febrero,diferente sexo,407
+2018,6847,Tres Lomas,diferente sexo,10
+2018,6861,Vicente López,diferente sexo,259
+2018,6868,Villa Gesell,diferente sexo,36
+2018,6875,Villarino,diferente sexo,32
+2018,6882,Zárate,diferente sexo,178
+2018,6588,9 de Julio,igual sexo,1
+2018,6014,Adolfo Gonzales Chaves,igual sexo,5
+2018,6021,Alberti,igual sexo,1
+2018,6028,Almirante Brown,igual sexo,4
+2018,6035,Avellaneda,igual sexo,6
+2018,6056,Bahía Blanca,igual sexo,7
+2018,6063,Balcarce,igual sexo,1
+2018,6091,Berazategui,igual sexo,8
+2018,6098,Berisso,igual sexo,2
+2018,6119,Brandsen,igual sexo,1
+2018,6126,Campana,igual sexo,2
+2018,6168,Castelli,igual sexo,1
+2018,6210,Chacabuco,igual sexo,2
+2018,6182,Coronel de Marina Leonardo Rosales,igual sexo,1
+2018,6196,Coronel Pringles,igual sexo,1
+2018,6203,Coronel Suárez,igual sexo,1
+2018,6231,Daireaux,igual sexo,1
+2018,6238,Dolores,igual sexo,1
+2018,6245,Ensenada,igual sexo,2
+2018,6252,Escobar,igual sexo,2
+2018,6260,Esteban Echeverría,igual sexo,15
+2018,6270,Ezeiza,igual sexo,4
+2018,6274,Florencio Varela,igual sexo,11
+2018,6301,General Belgrano,igual sexo,1
+2018,6322,General la Madrid,igual sexo,1
+2018,6329,General las Heras,igual sexo,1
+2018,6357,General Pueyrredón,igual sexo,22
+2018,6364,General Rodríguez,igual sexo,1
+2018,6371,General San Martín,igual sexo,5
+2018,6392,General Villegas,igual sexo,1
+2018,6408,Hurlingham,igual sexo,2
+2018,6410,Ituzaingó,igual sexo,2
+2018,6412,José C. Paz,igual sexo,3
+2018,6427,La Matanza,igual sexo,19
+2018,6441,La Plata,igual sexo,13
+2018,6434,Lanús,igual sexo,5
+2018,6490,Lomas de Zamora,igual sexo,9
+2018,6497,Luján,igual sexo,2
+2018,6515,Malvinas Argentinas,igual sexo,2
+2018,6518,Mar Chiquita,igual sexo,2
+2018,6525,Marcos Paz,igual sexo,1
+2018,6539,Merlo,igual sexo,11
+2018,6560,Moreno,igual sexo,7
+2018,6568,Morón,igual sexo,8
+2018,6595,Olavarría,igual sexo,5
+2018,6623,Pergamino,igual sexo,2
+2018,6630,Pila,igual sexo,1
+2018,6638,Pilar,igual sexo,5
+2018,6658,Quilmes,igual sexo,5
+2018,6700,Saavedra,igual sexo,1
+2018,6707,Saladillo,igual sexo,2
+2018,6721,Salliqueló,igual sexo,5
+2018,6749,San Fernando,igual sexo,2
+2018,6756,San Isidro,igual sexo,7
+2018,6760,San Miguel,igual sexo,1
+2018,6763,San Nicolás,igual sexo,1
+2018,6778,San Vicente,igual sexo,7
+2018,6791,Tandil,igual sexo,3
+2018,6805,Tigre,igual sexo,3
+2018,6840,Tres de Febrero,igual sexo,2
+2018,6861,Vicente López,igual sexo,10
+2019,6854,25 de mayo,diferente sexo,94
+2019,6588,9 de Julio,diferente sexo,108
+2019,6007,Adolfo Alsina,diferente sexo,41
+2019,6014,Adolfo Gonzales Chaves,diferente sexo,19
+2019,6021,Alberti,diferente sexo,27
+2019,6028,Almirante Brown,diferente sexo,1580
+2019,6077,Arrecifes,diferente sexo,89
+2019,6035,Avellaneda,diferente sexo,828
+2019,6042,Ayacucho,diferente sexo,42
+2019,6049,Azul,diferente sexo,177
+2019,6056,Bahía Blanca,diferente sexo,981
+2019,6063,Balcarce,diferente sexo,121
+2019,6070,Baradero,diferente sexo,134
+2019,6084,Benito Juárez,diferente sexo,40
+2019,6091,Berazategui,diferente sexo,944
+2019,6098,Berisso,diferente sexo,255
+2019,6105,Bolívar,diferente sexo,100
+2019,6112,Bragado,diferente sexo,113
+2019,6119,Brandsen,diferente sexo,97
+2019,6126,Campana,diferente sexo,343
+2019,6134,Cañuelas,diferente sexo,163
+2019,6140,Capitán Sarmiento,diferente sexo,33
+2019,6147,Carlos Casares,diferente sexo,42
+2019,6154,Carlos Tejedor,diferente sexo,11
+2019,6161,Carmen de Areco,diferente sexo,44
+2019,6168,Castelli,diferente sexo,24
+2019,6210,Chacabuco,diferente sexo,112
+2019,6218,Chascomús,diferente sexo,82
+2019,6224,Chivilcoy,diferente sexo,126
+2019,6175,Colón,diferente sexo,92
+2019,6182,Coronel de Marina Leonardo Rosales,diferente sexo,110
+2019,6189,Coronel Dorrego,diferente sexo,42
+2019,6196,Coronel Pringles,diferente sexo,51
+2019,6203,Coronel Suárez,diferente sexo,97
+2019,6231,Daireaux,diferente sexo,38
+2019,6238,Dolores,diferente sexo,101
+2019,6245,Ensenada,diferente sexo,174
+2019,6252,Escobar,diferente sexo,669
+2019,6260,Esteban Echeverría,diferente sexo,829
+2019,6266,Exaltación de la Cruz,diferente sexo,110
+2019,6270,Ezeiza,diferente sexo,603
+2019,6274,Florencio Varela,diferente sexo,1439
+2019,6277,Florentino Ameghino,diferente sexo,18
+2019,6280,General Alvarado,diferente sexo,130
+2019,6287,General Alvear,diferente sexo,32
+2019,6294,General Arenales,diferente sexo,36
+2019,6301,General Belgrano,diferente sexo,48
+2019,6308,General Guido,diferente sexo,3
+2019,6315,General Juan Madariaga,diferente sexo,59
+2019,6322,General la Madrid,diferente sexo,34
+2019,6329,General las Heras,diferente sexo,33
+2019,6336,General Lavalle,diferente sexo,9
+2019,6343,General Paz,diferente sexo,44
+2019,6351,General Pinto,diferente sexo,27
+2019,6357,General Pueyrredón,diferente sexo,1938
+2019,6364,General Rodríguez,diferente sexo,353
+2019,6371,General San Martín,diferente sexo,1058
+2019,6385,General Viamonte,diferente sexo,38
+2019,6392,General Villegas,diferente sexo,76
+2019,6399,Guaminí,diferente sexo,24
+2019,6406,Hipólito Yrigoyen,diferente sexo,25
+2019,6408,Hurlingham,diferente sexo,392
+2019,6410,Ituzaingó,diferente sexo,419
+2019,6412,José C. Paz,diferente sexo,736
+2019,6413,Junín,diferente sexo,296
+2019,6420,La Costa,diferente sexo,279
+2019,6427,La Matanza,diferente sexo,3342
+2019,6441,La Plata,diferente sexo,2033
+2019,6434,Lanús,diferente sexo,1224
+2019,6448,Laprida,diferente sexo,33
+2019,6455,Las Flores,diferente sexo,68
+2019,6462,Leandro N. Alem,diferente sexo,31
+2019,6466,Lezama,diferente sexo,10
+2019,6469,Lincoln,diferente sexo,88
+2019,6476,Lobería,diferente sexo,36
+2019,6483,Lobos,diferente sexo,105
+2019,6490,Lomas de Zamora,diferente sexo,1615
+2019,6497,Luján,diferente sexo,337
+2019,6505,Magdalena,diferente sexo,43
+2019,6511,Maipú,diferente sexo,27
+2019,6515,Malvinas Argentinas,diferente sexo,805
+2019,6518,Mar Chiquita,diferente sexo,74
+2019,6525,Marcos Paz,diferente sexo,175
+2019,6532,Mercedes,diferente sexo,158
+2019,6539,Merlo,diferente sexo,1318
+2019,6547,Monte,diferente sexo,48
+2019,6553,Monte Hermoso,diferente sexo,31
+2019,6560,Moreno,diferente sexo,1231
+2019,6568,Morón,diferente sexo,876
+2019,6574,Navarro,diferente sexo,30
+2019,6581,Necochea,diferente sexo,257
+2019,6595,Olavarría,diferente sexo,369
+2019,6602,Patagones,diferente sexo,75
+2019,6609,Pehuajó,diferente sexo,89
+2019,6616,Pellegrini,diferente sexo,16
+2019,6623,Pergamino,diferente sexo,304
+2019,6630,Pila,diferente sexo,11
+2019,6638,Pilar,diferente sexo,1021
+2019,6644,Pinamar,diferente sexo,89
+2019,6648,Presidente Perón,diferente sexo,262
+2019,6651,Puán,diferente sexo,42
+2019,6655,Punta Indio,diferente sexo,41
+2019,6658,Quilmes,diferente sexo,1441
+2019,6665,Ramallo,diferente sexo,93
+2019,6672,Rauch,diferente sexo,30
+2019,6679,Rivadavia,diferente sexo,30
+2019,6686,Rojas,diferente sexo,55
+2019,6693,Roque Pérez,diferente sexo,38
+2019,6700,Saavedra,diferente sexo,68
+2019,6707,Saladillo,diferente sexo,73
+2019,6721,Salliqueló,diferente sexo,22
+2019,6714,Salto,diferente sexo,113
+2019,6728,San Andrés de Giles,diferente sexo,54
+2019,6735,San Antonio de Areco,diferente sexo,76
+2019,6742,San Cayetano,diferente sexo,20
+2019,6749,San Fernando,diferente sexo,408
+2019,6756,San Isidro,diferente sexo,969
+2019,6760,San Miguel,diferente sexo,867
+2019,6763,San Nicolás,diferente sexo,572
+2019,6770,San Pedro,diferente sexo,198
+2019,6778,San Vicente,diferente sexo,245
+2019,6784,Suipacha,diferente sexo,27
+2019,6791,Tandil,diferente sexo,405
+2019,6798,Tapalqué,diferente sexo,15
+2019,6805,Tigre,diferente sexo,1025
+2019,6812,Tordillo,diferente sexo,5
+2019,6819,Tornquist,diferente sexo,50
+2019,6826,Trenque Lauquen,diferente sexo,121
+2019,6833,Tres Arroyos,diferente sexo,122
+2019,6840,Tres de Febrero,diferente sexo,748
+2019,6847,Tres Lomas,diferente sexo,20
+2019,6861,Vicente López,diferente sexo,634
+2019,6868,Villa Gesell,diferente sexo,117
+2019,6875,Villarino,diferente sexo,72
+2019,6882,Zárate,diferente sexo,348
+2019,6588,9 de Julio,igual sexo,1
+2019,6028,Almirante Brown,igual sexo,19
+2019,6035,Avellaneda,igual sexo,19
+2019,6049,Azul,igual sexo,2
+2019,6056,Bahía Blanca,igual sexo,12
+2019,6063,Balcarce,igual sexo,2
+2019,6070,Baradero,igual sexo,2
+2019,6091,Berazategui,igual sexo,14
+2019,6098,Berisso,igual sexo,2
+2019,6112,Bragado,igual sexo,2
+2019,6119,Brandsen,igual sexo,1
+2019,6126,Campana,igual sexo,4
+2019,6134,Cañuelas,igual sexo,2
+2019,6168,Castelli,igual sexo,2
+2019,6210,Chacabuco,igual sexo,1
+2019,6218,Chascomús,igual sexo,2
+2019,6224,Chivilcoy,igual sexo,8
+2019,6175,Colón,igual sexo,2
+2019,6182,Coronel de Marina Leonardo Rosales,igual sexo,1
+2019,6238,Dolores,igual sexo,2
+2019,6245,Ensenada,igual sexo,4
+2019,6252,Escobar,igual sexo,7
+2019,6260,Esteban Echeverría,igual sexo,14
+2019,6266,Exaltación de la Cruz,igual sexo,3
+2019,6270,Ezeiza,igual sexo,9
+2019,6274,Florencio Varela,igual sexo,9
+2019,6280,General Alvarado,igual sexo,3
+2019,6301,General Belgrano,igual sexo,1
+2019,6357,General Pueyrredón,igual sexo,42
+2019,6364,General Rodríguez,igual sexo,5
+2019,6371,General San Martín,igual sexo,22
+2019,6406,Hipólito Yrigoyen,igual sexo,2
+2019,6408,Hurlingham,igual sexo,4
+2019,6410,Ituzaingó,igual sexo,6
+2019,6412,José C. Paz,igual sexo,12
+2019,6413,Junín,igual sexo,4
+2019,6420,La Costa,igual sexo,8
+2019,6427,La Matanza,igual sexo,47
+2019,6441,La Plata,igual sexo,59
+2019,6434,Lanús,igual sexo,22
+2019,6455,Las Flores,igual sexo,2
+2019,6469,Lincoln,igual sexo,1
+2019,6476,Lobería,igual sexo,2
+2019,6483,Lobos,igual sexo,2
+2019,6490,Lomas de Zamora,igual sexo,27
+2019,6497,Luján,igual sexo,7
+2019,6505,Magdalena,igual sexo,1
+2019,6515,Malvinas Argentinas,igual sexo,9
+2019,6518,Mar Chiquita,igual sexo,2
+2019,6525,Marcos Paz,igual sexo,2
+2019,6532,Mercedes,igual sexo,4
+2019,6539,Merlo,igual sexo,15
+2019,6547,Monte,igual sexo,2
+2019,6560,Moreno,igual sexo,16
+2019,6568,Morón,igual sexo,17
+2019,6581,Necochea,igual sexo,3
+2019,6595,Olavarría,igual sexo,4
+2019,6602,Patagones,igual sexo,1
+2019,6609,Pehuajó,igual sexo,1
+2019,6623,Pergamino,igual sexo,6
+2019,6638,Pilar,igual sexo,17
+2019,6644,Pinamar,igual sexo,1
+2019,6648,Presidente Perón,igual sexo,5
+2019,6658,Quilmes,igual sexo,27
+2019,6665,Ramallo,igual sexo,2
+2019,6693,Roque Pérez,igual sexo,1
+2019,6714,Salto,igual sexo,3
+2019,6728,San Andrés de Giles,igual sexo,2
+2019,6735,San Antonio de Areco,igual sexo,1
+2019,6749,San Fernando,igual sexo,11
+2019,6756,San Isidro,igual sexo,24
+2019,6760,San Miguel,igual sexo,17
+2019,6763,San Nicolás,igual sexo,8
+2019,6770,San Pedro,igual sexo,7
+2019,6778,San Vicente,igual sexo,4
+2019,6791,Tandil,igual sexo,7
+2019,6805,Tigre,igual sexo,16
+2019,6826,Trenque Lauquen,igual sexo,1
+2019,6840,Tres de Febrero,igual sexo,17
+2019,6861,Vicente López,igual sexo,21
+2019,6868,Villa Gesell,igual sexo,2
+2019,6882,Zárate,igual sexo,6

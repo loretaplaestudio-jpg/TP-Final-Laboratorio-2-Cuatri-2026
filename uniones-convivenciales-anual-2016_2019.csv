@@ -1,0 +1,1008 @@
+anio,zona,municipio_id,municipio_nombre,delegacion,cantidad
+2016,1,6077,Arrecifes,Arrecifes,88
+2016,1,6070,Baradero,Baradero,1
+2016,1,6140,Capitán Sarmiento,Capitán Sarmiento (Delegación - No Es Nodo),11
+2016,1,6665,Ramallo,Ramallo,43
+2016,1,6735,San Antonio de Areco,San Antonio de Areco,4
+2016,1,6763,San Nicolás,San Nicolás,249
+2016,1,6770,San Pedro,San Pedro,104
+2016,2,6175,Colón,Colón,27
+2016,2,6294,General Arenales,General Arenales,10
+2016,2,6623,Pergamino,El Socorro,10
+2016,2,6623,Pergamino,Pergamino,99
+2016,2,6686,Rojas,Rojas,26
+2016,2,6714,Salto,Salto,33
+2016,3,6126,Campana,Campana,11
+2016,3,6161,Carmen de Areco,Carmen de Areco,67
+2016,3,6252,Escobar,Domingo Matheu,37
+2016,3,6266,Exaltación de la Cruz,Capilla del Señor,43
+2016,3,6364,General Rodríguez,General Rodríguez,116
+2016,3,6497,Luján,Luján,85
+2016,3,6638,Pilar,Manuel Alberti,165
+2016,3,6728,San Andrés de Giles,San Andrés de Giles,1
+2016,3,6882,Zárate,Zárate,29
+2016,4,6112,Bragado,Bragado,42
+2016,4,6210,Chacabuco,Chacabuco,86
+2016,4,6277,Florentino Ameghino,Ameghino,10
+2016,4,6351,General Pinto,General Pinto,2
+2016,4,6385,General Viamonte,Los Toldos,50
+2016,4,6413,Junín,Junín,47
+2016,4,6413,Junín,Villa Belgrano Sección Segunda,31
+2016,4,6462,Leandro N. Alem,Vedia,28
+2016,4,6469,Lincoln,Lincoln,81
+2016,4,6588,9 de Julio,9 de Julio,29
+2016,5,6021,Alberti,Alberti,31
+2016,5,6134,Cañuelas,Cañuelas,35
+2016,5,6224,Chivilcoy,Chivilcoy,117
+2016,5,6329,General las Heras,General Las Heras,68
+2016,5,6483,Lobos,Lobos,58
+2016,5,6532,Mercedes,Mercedes,111
+2016,5,6693,Roque Pérez,Roque Pérez,23
+2016,5,6707,Saladillo,Saladillo,70
+2016,5,6854,25 de Mayo,Norberto de la Riestra,13
+2016,5,6854,25 de Mayo,Pedernales,6
+2016,5,6854,25 de Mayo,25 de Mayo,42
+2016,6,6098,Berisso,Berisso,119
+2016,6,6098,Berisso,Berisso Sección Segunda,65
+2016,6,6119,Brandsen,Coronel Brandsen,31
+2016,6,6245,Ensenada,El Dique,13
+2016,6,6245,Ensenada,Ensenada,79
+2016,6,6441,La Plata,Abasto,29
+2016,6,6441,La Plata,Altos de San Lorenzo,83
+2016,6,6441,La Plata,City Bell,111
+2016,6,6441,La Plata,José Melchor Romero,70
+2016,6,6441,La Plata,La Plata Sección Primera,469
+2016,6,6441,La Plata,Lisandro Olmos,75
+2016,6,6441,La Plata,Los Hornos,217
+2016,6,6441,La Plata,Manuel B. Gonnet,76
+2016,6,6441,La Plata,San Carlos,93
+2016,6,6441,La Plata,Tolosa,144
+2016,6,6441,La Plata,Villa Elisa,97
+2016,6,6441,La Plata,Villa Elvira,130
+2016,6,6505,Magdalena,Magdalena,2
+2016,6,6655,Punta Indio,Verónica,22
+2016,6,6655,Punta Indio,Verónica Sección Segunda,6
+2016,7,6091,Berazategui,Berazategui,11
+2016,7,6091,Berazategui,El Pato,66
+2016,7,6274,Florencio Varela,El Cruce Florencio Varela,9
+2016,7,6274,Florencio Varela,Florencio Varela,119
+2016,7,6658,Quilmes,Ezpeleta,67
+2016,7,6658,Quilmes,La Florida,197
+2016,7,6658,Quilmes,Quilmes,70
+2016,8,6147,Carlos Casares,Carlos Casares,52
+2016,8,6392,General Villegas,General Villegas,33
+2016,8,6406,Hipólito Yrigoyen,Henderson,2
+2016,8,6609,Pehuajó,Pehuajó,85
+2016,8,6616,Pellegrini,Pellegrini,1
+2016,8,6679,Rivadavia,América,16
+2016,8,6826,Trenque Lauquen,Trenque Lauquen,33
+2016,9,6049,Azul,Azul,33
+2016,9,6084,Benito Juárez,Benito Juárez,19
+2016,9,6105,Bolívar,Bolívar,160
+2016,9,6105,Bolívar,Urdampilleta,2
+2016,9,6287,General Alvear,General Alvear,31
+2016,9,6595,Olavarría,Olavarría,259
+2016,9,6672,Rauch,Rauch,40
+2016,9,6791,Tandil,Tandil,66
+2016,9,6791,Tandil,Villa Italia,73
+2016,9,6798,Tapalqué,Tapalqué,11
+2016,10,6168,Castelli,Castelli,7
+2016,10,6218,Chascomús,Chascomús,54
+2016,10,6420,La Costa,Mar de Ajó,79
+2016,10,6420,La Costa,Mar del Tuyú,12
+2016,10,6420,La Costa,San Clemente del Tuyú,40
+2016,10,6238,Dolores,Dolores,29
+2016,10,6301,General Belgrano,General Belgrano,59
+2016,10,6308,General Guido,General Guido,8
+2016,10,6336,General Lavalle,General Lavalle,21
+2016,10,6343,General Paz,Ranchos,5
+2016,10,6466,Lezama,Lezama (Ex Manuel José Cobo),1
+2016,10,6511,Maipú,Maipú,19
+2016,10,6547,Monte,Monte,48
+2016,11,6042,Ayacucho,Ayacucho,25
+2016,11,6063,Balcarce,Balcarce,15
+2016,11,6063,Balcarce,Napaleofú,4
+2016,11,6280,General Alvarado,Comandante Nicanor Otamendi,1
+2016,11,6280,General Alvarado,Miramar,19
+2016,11,6315,General Juan Madariaga,General Madariaga,28
+2016,11,6357,General Pueyrredón,Mar Del Plata- Oficina Batán,19
+2016,11,6357,General Pueyrredón,Mar Del Plata- Oficina El Puerto,173
+2016,11,6357,General Pueyrredón,Mar Del Plata Sección Primera,287
+2016,11,6518,Mar Chiquita,Santa Clara del Mar,33
+2016,11,6644,Pinamar,Pinamar,4
+2016,11,6868,Villa Gesell,Villa Gesell,4
+2016,12,6014,Adolfo Gonzales Chaves,Adolfo Gonzales Chaves,19
+2016,12,6014,Adolfo Gonzales Chaves,De La Garma,3
+2016,12,6476,Lobería,Lobería,23
+2016,12,6476,Lobería,San Manuel,4
+2016,12,6581,Necochea,Juan N. Fernández,18
+2016,12,6581,Necochea,La Dulce,1
+2016,12,6581,Necochea,Necochea,226
+2016,12,6581,Necochea,Quequén,73
+2016,12,6742,San Cayetano,San Cayetano,20
+2016,12,6833,Tres Arroyos,Orense,6
+2016,12,6833,Tres Arroyos,Tres Arroyos,73
+2016,13,6749,San Fernando,San Fernando,52
+2016,13,6749,San Fernando,Virreyes Sección Segunda,7
+2016,13,6756,San Isidro,Martínez - San Isidro,60
+2016,13,6805,Tigre,Don Torcuato,23
+2016,13,6805,Tigre,General Pacheco,99
+2016,13,6805,Tigre,Tigre,37
+2016,13,6861,Vicente López,Munro Vicente López,280
+2016,14,6371,General San Martín,Villa Ballester,53
+2016,14,6408,Hurlingham,Hurlingham,62
+2016,14,6568,Morón,Castelar,203
+2016,14,6760,San Miguel,San Miguel,52
+2016,14,6760,San Miguel,Santa María,20
+2016,14,6840,Tres de Febrero,Ciudad Jardín Lomas Del Palomar,186
+2016,15,6525,Marcos Paz,Marcos Paz,19
+2016,15,6539,Merlo,Barrio Parque San Martín,75
+2016,15,6539,Merlo,Libertad,135
+2016,15,6539,Merlo,Mariano Acosta,151
+2016,15,6539,Merlo,Merlo,110
+2016,15,6539,Merlo,Pontevedra,28
+2016,15,6539,Merlo,San Antonio de Padua,85
+2016,16,6056,Bahía Blanca,Bahía Blanca,366
+2016,16,6602,Patagones,Carmen de Patagones,10
+2016,16,6189,Coronel Dorrego,Coronel Dorrego,9
+2016,16,6196,Coronel Pringles,Coronel Pringles,23
+2016,16,6182,Coronel de Marina Leonardo Rosales,Punta Alta,288
+2016,16,6819,Tornquist,Saldungaray,8
+2016,16,6819,Tornquist,Tornquist,20
+2016,16,6875,Villarino,Médanos,2
+2016,16,6875,Villarino,Pedro Luro,25
+2016,17,6427,La Matanza,Ciudad Celina,55
+2016,17,6427,La Matanza,Laferrere,60
+2016,17,6427,La Matanza,Ramos Mejía,157
+2016,17,6427,La Matanza,Virrey del Pino,74
+2016,18,6028,Almirante Brown,Claypole,165
+2016,18,6260,Esteban Echeverría,El Jaguel,118
+2016,18,6260,Esteban Echeverría,Monte Grande,1
+2016,18,6270,Ezeiza,Carlos Spegazzini,41
+2016,18,6270,Ezeiza,Tristán Suárez,2
+2016,18,6648,Presidente Perón,Guernica,35
+2016,18,6778,San Vicente,San Vicente,73
+2016,19,6007,Adolfo Alsina,Carhué,39
+2016,19,6007,Adolfo Alsina,Rivera,6
+2016,19,6203,Coronel Suárez,Coronel Suárez,13
+2016,19,6231,Daireaux,Daireaux,31
+2016,19,6322,General la Madrid,General la Madrid,13
+2016,19,6399,Guaminí,Casbas,16
+2016,19,6399,Guaminí,Guaminí,17
+2016,19,6448,Laprida,Laprida,19
+2016,19,6651,Puán,Puan L,10
+2016,19,6721,Salliqueló,Salliqueló,7
+2016,19,6847,Tres Lomas,Tres Lomas,13
+2016,20,6410,Ituzaingó,Villa Udaondo,65
+2016,20,6412,José C. Paz,José C. Paz,64
+2016,20,6515,Malvinas Argentinas,Grand Bourg,7
+2016,20,6515,Malvinas Argentinas,Los Polvorines,117
+2016,20,6560,Moreno,Paso del Rey,391
+2016,21,6035,Avellaneda,Villa Domínico,19
+2016,21,6035,Avellaneda,Wilde,149
+2016,21,6434,Lanús,Valentín Alsina,114
+2016,21,6490,Lomas de Zamora,Temperley,302
+2017,1,6077,Arrecifes,Arrecifes,45
+2017,1,6070,Baradero,Baradero,5
+2017,1,6140,Capitán Sarmiento,Capitán Sarmiento (Delegación - No Es Nodo),51
+2017,1,6665,Ramallo,Ramallo,70
+2017,1,6735,San Antonio de Areco,San Antonio de Areco,3
+2017,1,6763,San Nicolás,San Nicolás,191
+2017,1,6770,San Pedro,San Pedro,88
+2017,2,6175,Colón,Colón,33
+2017,2,6294,General Arenales,General Arenales,13
+2017,2,6623,Pergamino,El Socorro,10
+2017,2,6623,Pergamino,Pergamino,74
+2017,2,6686,Rojas,Rojas,44
+2017,2,6714,Salto,Salto,95
+2017,3,6126,Campana,Campana,21
+2017,3,6161,Carmen de Areco,Carmen de Areco,46
+2017,3,6252,Escobar,Domingo Matheu,63
+2017,3,6266,Exaltación de la Cruz,Capilla del Señor,54
+2017,3,6364,General Rodríguez,General Rodríguez,98
+2017,3,6497,Luján,Luján,105
+2017,3,6638,Pilar,Del Pilar,19
+2017,3,6638,Pilar,Manuel Alberti,201
+2017,3,6728,San Andrés de Giles,San Andrés de Giles,11
+2017,3,6882,Zárate,Zárate,68
+2017,4,6112,Bragado,Bragado,62
+2017,4,6210,Chacabuco,Chacabuco,106
+2017,4,6277,Florentino Ameghino,Ameghino,26
+2017,4,6351,General Pinto,General Pinto,22
+2017,4,6385,General Viamonte,Los Toldos,81
+2017,4,6413,Junín,Junín,52
+2017,4,6413,Junín,Villa Belgrano Sección Segunda,68
+2017,4,6462,Leandro N. Alem,Vedia,41
+2017,4,6469,Lincoln,Lincoln,106
+2017,4,6588,9 de Julio,9 de Julio,72
+2017,5,6021,Alberti,Alberti,55
+2017,5,6134,Cañuelas,Cañuelas,45
+2017,5,6224,Chivilcoy,Moquehua,12
+2017,5,6224,Chivilcoy,Chivilcoy,68
+2017,5,6329,General las Heras,General Las Heras,58
+2017,5,6483,Lobos,Lobos,65
+2017,5,6532,Mercedes,Mercedes,110
+2017,5,6574,Navarro,Navarro,33
+2017,5,6693,Roque Pérez,Roque Pérez,20
+2017,5,6707,Saladillo,Saladillo,43
+2017,5,6784,Suipacha,Suipacha,33
+2017,5,6854,25 de Mayo,Pedernales,10
+2017,5,6854,25 de Mayo,Norberto de la Riestra,28
+2017,5,6854,25 de Mayo,25 de Mayo,39
+2017,6,6098,Berisso,Berisso Sección Segunda,86
+2017,6,6098,Berisso,Berisso,107
+2017,6,6119,Brandsen,Coronel Brandsen,32
+2017,6,6245,Ensenada,El Dique,45
+2017,6,6245,Ensenada,Ensenada,97
+2017,6,6441,La Plata,Abasto,48
+2017,6,6441,La Plata,Manuel B. Gonnet,70
+2017,6,6441,La Plata,Lisandro Olmos,78
+2017,6,6441,La Plata,Villa Elisa,101
+2017,6,6441,La Plata,José Melchor Romero,102
+2017,6,6441,La Plata,San Carlos,107
+2017,6,6441,La Plata,Tolosa,108
+2017,6,6441,La Plata,Villa Elvira,108
+2017,6,6441,La Plata,City Bell,110
+2017,6,6441,La Plata,Altos de San Lorenzo,167
+2017,6,6441,La Plata,Los Hornos,168
+2017,6,6441,La Plata,La Plata Sección Primera,488
+2017,6,6505,Magdalena,Magdalena,34
+2017,6,6655,Punta Indio,Verónica,23
+2017,7,6091,Berazategui,Juan María Gutiérrez,12
+2017,7,6091,Berazategui,Berazategui,50
+2017,7,6091,Berazategui,El Pato,86
+2017,7,6274,Florencio Varela,Florencio Varela,152
+2017,7,6658,Quilmes,Bernal,39
+2017,7,6658,Quilmes,Ezpeleta,84
+2017,7,6658,Quilmes,Quilmes,129
+2017,7,6658,Quilmes,La Florida,160
+2017,8,6147,Carlos Casares,Carlos Casares,81
+2017,8,6154,Carlos Tejedor,Carlos Tejedor,14
+2017,8,6392,General Villegas,General Villegas,42
+2017,8,6406,Hipólito Yrigoyen,Henderson,7
+2017,8,6609,Pehuajó,Pehuajó,89
+2017,8,6616,Pellegrini,Pellegrini,9
+2017,8,6679,Rivadavia,América,21
+2017,8,6826,Trenque Lauquen,Trenque Lauquen,31
+2017,9,6049,Azul,Azul,88
+2017,9,6084,Benito Juárez,Benito Juárez,25
+2017,9,6105,Bolívar,Bolívar,104
+2017,9,6287,General Alvear,General Alvear,28
+2017,9,6595,Olavarría,Olavarría,246
+2017,9,6672,Rauch,Rauch,68
+2017,9,6791,Tandil,Villa Italia,46
+2017,9,6791,Tandil,Tandil,60
+2017,9,6798,Tapalqué,Tapalqué,17
+2017,10,6168,Castelli,Castelli,12
+2017,10,6218,Chascomús,Chascomús,54
+2017,10,6420,La Costa,Mar del Tuyú,47
+2017,10,6420,La Costa,San Clemente del Tuyú,54
+2017,10,6420,La Costa,Mar de Ajó,102
+2017,10,6238,Dolores,Dolores,40
+2017,10,6301,General Belgrano,General Belgrano,77
+2017,10,6308,General Guido,General Guido,8
+2017,10,6336,General Lavalle,General Lavalle,6
+2017,10,6343,General Paz,Ranchos,2
+2017,10,6455,Las Flores,Las Flores,12
+2017,10,6466,Lezama,Lezama (Ex Manuel José Cobo),20
+2017,10,6511,Maipú,Maipú,24
+2017,10,6630,Pila,Pila,3
+2017,10,6547,Monte,Monte,72
+2017,11,6042,Ayacucho,Ayacucho,25
+2017,11,6063,Balcarce,Balcarce,21
+2017,11,6280,General Alvarado,Comandante Nicanor Otamendi,2
+2017,11,6280,General Alvarado,Miramar,38
+2017,11,6315,General Juan Madariaga,General Madariaga,51
+2017,11,6357,General Pueyrredón,Mar Del Plata Norte,45
+2017,11,6357,General Pueyrredón,Mar Del Plata- Oficina Batán,53
+2017,11,6357,General Pueyrredón,Mar Del Plata- Oficina El Puerto,109
+2017,11,6357,General Pueyrredón,Mar Del Plata Sección Primera,421
+2017,11,6518,Mar Chiquita,Coronel Vidal,1
+2017,11,6518,Mar Chiquita,Santa Clara del Mar,55
+2017,11,6644,Pinamar,Pinamar,38
+2017,11,6868,Villa Gesell,Villa Gesell,1
+2017,12,6014,Adolfo Gonzales Chaves,De La Garma,1
+2017,12,6014,Adolfo Gonzales Chaves,Adolfo Gonzales Chaves,27
+2017,12,6476,Lobería,Lobería,49
+2017,12,6581,Necochea,Juan N. Fernández,14
+2017,12,6581,Necochea,Quequén,78
+2017,12,6581,Necochea,Necochea,225
+2017,12,6742,San Cayetano,San Cayetano,29
+2017,12,6833,Tres Arroyos,Orense,13
+2017,12,6833,Tres Arroyos,Micaela Cascallares,14
+2017,12,6833,Tres Arroyos,Tres Arroyos,109
+2017,13,6749,San Fernando,San Fernando,61
+2017,13,6749,San Fernando,Virreyes Sección Segunda,65
+2017,13,6756,San Isidro,Martínez - San Isidro,164
+2017,13,6805,Tigre,El Talar,6
+2017,13,6805,Tigre,Benavídez,20
+2017,13,6805,Tigre,Don Torcuato,33
+2017,13,6805,Tigre,Tigre,53
+2017,13,6805,Tigre,General Pacheco,57
+2017,13,6861,Vicente López,Munro Vicente López,215
+2017,14,6371,General San Martín,Villa Ballester,73
+2017,14,6408,Hurlingham,Hurlingham,152
+2017,14,6568,Morón,Castelar,170
+2017,14,6760,San Miguel,San Miguel,159
+2017,14,6840,Tres de Febrero,Loma Hermosa,1
+2017,14,6840,Tres de Febrero,Ciudad Jardín Lomas Del Palomar,158
+2017,15,6525,Marcos Paz,Marcos Paz,19
+2017,15,6539,Merlo,Barrio Parque San Martín,59
+2017,15,6539,Merlo,Pontevedra,112
+2017,15,6539,Merlo,Merlo,139
+2017,15,6539,Merlo,Libertad,157
+2017,15,6539,Merlo,Mariano Acosta,161
+2017,15,6539,Merlo,San Antonio de Padua,193
+2017,16,6056,Bahía Blanca,Bahía Blanca,265
+2017,16,6602,Patagones,Carmen de Patagones,24
+2017,16,6189,Coronel Dorrego,Coronel Dorrego,22
+2017,16,6196,Coronel Pringles,Coronel Pringles,13
+2017,16,6182,Coronel de Marina Leonardo Rosales,Punta Alta,161
+2017,16,6819,Tornquist,Saldungaray,16
+2017,16,6819,Tornquist,Tornquist,34
+2017,16,6875,Villarino,Pedro Luro,17
+2017,16,6875,Villarino,Médanos,52
+2017,17,6427,La Matanza,Loma Del Millón,37
+2017,17,6427,La Matanza,Ramos Mejía,52
+2017,17,6427,La Matanza,Ciudad Celina,73
+2017,17,6427,La Matanza,Laferrere,118
+2017,17,6427,La Matanza,Virrey del Pino,211
+2017,18,6028,Almirante Brown,Adrogue,2
+2017,18,6028,Almirante Brown,Claypole,176
+2017,18,6260,Esteban Echeverría,Nueve de Abril,1
+2017,18,6260,Esteban Echeverría,El Jaguel,127
+2017,18,6270,Ezeiza,Carlos Spegazzini,86
+2017,18,6648,Presidente Perón,Guernica,55
+2017,18,6778,San Vicente,San Vicente,88
+2017,19,6007,Adolfo Alsina,Rivera,2
+2017,19,6007,Adolfo Alsina,Carhué,37
+2017,19,6203,Coronel Suárez,Coronel Suárez,10
+2017,19,6203,Coronel Suárez,Huanguelén,10
+2017,19,6231,Daireaux,Daireaux,53
+2017,19,6322,General la Madrid,General la Madrid,15
+2017,19,6399,Guaminí,Casbas,8
+2017,19,6399,Guaminí,Guaminí,12
+2017,19,6448,Laprida,Laprida,33
+2017,19,6651,Puán,Darregueira,1
+2017,19,6651,Puán,Puan L,11
+2017,19,6700,Saavedra,Pigüé,11
+2017,19,6721,Salliqueló,Salliqueló,13
+2017,19,6847,Tres Lomas,Tres Lomas,20
+2017,20,6410,Ituzaingó,Villa Udaondo,92
+2017,20,6412,José C. Paz,José C. Paz,125
+2017,20,6515,Malvinas Argentinas,Los Polvorines,131
+2017,20,6560,Moreno,Paso del Rey,108
+2017,20,6560,Moreno,Moreno,255
+2017,21,6035,Avellaneda,Wilde,269
+2017,21,6434,Lanús,Valentín Alsina,161
+2017,21,6490,Lomas de Zamora,Temperley,273
+2018,1,6070,Baradero,Baradero,11
+2018,1,6077,Arrecifes,Arrecifes,35
+2018,1,6140,Capitán Sarmiento,Capitán Sarmiento (Delegación - No Es Nodo),59
+2018,1,6665,Ramallo,Pérez Millan,11
+2018,1,6665,Ramallo,Ramallo,92
+2018,1,6735,San Antonio de Areco,San Antonio de Areco,16
+2018,1,6763,San Nicolás,La Emilia,2
+2018,1,6763,San Nicolás,San Nicolás,177
+2018,1,6770,San Pedro,San Pedro,125
+2018,10,6168,Castelli,Castelli,7
+2018,10,6218,Chascomús,Chascomús,65
+2018,10,6238,Dolores,Dolores,33
+2018,10,6301,General Belgrano,General Belgrano,15
+2018,10,6308,General Guido,General Guido,1
+2018,10,6308,General Guido,Labarden,5
+2018,10,6336,General Lavalle,General Lavalle,1
+2018,10,6343,General Paz,Ranchos,2
+2018,10,6420,La Costa,Mar de Ajó,85
+2018,10,6420,La Costa,San Clemente del Tuyú,26
+2018,10,6420,La Costa,Santa Teresita,26
+2018,10,6455,Las Flores,Las Flores,19
+2018,10,6466,Lezama,Lezama (Ex Manuel José Cobo),14
+2018,10,6511,Maipú,Maipú,25
+2018,10,6547,Monte,Monte,62
+2018,10,6630,Pila,Pila,15
+2018,11,6042,Ayacucho,Ayacucho,20
+2018,11,6063,Balcarce,Balcarce,6
+2018,11,6280,General Alvarado,Miramar,63
+2018,11,6315,General Juan Madariaga,General Madariaga,46
+2018,11,6357,General Pueyrredón,Mar Del Plata- Oficina Batan,3
+2018,11,6357,General Pueyrredón,Mar Del Plata- Oficina El Puerto,155
+2018,11,6357,General Pueyrredón,Mar Del Plata Sección Primera,439
+2018,11,6518,Mar Chiquita,Coronel Vidal,3
+2018,11,6518,Mar Chiquita,Santa Clara del Mar,29
+2018,11,6644,Pinamar,Pinamar,37
+2018,11,6868,Villa Gesell,Villa Gesell,7
+2018,12,6014,Adolfo Gonzales Chaves,Adolfo Gonzales Chaves,28
+2018,12,6476,Lobería,Lobería,30
+2018,12,6581,Necochea,Juan N. Fernández,16
+2018,12,6581,Necochea,La Dulce,3
+2018,12,6581,Necochea,Necochea,327
+2018,12,6581,Necochea,Quequén,63
+2018,12,6742,San Cayetano,San Cayetano,26
+2018,12,6833,Tres Arroyos,Orense,3
+2018,12,6833,Tres Arroyos,Tres Arroyos,61
+2018,13,6749,San Fernando,Paraná Mini,2
+2018,13,6749,San Fernando,San Fernando,4
+2018,13,6749,San Fernando,Virreyes Sección Segunda,123
+2018,13,6756,San Isidro,Boulogne,21
+2018,13,6756,San Isidro,Martínez - San Isidro,165
+2018,13,6756,San Isidro,San Isidro,1
+2018,13,6805,Tigre,Benavídez,19
+2018,13,6805,Tigre,Don Torcuato,17
+2018,13,6805,Tigre,El Talar,12
+2018,13,6805,Tigre,General Pacheco,40
+2018,13,6805,Tigre,Tigre,67
+2018,13,6861,Vicente López,Munro Vicente López,15
+2018,13,6861,Vicente López,Olivos,154
+2018,13,6861,Vicente López,Villa Martelli,3
+2018,14,6371,General San Martín,General San MartÍn,33
+2018,14,6371,General San Martín,José León Suárez,21
+2018,14,6371,General San Martín,Villa Ballester,70
+2018,14,6408,Hurlingham,Hurlingham,125
+2018,14,6408,Hurlingham,William Morris,16
+2018,14,6568,Morón,Castelar,201
+2018,14,6568,Morón,El Palomar,24
+2018,14,6568,Morón,Haedo,44
+2018,14,6568,Morón,Morón,111
+2018,14,6760,San Miguel,Bella Vista,63
+2018,14,6760,San Miguel,San Miguel,109
+2018,14,6760,San Miguel,Santa María,68
+2018,14,6840,Tres de Febrero,Caseros,16
+2018,14,6840,Tres de Febrero,Ciudadela,11
+2018,14,6840,Tres de Febrero,Loma Hermosa,50
+2018,14,6840,Tres de Febrero,Villa Bosch,7
+2018,15,6525,Marcos Paz,Marcos Paz,120
+2018,15,6539,Merlo,Barrio Parque San Martín,150
+2018,15,6539,Merlo,Libertad,176
+2018,15,6539,Merlo,Mariano Acosta,135
+2018,15,6539,Merlo,Merlo,156
+2018,15,6539,Merlo,Pontevedra,107
+2018,15,6539,Merlo,San Antonio de Padua,177
+2018,16,6056,Bahía Blanca,Bahía Blanca,257
+2018,16,6182,Coronel de Marina Leonardo Rosales,Punta Alta,158
+2018,16,6189,Coronel Dorrego,Coronel Dorrego,16
+2018,16,6196,Coronel Pringles,Coronel Pringles,10
+2018,16,6553,Monte Hermoso,Monte Hermoso,8
+2018,16,6602,Patagones,Carmen de Patagones,23
+2018,16,6819,Tornquist,Saldungaray,15
+2018,16,6819,Tornquist,Sierra de la Ventana,2
+2018,16,6819,Tornquist,Tornquist,25
+2018,16,6875,Villarino,5R Buratovich,3
+2018,16,6875,Villarino,Hilario Ascasubi,3
+2018,16,6875,Villarino,Médanos,3
+2018,16,6875,Villarino,Pedro Luro,17
+2018,17,6427,La Matanza,Aldo Bonzi,21
+2018,17,6427,La Matanza,Ciudad Celina,70
+2018,17,6427,La Matanza,Ciudad Evita,25
+2018,17,6427,La Matanza,González Catán,32
+2018,17,6427,La Matanza,Isidro Casanova,22
+2018,17,6427,La Matanza,Laferrere,122
+2018,17,6427,La Matanza,Loma Del Millón,10
+2018,17,6427,La Matanza,Los Ceibos,15
+2018,17,6427,La Matanza,Rafael Castillo,18
+2018,17,6427,La Matanza,Ramos Mejía,47
+2018,17,6427,La Matanza,San Justo,34
+2018,17,6427,La Matanza,Villa Luzuriaga,45
+2018,17,6427,La Matanza,Villa Madero,12
+2018,17,6427,La Matanza,Virrey del Pino,229
+2018,18,6028,Almirante Brown,Burzaco,28
+2018,18,6028,Almirante Brown,Claypole,124
+2018,18,6028,Almirante Brown,Glew,31
+2018,18,6028,Almirante Brown,Longchamps,1
+2018,18,6028,Almirante Brown,Rafael Calzada,44
+2018,18,6260,Esteban Echeverría,El Jaguel,30
+2018,18,6260,Esteban Echeverría,Luis Guillón,13
+2018,18,6260,Esteban Echeverría,Monte Grande,88
+2018,18,6260,Esteban Echeverría,Nueve de Abril,6
+2018,18,6270,Ezeiza,Carlos Spegazzini,92
+2018,18,6270,Ezeiza,Ezeiza,44
+2018,18,6270,Ezeiza,La Unión - Ezeiza,10
+2018,18,6270,Ezeiza,Tristán Suárez,26
+2018,18,6648,Presidente Perón,Guernica,74
+2018,18,6778,San Vicente,Alejandro Korn,32
+2018,18,6778,San Vicente,San Vicente,69
+2018,19,6007,Adolfo Alsina,Carhué,36
+2018,19,6007,Adolfo Alsina,Rivera,9
+2018,19,6007,Adolfo Alsina,Villa Maza,1
+2018,19,6203,Coronel Suárez,Coronel Suárez,5
+2018,19,6203,Coronel Suárez,Huanguelén,1
+2018,19,6231,Daireaux,Daireaux,31
+2018,19,6322,General la Madrid,General la Madrid,20
+2018,19,6399,Guaminí,Casbas,2
+2018,19,6399,Guaminí,Guaminí,11
+2018,19,6399,Guaminí,Laguna Alsina,3
+2018,19,6448,Laprida,Laprida,27
+2018,19,6651,Puán,Darregueira,14
+2018,19,6651,Puán,Felipe Sola,1
+2018,19,6651,Puán,Puan L,6
+2018,19,6700,Saavedra,Pigüé,15
+2018,19,6721,Salliqueló,Quenumá,1
+2018,19,6721,Salliqueló,Salliqueló,29
+2018,19,6847,Tres Lomas,Tres Lomas,11
+2018,2,6175,Colón,Colón,32
+2018,2,6294,General Arenales,Arribeños,2
+2018,2,6294,General Arenales,Ascensión,5
+2018,2,6294,General Arenales,General Arenales,3
+2018,2,6623,Pergamino,El Socorro,6
+2018,2,6623,Pergamino,Pergamino,36
+2018,2,6686,Rojas,Rafael Obligado,2
+2018,2,6686,Rojas,Rojas,43
+2018,2,6714,Salto,Inés Indart,1
+2018,2,6714,Salto,Salto,131
+2018,20,6410,Ituzaingó,Ituzaingó,32
+2018,20,6410,Ituzaingó,Villa Udaondo,69
+2018,20,6412,José C. Paz,José C. Paz,184
+2018,20,6515,Malvinas Argentinas,Grand Bourg,27
+2018,20,6515,Malvinas Argentinas,Los Polvorines,82
+2018,20,6515,Malvinas Argentinas,Tortuguitas,9
+2018,20,6560,Moreno,Barrio Francisco Álvarez,39
+2018,20,6560,Moreno,Barrio Parque Trujui,20
+2018,20,6560,Moreno,Moreno,76
+2018,20,6560,Moreno,Paso del Rey,106
+2018,21,6035,Avellaneda,Avellaneda,140
+2018,21,6035,Avellaneda,Dock Sud,5
+2018,21,6035,Avellaneda,Villa Domínico,36
+2018,21,6035,Avellaneda,Wilde,16
+2018,21,6434,Lanús,Gerli - Lanús,14
+2018,21,6434,Lanús,Lanús,114
+2018,21,6434,Lanús,Monte Chingolo,12
+2018,21,6434,Lanús,Remedios de Escalada,17
+2018,21,6434,Lanús,Remedios de Escalada Este,3
+2018,21,6434,Lanús,Valentín Alsina,14
+2018,21,6434,Lanús,Villa Caraza,13
+2018,21,6490,Lomas de Zamora,Barrio San José de Lomas de Zamora,13
+2018,21,6490,Lomas de Zamora,Ingeniero Budge,9
+2018,21,6490,Lomas de Zamora,Llavallol,1
+2018,21,6490,Lomas de Zamora,Lomas de Zamora,41
+2018,21,6490,Lomas de Zamora,Temperley,355
+2018,21,6490,Lomas de Zamora,Villa Albertina,11
+2018,3,6126,Campana,Campana,45
+2018,3,6161,Carmen de Areco,Carmen de Areco,32
+2018,3,6252,Escobar,Domingo Matheu,35
+2018,3,6252,Escobar,Ingeniero Maschwitz,14
+2018,3,6266,Exaltación de la Cruz,Capilla del Señor,32
+2018,3,6266,Exaltación de la Cruz,Los Cardales,6
+2018,3,6364,General Rodríguez,General Rodríguez,90
+2018,3,6497,Luján,José María Jauregui,9
+2018,3,6497,Luján,Luján,135
+2018,3,6638,Pilar,Del Pilar,9
+2018,3,6638,Pilar,Manuel Alberti,205
+2018,3,6638,Pilar,Presidente Derqui,9
+2018,3,6638,Pilar,Villa Rosa,9
+2018,3,6728,San Andrés de Giles,San Andrés de Giles,20
+2018,3,6882,Zárate,Lima,3
+2018,3,6882,Zárate,Zárate,38
+2018,4,6112,Bragado,Bragado,62
+2018,4,6210,Chacabuco,Chacabuco,79
+2018,4,6210,Chacabuco,O'Higgins,2
+2018,4,6210,Chacabuco,Rawson,2
+2018,4,6277,Florentino Ameghino,Ameghino,24
+2018,4,6351,General Pinto,Coronel Granada,2
+2018,4,6351,General Pinto,General Pinto,4
+2018,4,6385,General Viamonte,Los Toldos,41
+2018,4,6413,Junín,Junín,122
+2018,4,6413,Junín,Villa Belgrano Sección Segunda,44
+2018,4,6462,Leandro N. Alem,Juan B. Alberdi,2
+2018,4,6462,Leandro N. Alem,Leandro N. Alem,2
+2018,4,6462,Leandro N. Alem,Vedia,24
+2018,4,6469,Lincoln,Carlos Salas,1
+2018,4,6469,Lincoln,Lincoln,103
+2018,4,6469,Lincoln,Pasteur,5
+2018,4,6469,Lincoln,Roberts,4
+2018,4,6588,9 de Julio,Dudignac,1
+2018,4,6588,9 de Julio,Nueve de Julio,91
+2018,4,6588,9 de Julio,Patricios,4
+2018,4,6588,9 de Julio,Quiroga,1
+2018,5,6021,Alberti,Alberti,10
+2018,5,6134,Cañuelas,Cañuelas,57
+2018,5,6224,Chivilcoy,Chivilcoy,73
+2018,5,6224,Chivilcoy,Moquehua,5
+2018,5,6329,General las Heras,General Las Heras,22
+2018,5,6483,Lobos,Lobos,87
+2018,5,6532,Mercedes,Mercedes,105
+2018,5,6574,Navarro,Navarro,34
+2018,5,6693,Roque Pérez,Roque Pérez,24
+2018,5,6707,Saladillo,Saladillo,70
+2018,5,6784,Suipacha,Suipacha,10
+2018,5,6854,25 de Mayo,Norberto de la Riestra,19
+2018,5,6854,25 de Mayo,Pedernales,10
+2018,5,6854,25 de Mayo,25 de Mayo,43
+2018,6,6098,Berisso,Berisso,179
+2018,6,6098,Berisso,Berisso Sección Segunda,37
+2018,6,6119,Brandsen,Coronel Brandsen,29
+2018,6,6245,Ensenada,El Dique,17
+2018,6,6245,Ensenada,Ensenada,44
+2018,6,6441,La Plata,Abasto,25
+2018,6,6441,La Plata,City Bell,215
+2018,6,6441,La Plata,José Melchor Romero,47
+2018,6,6441,La Plata,La Plata Sección Primera,841
+2018,6,6441,La Plata,Lisandro Olmos,88
+2018,6,6441,La Plata,Los Hornos,85
+2018,6,6441,La Plata,Manuel B. Gonnet,63
+2018,6,6441,La Plata,San Carlos,86
+2018,6,6441,La Plata,Villa Elisa,36
+2018,6,6441,La Plata,Villa Elvira,109
+2018,6,6505,Magdalena,Magdalena,44
+2018,6,6655,Punta Indio,Verónica,41
+2018,7,6091,Berazategui,Barrio Marítimo de Hudson,23
+2018,7,6091,Berazategui,Berazategui,169
+2018,7,6091,Berazategui,El Pato,21
+2018,7,6091,Berazategui,Guillermo Hudson,4
+2018,7,6091,Berazategui,Juan María Gutiérrez,11
+2018,7,6274,Florencio Varela,Bosques,13
+2018,7,6274,Florencio Varela,El Cruce Florencio Varela,19
+2018,7,6274,Florencio Varela,Florencio Varela,144
+2018,7,6274,Florencio Varela,Ingeniero Allan,13
+2018,7,6658,Quilmes,Bernal,51
+2018,7,6658,Quilmes,Ezpeleta,68
+2018,7,6658,Quilmes,La Florida,211
+2018,7,6658,Quilmes,Quilmes,83
+2018,8,6147,Carlos Casares,Carlos Casares,48
+2018,8,6154,Carlos Tejedor,Carlos Tejedor,8
+2018,8,6392,General Villegas,Banderalo,1
+2018,8,6392,General Villegas,Coronel Charlone,3
+2018,8,6392,General Villegas,General Villegas,15
+2018,8,6406,Hipólito Yrigoyen,Henderson,3
+2018,8,6609,Pehuajó,Juan José Paso,2
+2018,8,6609,Pehuajó,Pehuajó,65
+2018,8,6616,Pellegrini,Pellegrini,15
+2018,8,6679,Rivadavia,América,19
+2018,8,6679,Rivadavia,González Moreno,3
+2018,8,6826,Trenque Lauquen,Treinta de Agosto,2
+2018,8,6826,Trenque Lauquen,Trenque Lauquen,21
+2018,9,6049,Azul,Azul,74
+2018,9,6049,Azul,Cacharí,3
+2018,9,6049,Azul,Chillar,6
+2018,9,6084,Benito Juárez,Barker,3
+2018,9,6084,Benito Juárez,Benito Juárez,11
+2018,9,6105,Bolívar,Bolívar,96
+2018,9,6105,Bolívar,Urdampilleta,3
+2018,9,6287,General Alvear,General Alvear,14
+2018,9,6595,Olavarría,Hinojo,2
+2018,9,6595,Olavarría,Loma Negra,10
+2018,9,6595,Olavarría,Olavarría,196
+2018,9,6595,Olavarría,Sierra Chica,2
+2018,9,6595,Olavarría,Sierras Bayas,4
+2018,9,6672,Rauch,Rauch,33
+2018,9,6791,Tandil,Tandil Sección Primera,86
+2018,9,6791,Tandil,Tandil-Villa Italia,57
+2018,9,6798,Tapalqué,Tapalqué,32
+2019,1,6070,Baradero,Baradero,18
+2019,1,6077,Arrecifes,Arrecifes,66
+2019,1,6140,Capitán Sarmiento,Capitán Sarmiento,76
+2019,1,6665,Ramallo,Pérez Millan,22
+2019,1,6665,Ramallo,Ramallo,75
+2019,1,6735,San Antonio de Areco,San Antonio de Areco,17
+2019,1,6763,San Nicolás,La Emilia,8
+2019,1,6763,San Nicolás,San Nicolás,219
+2019,1,6770,San Pedro,San Pedro,143
+2019,1,6770,San Pedro,Santa Lucia,7
+2019,10,6168,Castelli,Castelli,30
+2019,10,6218,Chascomús,Chascomús,73
+2019,10,6238,Dolores,Dolores,38
+2019,10,6301,General Belgrano,General Belgrano,41
+2019,10,6308,General Guido,General Guido,3
+2019,10,6308,General Guido,Labarden,5
+2019,10,6336,General Lavalle,General Lavalle,15
+2019,10,6343,General Paz,Ranchos,8
+2019,10,6420,La Costa,Mar de Ajó,78
+2019,10,6420,La Costa,San Clemente del Tuyú,36
+2019,10,6420,La Costa,Santa Teresita,61
+2019,10,6455,Las Flores,Las Flores,59
+2019,10,6466,Lezama,Lezama,14
+2019,10,6511,Maipú,Maipú,27
+2019,10,6547,Monte,Monte,64
+2019,10,6630,Pila,Pila,12
+2019,10,6812,Tordillo,General Conesa,26
+2019,11,6042,Ayacucho,Ayacucho,27
+2019,11,6063,Balcarce,Balcarce,30
+2019,11,6280,General Alvarado,Cte. Nicanor Otamendi,5
+2019,11,6280,General Alvarado,Mechongue,1
+2019,11,6280,General Alvarado,Miramar,50
+2019,11,6315,General Juan Madariaga,General Madariaga,61
+2019,11,6357,General Pueyrredón,Mar Del Plata- Oficina Batán,30
+2019,11,6357,General Pueyrredón,Mar Del Plata- Oficina El Puerto,180
+2019,11,6357,General Pueyrredón,Mar del Plata,578
+2019,11,6518,Mar Chiquita,Coronel Vidal,6
+2019,11,6518,Mar Chiquita,General Pirán,3
+2019,11,6518,Mar Chiquita,Santa Clara del Mar,42
+2019,11,6644,Pinamar,Pinamar,60
+2019,11,6868,Villa Gesell,Villa Gesell,55
+2019,12,6014,Adolfo Gonzales Chaves,Adolfo Gonzales Chaves,18
+2019,12,6014,Adolfo Gonzales Chaves,De La Garma,7
+2019,12,6476,Lobería,Lobería,24
+2019,12,6476,Lobería,San Manuel,5
+2019,12,6581,Necochea,Juan N. Fernández,12
+2019,12,6581,Necochea,La Dulce,3
+2019,12,6581,Necochea,Necochea,283
+2019,12,6581,Necochea,Quequén,63
+2019,12,6742,San Cayetano,San Cayetano,37
+2019,12,6833,Tres Arroyos,Claromecó,8
+2019,12,6833,Tres Arroyos,Copetonas,1
+2019,12,6833,Tres Arroyos,Micaela Cascallares,1
+2019,12,6833,Tres Arroyos,Tres Arroyos,94
+2019,13,6749,San Fernando,Paraná Mini,6
+2019,13,6749,San Fernando,San Fernando,82
+2019,13,6749,San Fernando,San Fernando Sección Segunda Virreyes,40
+2019,13,6756,San Isidro,Boulogne,128
+2019,13,6756,San Isidro,Martínez,121
+2019,13,6756,San Isidro,San Isidro,91
+2019,13,6805,Tigre,Benavídez,34
+2019,13,6805,Tigre,Don Torcuato,52
+2019,13,6805,Tigre,El Talar,49
+2019,13,6805,Tigre,General Pacheco,33
+2019,13,6805,Tigre,Tigre,67
+2019,13,6861,Vicente López,Olivos,210
+2019,13,6861,Vicente López,Villa Martelli,107
+2019,14,6371,General San Martín,General San MartÍn,128
+2019,14,6371,General San Martín,José León Suárez,76
+2019,14,6371,General San Martín,Villa Ballester,88
+2019,14,6408,Hurlingham,Hurlingham,128
+2019,14,6408,Hurlingham,William Morris,41
+2019,14,6568,Morón,Castelar,144
+2019,14,6568,Morón,El Palomar,99
+2019,14,6568,Morón,Haedo,85
+2019,14,6568,Morón,Morón,212
+2019,14,6760,San Miguel,Bella Vista,140
+2019,14,6760,San Miguel,San Miguel,113
+2019,14,6760,San Miguel,Santa María,105
+2019,14,6840,Tres de Febrero,Caseros,84
+2019,14,6840,Tres de Febrero,Ciudadela,26
+2019,14,6840,Tres de Febrero,Loma Hermosa,223
+2019,14,6840,Tres de Febrero,Villa Bosch,41
+2019,15,6525,Marcos Paz,Marcos Paz,168
+2019,15,6539,Merlo,Barrio Parque San Martín,158
+2019,15,6539,Merlo,Libertad,162
+2019,15,6539,Merlo,Mariano Acosta,126
+2019,15,6539,Merlo,Merlo,327
+2019,15,6539,Merlo,Pontevedra,95
+2019,15,6539,Merlo,San Antonio de Padua,141
+2019,16,6056,Bahía Blanca,Bahía Blanca,267
+2019,16,6056,Bahía Blanca,Cabildo,3
+2019,16,6056,Bahía Blanca,General Daniel Cerri,6
+2019,16,6056,Bahía Blanca,Ingeniero White,28
+2019,16,6182,Coronel de Marina Leonardo Rosales,Punta Alta,165
+2019,16,6189,Coronel Dorrego,Coronel Dorrego,17
+2019,16,6189,Coronel Dorrego,Oriente,6
+2019,16,6196,Coronel Pringles,Coronel Pringles,20
+2019,16,6553,Monte Hermoso,Monte Hermoso,27
+2019,16,6602,Patagones,Carmen de Patagones,16
+2019,16,6602,Patagones,Juan A. Pradere,1
+2019,16,6602,Patagones,Stroeder,1
+2019,16,6602,Patagones,Villalonga,3
+2019,16,6819,Tornquist,Saldungaray,11
+2019,16,6819,Tornquist,Sierra de la Ventana,3
+2019,16,6819,Tornquist,Tornquist,30
+2019,16,6875,Villarino,Hilario Ascasubi,9
+2019,16,6875,Villarino,Mayor Buratovich,4
+2019,16,6875,Villarino,Médanos,12
+2019,16,6875,Villarino,Pedro Luro,20
+2019,17,6427,La Matanza,Aldo Bonzi,66
+2019,17,6427,La Matanza,Ciudad Celina,52
+2019,17,6427,La Matanza,Ciudad Evita,82
+2019,17,6427,La Matanza,González Catán,45
+2019,17,6427,La Matanza,Isidro Casanova,114
+2019,17,6427,La Matanza,Laferrere,112
+2019,17,6427,La Matanza,Los Ceibos,112
+2019,17,6427,La Matanza,Rafael Castillo,69
+2019,17,6427,La Matanza,Ramos Mejía,147
+2019,17,6427,La Matanza,San Justo,113
+2019,17,6427,La Matanza,Villa Luzuriaga,57
+2019,17,6427,La Matanza,Villa Madero,70
+2019,17,6427,La Matanza,Virrey del Pino,120
+2019,18,6028,Almirante Brown,Adrogue,21
+2019,18,6028,Almirante Brown,Barrio San José de Almirante Brown,9
+2019,18,6028,Almirante Brown,Burzaco,80
+2019,18,6028,Almirante Brown,Claypole,51
+2019,18,6028,Almirante Brown,Glew,93
+2019,18,6028,Almirante Brown,Longchamps,15
+2019,18,6028,Almirante Brown,Rafael Calzada,105
+2019,18,6260,Esteban Echeverría,El Jaguel,65
+2019,18,6260,Esteban Echeverría,Luis Guillón,41
+2019,18,6260,Esteban Echeverría,Monte Grande,64
+2019,18,6260,Esteban Echeverría,Nueve de Abril,45
+2019,18,6270,Ezeiza,Carlos Spegazzini,77
+2019,18,6270,Ezeiza,José María Ezeiza,172
+2019,18,6270,Ezeiza,La Unión,54
+2019,18,6270,Ezeiza,Tristán Suárez,84
+2019,18,6648,Presidente Perón,Guernica,94
+2019,18,6778,San Vicente,Alejandro Korn,70
+2019,18,6778,San Vicente,San Vicente,47
+2019,19,6007,Adolfo Alsina,Carhué,50
+2019,19,6007,Adolfo Alsina,Rivera,13
+2019,19,6007,Adolfo Alsina,San Miguel Arcangel,3
+2019,19,6007,Adolfo Alsina,Villa Maza,2
+2019,19,6203,Coronel Suárez,Coronel Suárez,19
+2019,19,6203,Coronel Suárez,Huanguelén,17
+2019,19,6231,Daireaux,Daireaux,37
+2019,19,6231,Daireaux,Salazar,1
+2019,19,6322,General la Madrid,General la Madrid,26
+2019,19,6399,Guaminí,Casbas,23
+2019,19,6399,Guaminí,Guaminí,23
+2019,19,6399,Guaminí,Laguna Alsina,3
+2019,19,6448,Laprida,Laprida,27
+2019,19,6651,Puán,Bordenave,1
+2019,19,6651,Puán,Darregueira,30
+2019,19,6651,Puán,Felipe Sola,2
+2019,19,6651,Puán,Puán,22
+2019,19,6651,Puán,Villa Iris,4
+2019,19,6700,Saavedra,Dufaur,1
+2019,19,6700,Saavedra,Espartillar,2
+2019,19,6700,Saavedra,Pigüé,32
+2019,19,6700,Saavedra,Saavedra,1
+2019,19,6721,Salliqueló,Quenumá,3
+2019,19,6721,Salliqueló,Salliqueló,29
+2019,19,6847,Tres Lomas,Tres Lomas,27
+2019,2,6175,Colón,Colón,42
+2019,2,6294,General Arenales,Arribeños,8
+2019,2,6294,General Arenales,Ascensión,22
+2019,2,6294,General Arenales,Ferre,6
+2019,2,6294,General Arenales,General Arenales,4
+2019,2,6623,Pergamino,El Socorro,1
+2019,2,6623,Pergamino,Pergamino,46
+2019,2,6686,Rojas,Rafael Obligado,5
+2019,2,6686,Rojas,Rojas,76
+2019,2,6714,Salto,Inés Indart,4
+2019,2,6714,Salto,Salto,136
+2019,20,6410,Ituzaingó,Ituzaingó,138
+2019,20,6410,Ituzaingó,Villa Udaondo,53
+2019,20,6412,José C. Paz,Barrio Vucetich,22
+2019,20,6412,José C. Paz,José C. Paz,136
+2019,20,6515,Malvinas Argentinas,Grand Bourg,78
+2019,20,6515,Malvinas Argentinas,Los Polvorines,105
+2019,20,6515,Malvinas Argentinas,Tortuguitas,47
+2019,20,6560,Moreno,Barrio Francisco Álvarez,103
+2019,20,6560,Moreno,Barrio Parque Trujui,101
+2019,20,6560,Moreno,Moreno,137
+2019,20,6560,Moreno,Paso del Rey,137
+2019,21,6035,Avellaneda,Avellaneda,148
+2019,21,6035,Avellaneda,Dock Sud,81
+2019,21,6035,Avellaneda,Villa Domínico,133
+2019,21,6434,Lanús,Gerli - Lanús,44
+2019,21,6434,Lanús,Lanús,255
+2019,21,6434,Lanús,Monte Chingolo,35
+2019,21,6434,Lanús,Remedios de Escalada,56
+2019,21,6434,Lanús,Remedios de Escalada Este,15
+2019,21,6434,Lanús,Valentín Alsina,35
+2019,21,6434,Lanús,Villa Caraza,28
+2019,21,6490,Lomas de Zamora,Barrio San José de Lomas de Zamora,60
+2019,21,6490,Lomas de Zamora,Ingeniero Budge,42
+2019,21,6490,Lomas de Zamora,Llavallol,14
+2019,21,6490,Lomas de Zamora,Lomas de Zamora,188
+2019,21,6490,Lomas de Zamora,Temperley,191
+2019,21,6490,Lomas de Zamora,Villa Albertina,50
+2019,3,6126,Campana,Campana,96
+2019,3,6161,Carmen de Areco,Carmen de Areco,51
+2019,3,6252,Escobar,Domingo Matheu,36
+2019,3,6252,Escobar,Ingeniero Maschwitz,55
+2019,3,6252,Escobar,Maquinista Savio,9
+2019,3,6266,Exaltación de la Cruz,Capilla del Señor,68
+2019,3,6266,Exaltación de la Cruz,Los Cardales,60
+2019,3,6364,General Rodríguez,General Rodríguez,120
+2019,3,6497,Luján,José María Jauregui,45
+2019,3,6497,Luján,Luján,121
+2019,3,6638,Pilar,Del Pilar,92
+2019,3,6638,Pilar,Del Viso,17
+2019,3,6638,Pilar,Manuel Alberti,80
+2019,3,6638,Pilar,Presidente Derqui,86
+2019,3,6638,Pilar,Villa Rosa,61
+2019,3,6728,San Andrés de Giles,San Andrés de Giles,19
+2019,3,6882,Zárate,Lima,13
+2019,3,6882,Zárate,Zárate,43
+2019,4,6112,Bragado,Bragado,79
+2019,4,6112,Bragado,Eduardo O'Brien,3
+2019,4,6210,Chacabuco,Castilla,1
+2019,4,6210,Chacabuco,Chacabuco,117
+2019,4,6210,Chacabuco,O'Higgins,3
+2019,4,6210,Chacabuco,Rawson,7
+2019,4,6277,Florentino Ameghino,Ameghino,25
+2019,4,6351,General Pinto,General Pinto,24
+2019,4,6351,General Pinto,Germania,4
+2019,4,6351,General Pinto,Iriarte,3
+2019,4,6385,General Viamonte,Baigorrita,2
+2019,4,6385,General Viamonte,Los Toldos,65
+2019,4,6413,Junín,Junín,98
+2019,4,6413,Junín,Villa Belgrano Sección Segunda,49
+2019,4,6462,Leandro N. Alem,Juan Bautista Alberdi,5
+2019,4,6462,Leandro N. Alem,Leandro N. Alem,10
+2019,4,6462,Leandro N. Alem,Vedia,19
+2019,4,6469,Lincoln,Arenaza,3
+2019,4,6469,Lincoln,El Triunfo,5
+2019,4,6469,Lincoln,Lincoln,99
+2019,4,6469,Lincoln,Martínez de Hoz,8
+2019,4,6469,Lincoln,Pasteur,11
+2019,4,6469,Lincoln,Roberts,16
+2019,4,6588,9 de Julio,Dudignac,5
+2019,4,6588,9 de Julio,9 de Julio,96
+2019,4,6588,9 de Julio,Quiroga,5
+2019,5,6021,Alberti,Alberti,33
+2019,5,6021,Alberti,Coronel Mom,6
+2019,5,6021,Alberti,Mechita,1
+2019,5,6134,Cañuelas,Cañuelas,97
+2019,5,6224,Chivilcoy,Chivilcoy,81
+2019,5,6224,Chivilcoy,Moquehua,5
+2019,5,6329,General las Heras,General Las Heras,49
+2019,5,6483,Lobos,Lobos,65
+2019,5,6574,Navarro,Navarro,34
+2019,5,6693,Roque Pérez,Roque Pérez,49
+2019,5,6707,Saladillo,Saladillo,88
+2019,5,6784,Suipacha,Suipacha,7
+2019,5,6854,25 de Mayo,Norberto de la Riestra,22
+2019,5,6854,25 de Mayo,Pedernales,4
+2019,5,6854,25 de Mayo,25 de Mayo,55
+2019,6,6098,Berisso,Berisso Sección Primera,180
+2019,6,6098,Berisso,Berisso Sección Segunda,53
+2019,6,6119,Brandsen,Coronel Brandsen,33
+2019,6,6245,Ensenada,El Dique,17
+2019,6,6245,Ensenada,Ensenada,91
+2019,6,6441,La Plata,Abasto,28
+2019,6,6441,La Plata,Casa Central,2
+2019,6,6441,La Plata,Casa Central - Sede Administrativa,2
+2019,6,6441,La Plata,City Bell,153
+2019,6,6441,La Plata,José Melchor Romero,78
+2019,6,6441,La Plata,La Plata Sección Primera,571
+2019,6,6441,La Plata,Lisandro Olmos,105
+2019,6,6441,La Plata,Los Hornos,236
+2019,6,6441,La Plata,Manuel B. Gonnet,147
+2019,6,6441,La Plata,San Carlos,162
+2019,6,6441,La Plata,Villa Elisa,70
+2019,6,6441,La Plata,Villa Elvira,251
+2019,6,6505,Magdalena,Bartolomé Bavio,2
+2019,6,6505,Magdalena,Magdalena,43
+2019,6,6655,Punta Indio,Verónica,35
+2019,7,6091,Berazategui,Barrio Marítimo de Hudson,44
+2019,7,6091,Berazategui,Berazategui,153
+2019,7,6091,Berazategui,El Pato,14
+2019,7,6091,Berazategui,Guillermo Hudson,27
+2019,7,6091,Berazategui,Juan María Gutiérrez,42
+2019,7,6274,Florencio Varela,Bosques,43
+2019,7,6274,Florencio Varela,El Cruce Florencio Varela,54
+2019,7,6274,Florencio Varela,Florencio Varela,135
+2019,7,6274,Florencio Varela,Ingeniero Allan,41
+2019,7,6658,Quilmes,Bernal,77
+2019,7,6658,Quilmes,Ezpeleta,101
+2019,7,6658,Quilmes,La Florida,85
+2019,7,6658,Quilmes,Quilmes,129
+2019,7,6658,Quilmes,San Francisco Solano,95
+2019,8,6147,Carlos Casares,Carlos Casares,59
+2019,8,6154,Carlos Tejedor,Carlos Tejedor,18
+2019,8,6154,Carlos Tejedor,Tres Algarrobos,7
+2019,8,6392,General Villegas,Banderalo,6
+2019,8,6392,General Villegas,Cañada Seca,2
+2019,8,6392,General Villegas,Coronel Charlone,2
+2019,8,6392,General Villegas,Emilio V. Bunge,3
+2019,8,6392,General Villegas,General Villegas,62
+2019,8,6392,General Villegas,Piedritas,4
+2019,8,6392,General Villegas,Santa Regina,2
+2019,8,6392,General Villegas,Villa Saboya,1
+2019,8,6406,Hipólito Yrigoyen,Henderson,24
+2019,8,6609,Pehuajó,Francisco Madero,1
+2019,8,6609,Pehuajó,Juan José Paso,3
+2019,8,6609,Pehuajó,Mones Cazon,6
+2019,8,6609,Pehuajó,Pehuajó,84
+2019,8,6616,Pellegrini,Pellegrini,14
+2019,8,6679,Rivadavia,América,18
+2019,8,6679,Rivadavia,Fortín Olavarría,1
+2019,8,6679,Rivadavia,González Moreno,3
+2019,8,6826,Trenque Lauquen,Treinta de Agosto,10
+2019,8,6826,Trenque Lauquen,Trenque Lauquen,23
+2019,9,6049,Azul,Azul,104
+2019,9,6049,Azul,Cacharí,4
+2019,9,6049,Azul,Chillar,10
+2019,9,6084,Benito Juárez,Barker,7
+2019,9,6084,Benito Juárez,Benito Juárez,20
+2019,9,6105,Bolívar,Bolívar,104
+2019,9,6105,Bolívar,Pirovano,2
+2019,9,6105,Bolívar,Urdampilleta,10
+2019,9,6287,General Alvear,General Alvear,26
+2019,9,6595,Olavarría,Hinojo,12
+2019,9,6595,Olavarría,Loma Negra,11
+2019,9,6595,Olavarría,Olavarría,246
+2019,9,6595,Olavarría,Sierra Chica,6
+2019,9,6595,Olavarría,Sierras Bayas,17
+2019,9,6672,Rauch,Rauch,40
+2019,9,6791,Tandil,María Ignacia Vela,1
+2019,9,6791,Tandil,Tandil,85
+2019,9,6791,Tandil,Tandil Sección Tercera,34
+2019,9,6791,Tandil,Villa Italia,59
+2019,9,6798,Tapalqué,Tapalqué,26

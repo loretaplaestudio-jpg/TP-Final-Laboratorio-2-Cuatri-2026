@@ -1,0 +1,946 @@
+anio;municipio_nombre;municipio_id;total_matrimonios
+2020;25 de Mayo;06854;45
+2020;9 de Julio;06588;61
+2020;Adolfo Alsina;06007;32
+2020;Adolfo Gonzales Chaves;06014;24
+2020;Alberti;06021;17
+2020;Almirante Brown;06028;476
+2020;Arrecifes;06077;47
+2020;Avellaneda;06035;241
+2020;Ayacucho;06042;15
+2020;Azul;06049;73
+2020;Bahía Blanca;06056;293
+2020;Balcarce;06063;43
+2020;Baradero;06070;38
+2020;Benito Juárez;06084;23
+2020;Berazategui;06091;298
+2020;Berisso;06098;78
+2020;Bolívar;06105;58
+2020;Bragado;06112;52
+2020;Brandsen;06119;31
+2020;Campana;06126;116
+2020;Cañuelas;06134;17
+2020;Capitán Sarmiento;06140;17
+2020;Carlos Casares;06147;15
+2020;Carlos Tejedor;06154;7
+2020;Carmen de Areco;06161;9
+2020;Castelli;06168;60
+2020;Chacabuco;06210;46
+2020;Chascomús;06218;35
+2020;Chivilcoy;06224;41
+2020;Colón;06175;32
+2020;Coronel de Marina Leonardo Rosales;06182;42
+2020;Coronel Dorrego;06189;28
+2020;Coronel Pringles;06196;35
+2020;Coronel Suárez;06203;53
+2020;Daireaux;06231;25
+2020;Dolores;06238;27
+2020;Ensenada;06245;64
+2020;Escobar;06252;201
+2020;Esteban Echeverría;06260;276
+2020;Exaltación de la Cruz;06266;32
+2020;Ezeiza;06270;180
+2020;Florencio Varela;06274;409
+2020;Florentino Ameghino;06277;20
+2020;General Alvarado;06280;54
+2020;General Alvear;06287;11
+2020;General Arenales;06294;17
+2020;General Belgrano;06301;19
+2020;General Guido;06308;1
+2020;General Juan Madariaga;06315;24
+2020;General La Madrid;06322;28
+2020;General Las Heras;06329;15
+2020;General Lavalle;06336;5
+2020;General Paz;06343;11
+2020;General Pinto;06351;23
+2020;General Pueyrredón;06357;578
+2020;General Rodríguez;06364;108
+2020;General San Martín;06371;305
+2020;General Viamonte;06385;15
+2020;General Villegas;06392;36
+2020;Guaminí;06399;16
+2020;Hipólito Yrigoyen;06406;10
+2020;Hurlingham;06408;116
+2020;Ituzaingó;06410;130
+2020;José C. Paz;06412;242
+2020;Junín;06413;81
+2020;La Costa;06420;116
+2020;La Matanza;06427;911
+2020;La Plata;06441;719
+2020;Lanús;06434;294
+2020;Laprida;06448;14
+2020;Las Flores;06455;33
+2020;Leandro N. Alem;06462;13
+2020;Lezama;06466;4
+2020;Lincoln;06469;30
+2020;Lobería;06476;21
+2020;Lobos;06483;31
+2020;Lomas de Zamora;06490;538
+2020;Luján;06497;119
+2020;Magdalena;06505;13
+2020;Maipú;06511;17
+2020;Malvinas Argentinas;06515;299
+2020;Mar Chiquita;06518;96
+2020;Marcos Paz;06525;51
+2020;Mercedes;06532;60
+2020;Merlo;06539;484
+2020;Monte;06547;15
+2020;Monte Hermoso;06553;15
+2020;Moreno;06560;393
+2020;Morón;06568;271
+2020;Navarro;06574;20
+2020;Necochea;06581;138
+2020;Olavarría;06595;160
+2020;Patagones;06602;24
+2020;Pehuajó;06609;46
+2020;Pellegrini;06616;5
+2020;Pergamino;06623;130
+2020;Pila;06630;4
+2020;Pilar;06638;324
+2020;Pinamar;06644;21
+2020;Presidente Perón;06648;86
+2020;Puán;06651;26
+2020;Punta Indio;06655;5
+2020;Quilmes;06658;427
+2020;Ramallo;06665;39
+2020;Rauch;06672;17
+2020;Rivadavia;06679;18
+2020;Rojas;06686;25
+2020;Roque Pérez;06693;9
+2020;Saavedra;06700;26
+2020;Saladillo;06707;27
+2020;Salliqueló;06721;14
+2020;Salto;06714;40
+2020;San Andrés de Giles;06728;23
+2020;San Antonio de Areco;06735;25
+2020;San Cayetano;06742;9
+2020;San Fernando;06749;112
+2020;San Isidro;06756;282
+2020;San Miguel;06760;281
+2020;San Nicolás;06763;218
+2020;San Pedro;06770;61
+2020;San Vicente;06778;81
+2020;Suipacha;06784;12
+2020;Tandil;06791;203
+2020;Tapalqué;06798;14
+2020;Tigre;06805;372
+2020;Tordillo;06812;3
+2020;Tornquist;06819;19
+2020;Trenque Lauquen;06826;66
+2020;Tres Arroyos;06833;54
+2020;Tres de Febrero;06840;252
+2020;Tres Lomas;06847;10
+2020;Vicente López;06861;199
+2020;Villa Gesell;06868;41
+2020;Villarino;06875;31
+2020;Zárate;06882;133
+2021;25 de Mayo;06854;100
+2021;9 de Julio;06588;161
+2021;Adolfo Alsina;06007;31
+2021;Adolfo Gonzales Chaves;06014;21
+2021;Alberti;06021;35
+2021;Almirante Brown;06028;1469
+2021;Arrecifes;06077;99
+2021;Avellaneda;06035;845
+2021;Ayacucho;06042;40
+2021;Azul;06049;174
+2021;Bahía Blanca;06056;824
+2021;Balcarce;06063;143
+2021;Baradero;06070;145
+2021;Benito Juárez;06084;53
+2021;Berazategui;06091;838
+2021;Berisso;06098;300
+2021;Bolívar;06105;115
+2021;Bragado;06112;115
+2021;Brandsen;06119;120
+2021;Campana;06126;376
+2021;Cañuelas;06134;69
+2021;Capitán Sarmiento;06140;60
+2021;Carlos Casares;06147;28
+2021;Carlos Tejedor;06154;48
+2021;Carmen de Areco;06161;30
+2021;Castelli;06168;230
+2021;Chacabuco;06210;141
+2021;Chascomús;06218;144
+2021;Chivilcoy;06224;147
+2021;Colón;06175;80
+2021;Coronel de Marina Leonardo Rosales;06182;160
+2021;Coronel Dorrego;06189;47
+2021;Coronel Pringles;06196;82
+2021;Coronel Suárez;06203;101
+2021;Daireaux;06231;57
+2021;Dolores;06238;88
+2021;Ensenada;06245;251
+2021;Escobar;06252;804
+2021;Esteban Echeverría;06260;668
+2021;Exaltación de la Cruz;06266;242
+2021;Ezeiza;06270;444
+2021;Florencio Varela;06274;1356
+2021;Florentino Ameghino;06277;37
+2021;General Alvarado;06280;252
+2021;General Alvear;06287;36
+2021;General Arenales;06294;56
+2021;General Belgrano;06301;60
+2021;General Guido;06308;5
+2021;General Juan Madariaga;06315;51
+2021;General La Madrid;06322;26
+2021;General Las Heras;06329;39
+2021;General Lavalle;06336;2
+2021;General Paz;06343;39
+2021;General Pinto;06351;39
+2021;General Pueyrredón;06357;1851
+2021;General Rodríguez;06364;285
+2021;General San Martín;06371;1122
+2021;General Viamonte;06385;44
+2021;General Villegas;06392;97
+2021;Guaminí;06399;23
+2021;Hipólito Yrigoyen;06406;25
+2021;Hurlingham;06408;569
+2021;Ituzaingó;06410;463
+2021;José C. Paz;06412;603
+2021;Junín;06413;319
+2021;La Costa;06420;377
+2021;La Matanza;06427;2551
+2021;La Plata;06441;2471
+2021;Lanús;06434;1487
+2021;Laprida;06448;43
+2021;Las Flores;06455;58
+2021;Leandro N. Alem;06462;61
+2021;Lezama;06466;14
+2021;Lincoln;06469;104
+2021;Lobería;06476;55
+2021;Lobos;06483;121
+2021;Lomas de Zamora;06490;1419
+2021;Luján;06497;418
+2021;Magdalena;06505;55
+2021;Maipú;06511;40
+2021;Malvinas Argentinas;06515;820
+2021;Mar Chiquita;06518;308
+2021;Marcos Paz;06525;210
+2021;Mercedes;06532;210
+2021;Merlo;06539;1349
+2021;Monte;06547;81
+2021;Monte Hermoso;06553;56
+2021;Moreno;06560;1090
+2021;Morón;06568;1234
+2021;Navarro;06574;42
+2021;Necochea;06581;344
+2021;Olavarría;06595;296
+2021;Patagones;06602;101
+2021;Pehuajó;06609;120
+2021;Pellegrini;06616;9
+2021;Pergamino;06623;313
+2021;Pila;06630;29
+2021;Pilar;06638;1014
+2021;Pinamar;06644;126
+2021;Presidente Perón;06648;212
+2021;Puán;06651;40
+2021;Punta Indio;06655;39
+2021;Quilmes;06658;1378
+2021;Ramallo;06665;148
+2021;Rauch;06672;25
+2021;Rivadavia;06679;49
+2021;Rojas;06686;58
+2021;Roque Pérez;06693;32
+2021;Saavedra;06700;54
+2021;Saladillo;06707;106
+2021;Salliqueló;06721;37
+2021;Salto;06714;97
+2021;San Andrés de Giles;06728;91
+2021;San Antonio de Areco;06735;95
+2021;San Cayetano;06742;24
+2021;San Fernando;06749;583
+2021;San Isidro;06756;810
+2021;San Miguel;06760;902
+2021;San Nicolás;06763;554
+2021;San Pedro;06770;220
+2021;San Vicente;06778;290
+2021;Suipacha;06784;25
+2021;Tandil;06791;388
+2021;Tapalqué;06798;18
+2021;Tigre;06805;1240
+2021;Tordillo;06812;7
+2021;Tornquist;06819;80
+2021;Trenque Lauquen;06826;129
+2021;Tres Arroyos;06833;184
+2021;Tres de Febrero;06840;948
+2021;Tres Lomas;06847;13
+2021;Vicente López;06861;666
+2021;Villa Gesell;06868;144
+2021;Villarino;06875;96
+2021;Zárate;06882;343
+2022;25 de Mayo;06854;108
+2022;9 de Julio;06588;158
+2022;Adolfo Alsina;06007;49
+2022;Adolfo Gonzales Chaves;06014;38
+2022;Alberti;06021;36
+2022;Almirante Brown;06028;2211
+2022;Arrecifes;06077;119
+2022;Avellaneda;06035;1281
+2022;Ayacucho;06042;39
+2022;Azul;06049;207
+2022;Bahía Blanca;06056;1201
+2022;Balcarce;06063;146
+2022;Baradero;06070;147
+2022;Benito Juárez;06084;54
+2022;Berazategui;06091;1224
+2022;Berisso;06098;363
+2022;Bolívar;06105;105
+2022;Bragado;06112;125
+2022;Brandsen;06119;136
+2022;Campana;06126;442
+2022;Cañuelas;06134;52
+2022;Capitán Sarmiento;06140;77
+2022;Carlos Casares;06147;22
+2022;Carlos Tejedor;06154;51
+2022;Carmen de Areco;06161;25
+2022;Castelli;06168;352
+2022;Chacabuco;06210;173
+2022;Chascomús;06218;137
+2022;Chivilcoy;06224;212
+2022;Colón;06175;95
+2022;Coronel de Marina Leonardo Rosales;06182;186
+2022;Coronel Dorrego;06189;56
+2022;Coronel Pringles;06196;81
+2022;Coronel Suárez;06203;113
+2022;Daireaux;06231;33
+2022;Dolores;06238;79
+2022;Ensenada;06245;254
+2022;Escobar;06252;1039
+2022;Esteban Echeverría;06260;1038
+2022;Exaltación de la Cruz;06266;201
+2022;Ezeiza;06270;797
+2022;Florencio Varela;06274;1856
+2022;Florentino Ameghino;06277;39
+2022;General Alvarado;06280;189
+2022;General Alvear;06287;38
+2022;General Arenales;06294;54
+2022;General Belgrano;06301;74
+2022;General Guido;06308;6
+2022;General Juan Madariaga;06315;66
+2022;General La Madrid;06322;42
+2022;General Las Heras;06329;55
+2022;General Lavalle;06336;13
+2022;General Paz;06343;32
+2022;General Pinto;06351;30
+2022;General Pueyrredón;06357;2669
+2022;General Rodríguez;06364;437
+2022;General San Martín;06371;1402
+2022;General Viamonte;06385;49
+2022;General Villegas;06392;80
+2022;Guaminí;06399;30
+2022;Hipólito Yrigoyen;06406;17
+2022;Hurlingham;06408;641
+2022;Ituzaingó;06410;510
+2022;José C. Paz;06412;564
+2022;Junín;06413;366
+2022;La Costa;06420;375
+2022;La Matanza;06427;4635
+2022;La Plata;06441;3107
+2022;Lanús;06434;1804
+2022;Laprida;06448;40
+2022;Las Flores;06455;77
+2022;Leandro N. Alem;06462;66
+2022;Lezama;06466;10
+2022;Lincoln;06469;129
+2022;Lobería;06476;56
+2022;Lobos;06483;133
+2022;Lomas de Zamora;06490;2095
+2022;Luján;06497;504
+2022;Magdalena;06505;61
+2022;Maipú;06511;38
+2022;Malvinas Argentinas;06515;954
+2022;Mar Chiquita;06518;319
+2022;Marcos Paz;06525;266
+2022;Mercedes;06532;223
+2022;Merlo;06539;1683
+2022;Monte;06547;106
+2022;Monte Hermoso;06553;38
+2022;Moreno;06560;1471
+2022;Morón;06568;1724
+2022;Navarro;06574;42
+2022;Necochea;06581;331
+2022;Olavarría;06595;370
+2022;Patagones;06602;109
+2022;Pehuajó;06609;131
+2022;Pellegrini;06616;22
+2022;Pergamino;06623;386
+2022;Pila;06630;21
+2022;Pilar;06638;1394
+2022;Pinamar;06644;176
+2022;Presidente Perón;06648;389
+2022;Puán;06651;38
+2022;Punta Indio;06655;38
+2022;Quilmes;06658;2052
+2022;Ramallo;06665;163
+2022;Rauch;06672;43
+2022;Rivadavia;06679;48
+2022;Rojas;06686;78
+2022;Roque Pérez;06693;36
+2022;Saavedra;06700;66
+2022;Saladillo;06707;101
+2022;Salliqueló;06721;26
+2022;Salto;06714;123
+2022;San Andrés de Giles;06728;87
+2022;San Antonio de Areco;06735;94
+2022;San Cayetano;06742;18
+2022;San Fernando;06749;629
+2022;San Isidro;06756;1239
+2022;San Miguel;06760;1465
+2022;San Nicolás;06763;639
+2022;San Pedro;06770;215
+2022;San Vicente;06778;382
+2022;Suipacha;06784;28
+2022;Tandil;06791;445
+2022;Tapalqué;06798;27
+2022;Tigre;06805;1506
+2022;Tordillo;06812;13
+2022;Tornquist;06819;83
+2022;Trenque Lauquen;06826;158
+2022;Tres Arroyos;06833;206
+2022;Tres de Febrero;06840;1062
+2022;Tres Lomas;06847;18
+2022;Vicente López;06861;998
+2022;Villa Gesell;06868;188
+2022;Villarino;06875;82
+2022;Zárate;06882;510
+2023;25 de Mayo;06854;85
+2023;9 de Julio;06588;135
+2023;Adolfo Alsina;06007;59
+2023;Adolfo Gonzales Chaves;06014;32
+2023;Alberti;06021;26
+2023;Almirante Brown;06028;1949
+2023;Arrecifes;06077;114
+2023;Avellaneda;06035;1200
+2023;Ayacucho;06042;41
+2023;Azul;06049;200
+2023;Bahía Blanca;06056;1136
+2023;Balcarce;06063;140
+2023;Baradero;06070;144
+2023;Benito Juárez;06084;51
+2023;Berazategui;06091;1068
+2023;Berisso;06098;293
+2023;Bolívar;06105;98
+2023;Bragado;06112;148
+2023;Brandsen;06119;105
+2023;Campana;06126;410
+2023;Cañuelas;06134;50
+2023;Capitán Sarmiento;06140;63
+2023;Carlos Casares;06147;17
+2023;Carlos Tejedor;06154;56
+2023;Carmen de Areco;06161;20
+2023;Castelli;06168;272
+2023;Chacabuco;06210;149
+2023;Chascomús;06218;134
+2023;Chivilcoy;06224;190
+2023;Colón;06175;85
+2023;Coronel de Marina Leonardo Rosales;06182;152
+2023;Coronel Dorrego;06189;38
+2023;Coronel Pringles;06196;74
+2023;Coronel Suárez;06203;114
+2023;Daireaux;06231;33
+2023;Dolores;06238;79
+2023;Ensenada;06245;211
+2023;Escobar;06252;952
+2023;Esteban Echeverría;06260;1042
+2023;Exaltación de la Cruz;06266;197
+2023;Ezeiza;06270;709
+2023;Florencio Varela;06274;1702
+2023;Florentino Ameghino;06277;21
+2023;General Alvarado;06280;156
+2023;General Alvear;06287;36
+2023;General Arenales;06294;42
+2023;General Belgrano;06301;62
+2023;General Guido;06308;6
+2023;General Juan Madariaga;06315;56
+2023;General La Madrid;06322;28
+2023;General Las Heras;06329;58
+2023;General Lavalle;06336;13
+2023;General Paz;06343;42
+2023;General Pinto;06351;42
+2023;General Pueyrredón;06357;2566
+2023;General Rodríguez;06364;407
+2023;General San Martín;06371;1212
+2023;General Viamonte;06385;40
+2023;General Villegas;06392;76
+2023;Guaminí;06399;27
+2023;Hipólito Yrigoyen;06406;21
+2023;Hurlingham;06408;542
+2023;Ituzaingó;06410;500
+2023;José C. Paz;06412;628
+2023;Junín;06413;354
+2023;La Costa;06420;335
+2023;La Matanza;06427;4261
+2023;La Plata;06441;2762
+2023;Lanús;06434;1307
+2023;Laprida;06448;36
+2023;Las Flores;06455;91
+2023;Leandro N. Alem;06462;47
+2023;Lezama;06466;8
+2023;Lincoln;06469;131
+2023;Lobería;06476;32
+2023;Lobos;06483;128
+2023;Lomas de Zamora;06490;2119
+2023;Luján;06497;451
+2023;Magdalena;06505;65
+2023;Maipú;06511;24
+2023;Malvinas Argentinas;06515;917
+2023;Mar Chiquita;06518;241
+2023;Marcos Paz;06525;245
+2023;Mercedes;06532;226
+2023;Merlo;06539;1847
+2023;Monte;06547;70
+2023;Monte Hermoso;06553;44
+2023;Moreno;06560;1685
+2023;Morón;06568;1343
+2023;Navarro;06574;43
+2023;Necochea;06581;365
+2023;Olavarría;06595;432
+2023;Patagones;06602;88
+2023;Pehuajó;06609;108
+2023;Pellegrini;06616;12
+2023;Pergamino;06623;370
+2023;Pila;06630;6
+2023;Pilar;06638;1264
+2023;Pinamar;06644;170
+2023;Presidente Perón;06648;373
+2023;Puán;06651;42
+2023;Punta Indio;06655;32
+2023;Quilmes;06658;2053
+2023;Ramallo;06665;130
+2023;Rauch;06672;26
+2023;Rivadavia;06679;55
+2023;Rojas;06686;72
+2023;Roque Pérez;06693;41
+2023;Saavedra;06700;66
+2023;Saladillo;06707;102
+2023;Salliqueló;06721;19
+2023;Salto;06714;116
+2023;San Andrés de Giles;06728;85
+2023;San Antonio de Areco;06735;74
+2023;San Cayetano;06742;22
+2023;San Fernando;06749;554
+2023;San Isidro;06756;1218
+2023;San Miguel;06760;1379
+2023;San Nicolás;06763;603
+2023;San Pedro;06770;217
+2023;San Vicente;06778;388
+2023;Suipacha;06784;29
+2023;Tandil;06791;422
+2023;Tapalqué;06798;30
+2023;Tigre;06805;1278
+2023;Tordillo;06812;6
+2023;Tornquist;06819;54
+2023;Trenque Lauquen;06826;131
+2023;Tres Arroyos;06833;163
+2023;Tres de Febrero;06840;952
+2023;Tres Lomas;06847;24
+2023;Vicente López;06861;826
+2023;Villa Gesell;06868;178
+2023;Villarino;06875;85
+2023;Zárate;06882;505
+2024;25 de Mayo;06854;84
+2024;9 de Julio;06588;137
+2024;Adolfo Alsina;06007;39
+2024;Adolfo Gonzales Chaves;06014;26
+2024;Alberti;06021;38
+2024;Almirante Brown;06028;1796
+2024;Arrecifes;06077;94
+2024;Avellaneda;06035;1015
+2024;Ayacucho;06042;44
+2024;Azul;06049;203
+2024;Bahía Blanca;06056;1091
+2024;Balcarce;06063;142
+2024;Baradero;06070;138
+2024;Benito Juárez;06084;52
+2024;Berazategui;06091;1036
+2024;Berisso;06098;269
+2024;Bolívar;06105;88
+2024;Bragado;06112;102
+2024;Brandsen;06119;95
+2024;Campana;06126;372
+2024;Cañuelas;06134;46
+2024;Capitán Sarmiento;06140;52
+2024;Carlos Casares;06147;23
+2024;Carlos Tejedor;06154;51
+2024;Carmen de Areco;06161;20
+2024;Castelli;06168;240
+2024;Chacabuco;06210;160
+2024;Chascomús;06218;135
+2024;Chivilcoy;06224;159
+2024;Colón;06175;76
+2024;Coronel de Marina Leonardo Rosales;06182;160
+2024;Coronel Dorrego;06189;38
+2024;Coronel Pringles;06196;65
+2024;Coronel Suárez;06203;83
+2024;Daireaux;06231;32
+2024;Dolores;06238;84
+2024;Ensenada;06245;191
+2024;Escobar;06252;975
+2024;Esteban Echeverría;06260;1046
+2024;Exaltación de la Cruz;06266;145
+2024;Ezeiza;06270;671
+2024;Florencio Varela;06274;1422
+2024;Florentino Ameghino;06277;27
+2024;General Alvarado;06280;140
+2024;General Alvear;06287;27
+2024;General Arenales;06294;42
+2024;General Belgrano;06301;56
+2024;General Guido;06308;5
+2024;General Juan Madariaga;06315;72
+2024;General La Madrid;06322;30
+2024;General Las Heras;06329;34
+2024;General Lavalle;06336;10
+2024;General Paz;06343;39
+2024;General Pinto;06351;28
+2024;General Pueyrredón;06357;2396
+2024;General Rodríguez;06364;458
+2024;General San Martín;06371;1125
+2024;General Viamonte;06385;33
+2024;General Villegas;06392;84
+2024;Guaminí;06399;28
+2024;Hipólito Yrigoyen;06406;28
+2024;Hurlingham;06408;499
+2024;Ituzaingó;06410;555
+2024;José C. Paz;06412;735
+2024;Junín;06413;359
+2024;La Costa;06420;350
+2024;La Matanza;06427;3969
+2024;La Plata;06441;2716
+2024;Lanús;06434;1238
+2024;Laprida;06448;42
+2024;Las Flores;06455;58
+2024;Leandro N. Alem;06462;49
+2024;Lezama;06466;14
+2024;Lincoln;06469;100
+2024;Lobería;06476;31
+2024;Lobos;06483;117
+2024;Lomas de Zamora;06490;1906
+2024;Luján;06497;389
+2024;Magdalena;06505;43
+2024;Maipú;06511;42
+2024;Malvinas Argentinas;06515;968
+2024;Mar Chiquita;06518;162
+2024;Marcos Paz;06525;222
+2024;Mercedes;06532;244
+2024;Merlo;06539;1589
+2024;Monte;06547;85
+2024;Monte Hermoso;06553;43
+2024;Moreno;06560;1654
+2024;Morón;06568;1162
+2024;Navarro;06574;54
+2024;Necochea;06581;326
+2024;Olavarría;06595;384
+2024;Patagones;06602;74
+2024;Pehuajó;06609;102
+2024;Pellegrini;06616;12
+2024;Pergamino;06623;378
+2024;Pila;06630;8
+2024;Pilar;06638;1303
+2024;Pinamar;06644;130
+2024;Presidente Perón;06648;301
+2024;Puán;06651;43
+2024;Punta Indio;06655;23
+2024;Quilmes;06658;1887
+2024;Ramallo;06665;120
+2024;Rauch;06672;21
+2024;Rivadavia;06679;41
+2024;Rojas;06686;52
+2024;Roque Pérez;06693;39
+2024;Saavedra;06700;70
+2024;Saladillo;06707;73
+2024;Salliqueló;06721;21
+2024;Salto;06714;112
+2024;San Andrés de Giles;06728;66
+2024;San Antonio de Areco;06735;83
+2024;San Cayetano;06742;16
+2024;San Fernando;06749;482
+2024;San Isidro;06756;1191
+2024;San Miguel;06760;1223
+2024;San Nicolás;06763;563
+2024;San Pedro;06770;181
+2024;San Vicente;06778;339
+2024;Suipacha;06784;33
+2024;Tandil;06791;397
+2024;Tapalqué;06798;33
+2024;Tigre;06805;1208
+2024;Tordillo;06812;3
+2024;Tornquist;06819;56
+2024;Trenque Lauquen;06826;127
+2024;Tres Arroyos;06833;181
+2024;Tres de Febrero;06840;928
+2024;Tres Lomas;06847;23
+2024;Vicente López;06861;765
+2024;Villa Gesell;06868;149
+2024;Villarino;06875;82
+2024;Zárate;06882;458
+2025;25 de Mayo;06854;92
+2025;9 de Julio;06588;105
+2025;Adolfo Alsina;06007;44
+2025;Adolfo Gonzales Chaves;06014;20
+2025;Alberti;06021;17
+2025;Almirante Brown;06028;1579
+2025;Arrecifes;06077;98
+2025;Avellaneda;06035;989
+2025;Ayacucho;06042;50
+2025;Azul;06049;163
+2025;Bahía Blanca;06056;951
+2025;Balcarce;06063;118
+2025;Baradero;06070;124
+2025;Benito Juárez;06084;39
+2025;Berazategui;06091;1017
+2025;Berisso;06098;291
+2025;Bolívar;06105;76
+2025;Bragado;06112;94
+2025;Brandsen;06119;93
+2025;Campana;06126;330
+2025;Cañuelas;06134;49
+2025;Capitán Sarmiento;06140;56
+2025;Carlos Casares;06147;14
+2025;Carlos Tejedor;06154;39
+2025;Carmen de Areco;06161;22
+2025;Castelli;06168;236
+2025;Chacabuco;06210;110
+2025;Chascomús;06218;107
+2025;Chivilcoy;06224;130
+2025;Colón;06175;63
+2025;Coronel de Marina Leonardo Rosales;06182;142
+2025;Coronel Dorrego;06189;37
+2025;Coronel Pringles;06196;54
+2025;Coronel Suárez;06203;98
+2025;Daireaux;06231;44
+2025;Dolores;06238;68
+2025;Ensenada;06245;162
+2025;Escobar;06252;904
+2025;Esteban Echeverría;06260;888
+2025;Exaltación de la Cruz;06266;144
+2025;Ezeiza;06270;626
+2025;Florencio Varela;06274;1372
+2025;Florentino Ameghino;06277;21
+2025;General Alvarado;06280;154
+2025;General Alvear;06287;19
+2025;General Arenales;06294;40
+2025;General Belgrano;06301;51
+2025;General Guido;06308;4
+2025;General Juan Madariaga;06315;89
+2025;General La Madrid;06322;20
+2025;General Las Heras;06329;40
+2025;General Lavalle;06336;8
+2025;General Paz;06343;34
+2025;General Pinto;06351;26
+2025;General Pueyrredón;06357;2119
+2025;General Rodríguez;06364;394
+2025;General San Martín;06371;943
+2025;General Viamonte;06385;41
+2025;General Villegas;06392;88
+2025;Guaminí;06399;22
+2025;Hipólito Yrigoyen;06406;18
+2025;Hurlingham;06408;472
+2025;Ituzaingó;06410;499
+2025;José C. Paz;06412;691
+2025;Junín;06413;291
+2025;La Costa;06420;316
+2025;La Matanza;06427;3456
+2025;La Plata;06441;2385
+2025;Lanús;06434;1119
+2025;Laprida;06448;42
+2025;Las Flores;06455;51
+2025;Leandro N. Alem;06462;47
+2025;Lezama;06466;12
+2025;Lincoln;06469;82
+2025;Lobería;06476;29
+2025;Lobos;06483;116
+2025;Lomas de Zamora;06490;1691
+2025;Luján;06497;345
+2025;Magdalena;06505;54
+2025;Maipú;06511;25
+2025;Malvinas Argentinas;06515;862
+2025;Mar Chiquita;06518;161
+2025;Marcos Paz;06525;209
+2025;Mercedes;06532;193
+2025;Merlo;06539;1408
+2025;Monte;06547;62
+2025;Monte Hermoso;06553;42
+2025;Moreno;06560;1569
+2025;Morón;06568;1022
+2025;Navarro;06574;49
+2025;Necochea;06581;281
+2025;Olavarría;06595;281
+2025;Patagones;06602;71
+2025;Pehuajó;06609;99
+2025;Pellegrini;06616;19
+2025;Pergamino;06623;337
+2025;Pila;06630;6
+2025;Pilar;06638;1189
+2025;Pinamar;06644;110
+2025;Presidente Perón;06648;318
+2025;Puán;06651;38
+2025;Punta Indio;06655;28
+2025;Quilmes;06658;1672
+2025;Ramallo;06665;108
+2025;Rauch;06672;31
+2025;Rivadavia;06679;44
+2025;Rojas;06686;59
+2025;Roque Pérez;06693;37
+2025;Saavedra;06700;58
+2025;Saladillo;06707;96
+2025;Salliqueló;06721;18
+2025;Salto;06714;117
+2025;San Andrés de Giles;06728;74
+2025;San Antonio de Areco;06735;71
+2025;San Cayetano;06742;15
+2025;San Fernando;06749;448
+2025;San Isidro;06756;1102
+2025;San Miguel;06760;1089
+2025;San Nicolás;06763;492
+2025;San Pedro;06770;158
+2025;San Vicente;06778;343
+2025;Suipacha;06784;26
+2025;Tandil;06791;418
+2025;Tapalqué;06798;26
+2025;Tigre;06805;1179
+2025;Tordillo;06812;7
+2025;Tornquist;06819;58
+2025;Trenque Lauquen;06826;103
+2025;Tres Arroyos;06833;169
+2025;Tres de Febrero;06840;796
+2025;Tres Lomas;06847;15
+2025;Vicente López;06861;655
+2025;Villa Gesell;06868;161
+2025;Villarino;06875;66
+2025;Zárate;06882;396
+2026;Adolfo Alsina;06007;25
+2026;Adolfo Gonzales Chaves;06014;18
+2026;Alberti;06021;19
+2026;Almirante Brown;06028;963
+2026;Avellaneda;06035;604
+2026;Ayacucho;06042;22
+2026;Azul;06049;116
+2026;Bahía Blanca;06056;673
+2026;Balcarce;06063;65
+2026;Baradero;06070;83
+2026;Arrecifes;06077;70
+2026;Benito Juárez;06084;27
+2026;Berazategui;06091;630
+2026;Berisso;06098;145
+2026;Bolívar;06105;51
+2026;Bragado;06112;68
+2026;Brandsen;06119;66
+2026;Campana;06126;206
+2026;Cañuelas;06134;128
+2026;Capitán Sarmiento;06140;23
+2026;Carlos Casares;06147;29
+2026;Carlos Tejedor;06154;15
+2026;Carmen de Areco;06161;25
+2026;Castelli;06168;13
+2026;Colón;06175;47
+2026;Coronel de Marina Leonardo Rosales;06182;66
+2026;Coronel Dorrego;06189;22
+2026;Coronel Pringles;06196;42
+2026;Coronel Suárez;06203;58
+2026;Chacabuco;06210;59
+2026;Chascomús;06218;75
+2026;Chivilcoy;06224;95
+2026;Daireaux;06231;27
+2026;Dolores;06238;52
+2026;Ensenada;06245;88
+2026;Escobar;06252;586
+2026;Esteban Echeverría;06260;578
+2026;Exaltación de la Cruz;06266;90
+2026;Ezeiza;06270;420
+2026;Florencio Varela;06274;912
+2026;Florentino Ameghino;06277;16
+2026;General Alvarado;06280;100
+2026;General Alvear;06287;13
+2026;General Arenales;06294;25
+2026;General Belgrano;06301;30
+2026;General Guido;06308;1
+2026;General Juan Madariaga;06315;54
+2026;General La Madrid;06322;28
+2026;General Las Heras;06329;36
+2026;General Lavalle;06336;9
+2026;General Paz;06343;23
+2026;General Pinto;06351;16
+2026;General Pueyrredón;06357;1426
+2026;General Rodríguez;06364;266
+2026;General San Martín;06371;589
+2026;General Viamonte;06385;17
+2026;General Villegas;06392;56
+2026;Guaminí;06399;16
+2026;Hipólito Yrigoyen;06406;21
+2026;Hurlingham;06408;271
+2026;Ituzaingó;06410;291
+2026;José C. Paz;06412;455
+2026;Junín;06413;198
+2026;La Costa;06420;222
+2026;La Matanza;06427;2176
+2026;Lanús;06434;635
+2026;La Plata;06441;1476
+2026;Laprida;06448;23
+2026;Las Flores;06455;30
+2026;Leandro N. Alem;06462;41
+2026;Lezama;06466;1
+2026;Lincoln;06469;53
+2026;Lobería;06476;19
+2026;Lobos;06483;64
+2026;Lomas de Zamora;06490;1109
+2026;Luján;06497;245
+2026;Magdalena;06505;21
+2026;Maipú;06511;26
+2026;Malvinas Argentinas;06515;595
+2026;Mar Chiquita;06518;98
+2026;Marcos Paz;06525;126
+2026;Mercedes;06532;126
+2026;Merlo;06539;911
+2026;Monte;06547;44
+2026;Monte Hermoso;06553;22
+2026;Moreno;06560;1013
+2026;Morón;06568;585
+2026;Navarro;06574;30
+2026;Necochea;06581;192
+2026;9 de Julio;06588;72
+2026;Olavarría;06595;196
+2026;Patagones;06602;32
+2026;Pehuajó;06609;45
+2026;Pellegrini;06616;8
+2026;Pergamino;06623;205
+2026;Pila;06630;3
+2026;Pilar;06638;744
+2026;Pinamar;06644;72
+2026;Presidente Perón;06648;203
+2026;Puán;06651;22
+2026;Punta Indio;06655;21
+2026;Quilmes;06658;1070
+2026;Ramallo;06665;60
+2026;Rauch;06672;13
+2026;Rivadavia;06679;31
+2026;Rojas;06686;29
+2026;Roque Pérez;06693;24
+2026;Saavedra;06700;40
+2026;Saladillo;06707;67
+2026;Salto;06714;73
+2026;Salliqueló;06721;10
+2026;San Andrés de Giles;06728;42
+2026;San Antonio de Areco;06735;43
+2026;San Cayetano;06742;10
+2026;San Fernando;06749;280
+2026;San Isidro;06756;638
+2026;San Miguel;06760;720
+2026;San Nicolás;06763;310
+2026;San Pedro;06770;83
+2026;San Vicente;06778;241
+2026;Suipacha;06784;17
+2026;Tandil;06791;251
+2026;Tapalqué;06798;7
+2026;Tigre;06805;689
+2026;Tordillo;06812;3
+2026;Tornquist;06819;31
+2026;Trenque Lauquen;06826;78
+2026;Tres Arroyos;06833;113
+2026;Tres de Febrero;06840;486
+2026;Tres Lomas;06847;13
+2026;25 de Mayo;06854;60
+2026;Vicente López;06861;329
+2026;Villa Gesell;06868;75
+2026;Villarino;06875;50
+2026;Zárate;06882;247
